@@ -37,7 +37,41 @@
 
 + 
 
-  
+
+
+
+## `Go`
+
+
+
+## `JavaScript`
+
+
+
+
+
+# 大前端
+
+前端常用框架技术的点，包括Web端、移动端等
+
+## `Web`端
+
++ [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
+
++ [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
+
++ [carlo](https://github.com/GoogleChromeLabs/carlo) - Node和浏览器之间进行通信
+
++ [eva-icons](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
+
++ [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
+
++ [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
+
+## 移动端
+
++ [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
+
 
 
 
@@ -47,9 +81,9 @@
 
 ## 算法
 
-+ ### [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
++ [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
 
-+ ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
++ [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 
 + 
 
@@ -64,7 +98,11 @@
 
 ## 区块链
 
+## 人工智能
 
++ [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
+
++ 
 
 # 系统
 
@@ -73,28 +111,16 @@
 ## 设计
 + [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
 
+## 虚拟机
+
++ [firecracker](https://github.com/firecracker-microvm/firecracker) - 安全，快速的`microVM`，适用于无服务器计算。
+
++ 
+
 
 # 工具
 
 在编程中常用的工具
-
-
-
-# 大前端
-
-前端常用框架技术的点，包括Web端、移动端等
-
-## `Web`端
-
-+ [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
-
-+ [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
-
-+ 
-
-## 移动端
-
-+ [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
 
 
@@ -103,7 +129,8 @@
 系统运维人员需要掌握或运营的知识点
 
 + [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。特别是对于系统和网络管理员，DevOps，Pentesters或安全研究人员。
-+ 
+
++ [edex-ui](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
 
 # 综合
 
