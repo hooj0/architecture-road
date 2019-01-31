@@ -19,6 +19,8 @@
 
 # 语言
 
+各种编程语言的教程、热门框架、技术等
+
 ## `Python`
 
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
@@ -40,6 +42,8 @@
 
 
 # 架构
+
+有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
 ## 算法
 
@@ -63,17 +67,22 @@
 
 
 # 系统
+
+有关系统的设计和操作相关的知识点
+
 ## 设计
 + [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
 
 
 # 工具
 
-
+在编程中常用的工具
 
 
 
 # 大前端
+
+前端常用框架技术的点，包括Web端、移动端等
 
 ## `Web`端
 
@@ -91,11 +100,14 @@
 
 # 运维
 
+系统运维人员需要掌握或运营的知识点
+
 + [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。特别是对于系统和网络管理员，DevOps，Pentesters或安全研究人员。
 + 
 
-
 # 综合
+
+大杂烩式的仓库
 
 + [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
 + [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
