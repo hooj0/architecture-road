@@ -19,11 +19,52 @@
 
 # 语言
 
+## `Python`
+
++ [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
++ [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
++ [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
++ [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
++ 
+
+
+
+## `Java`
+
++ [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
+
++ 
+
+  
+
+
 
 # 架构
 
+## 算法
+
++ ### [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
+
++ ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
+
++ 
+
+## 设计模式
+
+## 数据结构
+
+## 集群
++ [apollo](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
+
+## 大数据
+
+## 区块链
+
+
 
 # 系统
+## 设计
++ [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
 
 
 # 工具
@@ -57,7 +98,4 @@
 # 综合
 
 + [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
-
-+ ### [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
-
-+ 
++ [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
