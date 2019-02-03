@@ -106,6 +106,7 @@
 
 ## 虚拟化
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
++ [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
@@ -127,7 +128,8 @@
 # 工具
 
 在编程中常用的工具
-
+## makedown
++ [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 
 
 # 运维
