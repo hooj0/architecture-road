@@ -84,10 +84,8 @@
 ## 算法
 
 + [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
-
 + [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
-
-+ 
++ [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
 
 ## 设计模式
 
