@@ -47,7 +47,9 @@
 ## `JavaScript`
 
 
-
+## `Shell`
++ [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
++ 
 
 
 # 大前端
@@ -139,6 +141,7 @@
 + [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。特别是对于系统和网络管理员，DevOps，Pentesters或安全研究人员。
 
 + [edex-ui](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
+
 
 # 综合
 
