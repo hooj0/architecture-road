@@ -22,17 +22,21 @@
 各种编程语言的教程、热门框架、技术等
 
 ## `Python`
+### `Tutorial`
 
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
 + [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 + [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
 + [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
-+ 
+
+### `Library`
++ [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
 
 
 
 ## `Java`
-
+### `Tutorial`
+### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 
 + 
@@ -41,13 +45,17 @@
 
 
 ## `Go`
-
+### `Tutorial`
+### `Library`
 
 
 ## `JavaScript`
-
+### `Tutorial`
+### `Library`
 
 ## `Shell`
+### `Tutorial`
+### `Library`
 + [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
 + 
 
