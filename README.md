@@ -51,6 +51,7 @@
 
 ## `JavaScript`
 ### `Tutorial`
++ [`wtfjs`](https://github.com/denysdovhan/wtfjs) - JavaScript 小技巧、难点。
 ### `Library`
 
 ## `Shell`
@@ -67,16 +68,12 @@
 ## `Web`端
 
 + [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
-
 + [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
-
 + [carlo](https://github.com/GoogleChromeLabs/carlo) - Node和浏览器之间进行通信
-
 + [eva-icons](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
-
 + [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
-
 + [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
++ [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 
 ## 移动端
 
@@ -107,7 +104,7 @@
 ## 区块链
 
 ## 人工智能
-
+### 深度学习
 + [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
 
 + [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
@@ -115,6 +112,11 @@
 ## 虚拟化
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
+
+## 网络
+### 协议
++ [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级RPC框架，拥有1,000,000多个实例和数千种服务，在百度内部称为“baidu-rpc”。
++ 
 
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
