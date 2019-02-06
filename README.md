@@ -79,7 +79,9 @@
 
 + [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
-
+## PC端
++ [`electron`](https://github.com/electron) - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序，此应用程序适用于 Windows, macOS 和 Linux 操作系统
++ [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 Electron API 的核心特性
 
 
 # 架构
@@ -138,9 +140,12 @@
 # 工具
 
 在编程中常用的工具
-## makedown
+## `makedown`
 + [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 
+## `Git`
+- [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有Github贡献的图像
+- 
 
 # 运维
 
