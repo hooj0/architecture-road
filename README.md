@@ -73,6 +73,7 @@
 + [eva-icons](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
 + [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
 + [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
++ [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的JavaScript库
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 
 ## 移动端
@@ -120,6 +121,8 @@
 + [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级RPC框架，拥有1,000,000多个实例和数千种服务，在百度内部称为“baidu-rpc”。
 + 
 
+## 数据库
++ [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - SQL优化器和重写器
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
