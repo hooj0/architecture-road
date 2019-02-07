@@ -145,7 +145,9 @@
 在编程中常用的工具
 ## `makedown`
 + [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
-
++ [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`makedown`编辑器（组件）
++ [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
++ [`github-markdown-toc`](https://github.com/ekalinin/github-markdown-toc) - 为`GitHub README.md`创建简单的`TOC`
 ## `Git`
 - [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有Github贡献的图像
 - 
