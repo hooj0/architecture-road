@@ -126,6 +126,7 @@
 
 ## 数据库
 + [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - SQL优化器和重写器
++ [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
