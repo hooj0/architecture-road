@@ -100,8 +100,11 @@
 ## 数据结构
 
 ## 集群
+### 配置管理
 + [apollo](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
-
+### 日志管理
++ [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
++ [docker-elk](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
 ## 大数据
 
 ## 区块链
