@@ -76,11 +76,11 @@
 + [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的JavaScript库
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 
-## 移动端
+## `Mobile`端
 
 + [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
-## PC端
+## `PC`端
 + [`electron`](https://github.com/electron) - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序，此应用程序适用于 Windows, macOS 和 Linux 操作系统
 + [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 Electron API 的核心特性
 
