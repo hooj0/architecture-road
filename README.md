@@ -52,6 +52,8 @@
 ## `JavaScript`
 ### `Tutorial`
 + [`wtfjs`](https://github.com/denysdovhan/wtfjs) - JavaScript 小技巧、难点。
++ [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - TypeScript手册是TypeScript语言的综合指南
++ 
 ### `Library`
 
 ## `Shell`
@@ -183,5 +185,5 @@
 
 + [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
 + [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
-
++ [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
 
