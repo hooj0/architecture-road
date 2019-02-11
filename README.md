@@ -111,6 +111,8 @@
 ## 大数据
 
 ## 区块链
++ [`Composer`](https://github.com/hyperledger/composer) - Composer是构建区块链业务网络的框架
++ 
 
 ## 人工智能
 ### 深度学习
@@ -155,7 +157,8 @@
 
 + [firecracker](https://github.com/firecracker-microvm/firecracker) - 安全，快速的`microVM`，适用于无服务器计算。
 
-+ 
+## 构建
++ [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
 
 
 # 开发工具
