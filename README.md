@@ -36,6 +36,7 @@
 
 ## `Java`
 ### `Tutorial`
++ [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分Java程序员所需要掌握的核心知识。
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 
