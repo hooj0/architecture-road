@@ -23,7 +23,7 @@
 
 ## `Python`
 ### `Tutorial`
-+ [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - `Python`实现30秒的代码
++ [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - 30秒掌握`Python`实现的代码
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
 + [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 + [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
@@ -190,4 +190,7 @@
 + [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
 + [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 + [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
+
+# 面试
++ [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
 
