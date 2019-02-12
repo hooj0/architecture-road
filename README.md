@@ -23,15 +23,14 @@
 
 ## `Python`
 ### `Tutorial`
-
++ [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - `Python`实现30秒的代码
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
 + [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
-+ [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
 + [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
 
 ### `Library`
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
-
++ [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
 
 
 ## `Java`
