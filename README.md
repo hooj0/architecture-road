@@ -37,6 +37,7 @@
 ## `Java`
 ### `Tutorial`
 + [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分Java程序员所需要掌握的核心知识。
++ [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 
