@@ -59,6 +59,7 @@
 + 
 ### `Library`
 + [`grpc-web`](https://github.com/improbable-eng/grpc-web) - Golang和TypeScript的gRPC Web实现
++ [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于Web客户端的gRPC
 
 ## `Shell`
 ### `Tutorial`
@@ -116,7 +117,7 @@
 
 ## 区块链
 + [`Composer`](https://github.com/hyperledger/composer) - Composer是构建区块链业务网络的框架
-+ 
++ [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 
 ## 人工智能
 ### 深度学习
@@ -127,6 +128,8 @@
 ## 虚拟化
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
++ [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整VirtualBox中磁盘大小的Vagrant插件 
++ 
 
 ## 网络
 ### 协议
