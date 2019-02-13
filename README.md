@@ -39,7 +39,7 @@
 + [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
-
++ [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
 + [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - Spring Cloud阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 
 
@@ -53,9 +53,12 @@
 ## `JavaScript`
 ### `Tutorial`
 + [`wtfjs`](https://github.com/denysdovhan/wtfjs) - JavaScript 小技巧、难点。
++ [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个JavaScript开发人员应该知道33个概念。
++ [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
 + [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - TypeScript手册是TypeScript语言的综合指南
 + 
 ### `Library`
++ [`grpc-web`](https://github.com/improbable-eng/grpc-web) - Golang和TypeScript的gRPC Web实现
 
 ## `Shell`
 ### `Tutorial`
@@ -69,7 +72,7 @@
 前端常用框架技术的点，包括Web端、移动端等
 
 ## `Web`端
-
++ [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用CSS片段集合，您可以在30秒或更短的时间内理解这些片段。
 + [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 + [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
 + [carlo](https://github.com/GoogleChromeLabs/carlo) - Node和浏览器之间进行通信
