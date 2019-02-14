@@ -132,6 +132,7 @@
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 + [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整VirtualBox中磁盘大小的Vagrant插件 
 + [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - Docker Swarm模式的可视化工具，使用Docker Remote API，Node.JS和D3
++ [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
 
 ## 网络
 ### 协议
