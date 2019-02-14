@@ -38,6 +38,7 @@
 + [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分Java程序员所需要掌握的核心知识。
 + [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
 + [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的Java 8片段。
++ [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、Java开发、后端/服务端、面试相关
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 + [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
@@ -51,6 +52,7 @@
 + [`gostart`](https://github.com/alco/gostart) - Go新手入门指南
 ### `Library`
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
+- [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及。
 
 ## `JavaScript`
 ### `Tutorial`
@@ -120,7 +122,8 @@
 ## 区块链
 + [`Composer`](https://github.com/hyperledger/composer) - Composer是构建区块链业务网络的框架
 + [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
-
++ [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
++ 
 ## 人工智能
 ### 深度学习
 + [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
@@ -133,6 +136,8 @@
 + [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整VirtualBox中磁盘大小的Vagrant插件 
 + [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - Docker Swarm模式的可视化工具，使用Docker Remote API，Node.JS和D3
 + [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
++ [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
++ 
 
 ## 网络
 ### 协议
