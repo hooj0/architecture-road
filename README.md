@@ -30,13 +30,14 @@
 
 ### `Library`
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
-+ [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
-
++ [`loguru`](https://github.com/Delgan/loguru) - Python日志记录变得简单
++ [`wait-for-it`](https://github.com/vishnubob/wait-for-it) - 纯bash脚本，用于测试和等待TCP主机和端口的可用性
 
 ## `Java`
 ### `Tutorial`
 + [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分Java程序员所需要掌握的核心知识。
 + [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
++ [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的Java 8片段。
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 + [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
@@ -130,7 +131,7 @@
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 + [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整VirtualBox中磁盘大小的Vagrant插件 
-+ 
++ [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - Docker Swarm模式的可视化工具，使用Docker Remote API，Node.JS和D3
 
 ## 网络
 ### 协议
