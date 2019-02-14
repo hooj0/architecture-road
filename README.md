@@ -20,6 +20,7 @@
 # 语言
 
 各种编程语言的教程、热门框架、技术等
++ [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
 
 ## `Python`
 ### `Tutorial`
@@ -52,6 +53,7 @@
 ## `Go`
 ### `Tutorial`
 + [`gostart`](https://github.com/alco/gostart) - Go新手入门指南
++ [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - Go语法和功能概述
 ### `Library`
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及。
