@@ -44,6 +44,8 @@
 + [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
 + [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - Spring Cloud阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 + [`arthas`](https://github.com/alibaba/arthas) - Java诊断利器Arthas
++ [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
++ 
 
 
 
@@ -137,6 +139,8 @@
 + [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - Docker Swarm模式的可视化工具，使用Docker Remote API，Node.JS和D3
 + [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
 + [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
++ [`swarmprom`](https://github.com/stefanprodan/swarmprom) - Docker Swarm仪器与Prometheus，Grafana，cAdvisor，节点导出器和警报管理器
++ [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
 + 
 
 ## 网络
