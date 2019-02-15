@@ -49,6 +49,7 @@
 + [`arthas`](https://github.com/alibaba/arthas) - Java诊断利器Arthas
 + [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
 + [`protostuff`](https://github.com/protostuff/protostuff) - Java序列化库，proto编译器，代码生成器
++ [`jansi`](https://github.com/fusesource/jansi) - Jansi是一个小型java库，允许您使用ANSI转义序列来格式化控制台输出，甚至可以在Windows上运行。
 + 
 
 
@@ -107,6 +108,7 @@
 + [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 Electron API 的核心特性
 
 
+
 # 架构
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
@@ -127,6 +129,8 @@
 ### 日志管理
 + [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
 + [docker-elk](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
++ [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - Jenkins ANSI Color Plugin
+
 
 ## 微服务
 + [`istio`](https://github.com/istio/istio) - 一个连接，管理和保护微服务的开放平台
@@ -180,6 +184,7 @@
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
+
 # 操作系统
 
 有关系统的设计和操作相关的知识点
@@ -208,6 +213,11 @@
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - Git的使用方法，在遇到问题后如何处理。
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 
+## `Eclipse`
+- [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - Eclipse插件，它理解ANSI转义序列以为Eclipse控制台输出着色
+- 
+
+
 # 运维
 
 系统运维人员需要掌握或运营的知识点
@@ -225,8 +235,10 @@
 + [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 + [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
 
+
 # 面试
 + [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
+
 
 # 写博客
 - [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - Hexo的优雅主题
