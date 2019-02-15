@@ -195,6 +195,7 @@
 ## `Git`
 - [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有Github贡献的图像
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - Git的使用方法，在遇到问题后如何处理。
+- [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 
 # 运维
 
