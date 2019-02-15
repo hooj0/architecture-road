@@ -43,6 +43,8 @@
 + [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
 + [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的Java 8片段。
 + [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、Java开发、后端/服务端、面试相关
++ [`java 11-examples`](https://github.com/biezhi/java11-examples) - java 11示例代码
++ 
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 + [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
