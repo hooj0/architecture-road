@@ -54,6 +54,7 @@
 ### `Tutorial`
 + [`gostart`](https://github.com/alco/gostart) - Go新手入门指南
 + [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - Go语法和功能概述
++ [`example.v2`](https://github.com/gopcp/example.v2) - 《Go并发编程实战》第2版
 ### `Library`
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及。
@@ -91,6 +92,7 @@
 + [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
 + [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的JavaScript库
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
++ [`element`](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包
 
 ## `Mobile`端
 
@@ -136,6 +138,7 @@
 + [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
 
 ## 虚拟化
++ [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - docker 学习教程
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 + [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整VirtualBox中磁盘大小的Vagrant插件 
