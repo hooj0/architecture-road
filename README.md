@@ -61,7 +61,8 @@
 + [`example.v2`](https://github.com/gopcp/example.v2) - 《Go并发编程实战》第2版
 ### `Library`
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
-- [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及。
+- [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及
+- [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建ANSI彩色字符串和代码
 
 ## `JavaScript`
 ### `Tutorial`
