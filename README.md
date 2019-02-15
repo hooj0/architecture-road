@@ -71,6 +71,7 @@
 
 ## `Shell`
 ### `Tutorial`
++ [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
 ### `Library`
 + [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
 + 
