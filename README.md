@@ -28,6 +28,9 @@
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
 + [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 + [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
++ [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
++ [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - Python 学习示例
+
 
 ### `Library`
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
@@ -43,9 +46,9 @@
 ### `Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 + [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
-+ [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - Spring Cloud阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 + [`arthas`](https://github.com/alibaba/arthas) - Java诊断利器Arthas
 + [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
++ [`protostuff`](https://github.com/protostuff/protostuff) - Java序列化库，proto编译器，代码生成器
 + 
 
 
@@ -127,6 +130,8 @@
 
 ## 微服务
 + [`istio`](https://github.com/istio/istio) - 一个连接，管理和保护微服务的开放平台
++ [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - Spring Cloud阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
++ 
 ## 大数据
 
 ## 区块链
@@ -223,3 +228,6 @@
 # 面试
 + [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
 
+# 写博客
+- [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - Hexo的优雅主题。
+- 
