@@ -121,6 +121,7 @@
 + [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
 + [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 + [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
++ [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对LeetCode算法问题的解决方案，100％覆盖率，不断更新。
 
 ## 设计模式
 
