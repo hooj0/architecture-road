@@ -229,5 +229,6 @@
 + [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
 
 # 写博客
-- [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - Hexo的优雅主题。
-- 
+- [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - Hexo的优雅主题
+- [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的Hexo主题从icylogic分叉
+- [`hexo`](https://github.com/hexojs/hexo) - 一个快速，简单和强大的博客框架，由Node.js提供支持
