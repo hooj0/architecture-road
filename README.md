@@ -39,7 +39,7 @@
 + [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
 + [`protostuff`](https://github.com/protostuff/protostuff) - Java序列化库，proto编译器，代码生成器
 + [`jansi`](https://github.com/fusesource/jansi) - Jansi是一个小型java库，允许您使用ANSI转义序列来格式化控制台输出，甚至可以在Windows上运行。
-+ 
++ [`jib`](https://github.com/GoogleContainerTools/jib) - 为Java应用程序构建`docker`容器映像
 
 ## `Python`
 ### `Tutorial`
@@ -101,6 +101,7 @@
 + [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的JavaScript库
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 + [`element`](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包
++ [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
 
 ## `Mobile`端
 
@@ -224,6 +225,8 @@
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - Eclipse插件，它理解ANSI转义序列以为Eclipse控制台输出着色
 - 
 
+## `UML`
+- [`drawio-desktop`](https://github.com/jgraph/drawio-desktop) - `draw.io`的官方电子版本
 
 # 运维
 
