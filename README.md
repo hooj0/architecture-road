@@ -74,6 +74,7 @@
 + [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
 + [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - TypeScript手册是TypeScript语言的综合指南
 + [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于JavaScript的系列丛书
++ [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
 ### `Library`
 + [`grpc-web`](https://github.com/improbable-eng/grpc-web) - Golang和TypeScript的gRPC Web实现
 + [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于Web客户端的gRPC
