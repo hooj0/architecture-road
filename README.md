@@ -43,6 +43,7 @@
 + [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
 + [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的Java 8片段。
 + [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、Java开发、后端/服务端、面试相关
++ [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 Java 8》视频课程源码
 + [`java 11-examples`](https://github.com/biezhi/java11-examples) - java 11示例代码
 + 
 ### `Library`
@@ -122,6 +123,8 @@
 + [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 + [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
 + [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对LeetCode算法问题的解决方案，100％覆盖率，不断更新。
++ [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和LeetCode解决方案
++ 
 
 ## 设计模式
 
