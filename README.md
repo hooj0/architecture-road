@@ -227,6 +227,7 @@
 - [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有Github贡献的图像
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - Git的使用方法，在遇到问题后如何处理。
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
+- [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号。
 
 ## `Eclipse`
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - Eclipse插件，它理解ANSI转义序列以为Eclipse控制台输出着色
