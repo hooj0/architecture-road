@@ -40,6 +40,8 @@
 + [`protostuff`](https://github.com/protostuff/protostuff) - Java序列化库，proto编译器，代码生成器
 + [`jansi`](https://github.com/fusesource/jansi) - Jansi是一个小型java库，允许您使用ANSI转义序列来格式化控制台输出，甚至可以在Windows上运行。
 + [`jib`](https://github.com/GoogleContainerTools/jib) - 为Java应用程序构建`docker`容器映像
++ [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - Java反射
++ 
 
 ## `Python`
 ### `Tutorial`
@@ -132,7 +134,8 @@
 + [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
 + [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对LeetCode算法问题的解决方案，100％覆盖率，不断更新。
 + [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和LeetCode解决方案
-+ 
++ [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
+
 
 ## 设计模式
 
