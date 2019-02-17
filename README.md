@@ -156,7 +156,7 @@
 + [`Composer`](https://github.com/hyperledger/composer) - Composer是构建区块链业务网络的框架
 + [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 + [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
-+ 
++ [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
 ## 人工智能
 ### 深度学习
 + [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
