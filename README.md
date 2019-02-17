@@ -62,6 +62,7 @@
 + [`gostart`](https://github.com/alco/gostart) - Go新手入门指南
 + [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - Go语法和功能概述
 + [`example.v2`](https://github.com/gopcp/example.v2) - 《Go并发编程实战》第2版
++ [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习Go
 ### `Library`
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及
