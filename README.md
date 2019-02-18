@@ -78,6 +78,8 @@
 + [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - TypeScript手册是TypeScript语言的综合指南
 + [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于JavaScript的系列丛书
 + [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
++ [`jstutorial`](https://github.com/ruanyf/jstutorial) - Javascript教程书
++ [`js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 JavaScript 技术栈
 ### `Library`
 + [`grpc-web`](https://github.com/improbable-eng/grpc-web) - Golang和TypeScript的gRPC Web实现
 + [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于Web客户端的gRPC
@@ -111,6 +113,8 @@
 + [`element`](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包
 + [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
 + [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - react-redux-tutorial中文，目录&&代码示例
++ [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
++ [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门CSS课程，让你成为一名魔术师。
 + 
 
 ## `Mobile`端
@@ -260,7 +264,7 @@
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - Git的使用方法，在遇到问题后如何处理。
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
-- 
+- [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程
 
 ## `Eclipse`
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - Eclipse插件，它理解ANSI转义序列以为Eclipse控制台输出着色
@@ -288,6 +292,8 @@
 + [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
 + [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 + [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
++ [`awesome-laravel`](https://github.com/chiraggude/awesome-laravel) - 来自`Laravel`生态系统的书签，包，教程，视频和其他很酷的资源的精选列表
++ 
 
 
 # 面试
