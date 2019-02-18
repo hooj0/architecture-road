@@ -57,7 +57,7 @@
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
 + [`loguru`](https://github.com/Delgan/loguru) - Python日志记录变得简单
 + [`wait-for-it`](https://github.com/vishnubob/wait-for-it) - 纯bash脚本，用于测试和等待TCP主机和端口的可用性
-+ 
++ [`tqdm`](https://github.com/tqdm/tqdm) - Python 可快速扩展的CLI进度条
 
 ## `Go`
 ### `Tutorial`
@@ -90,6 +90,9 @@
 + [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
 + 
 
+## `Other`
++ [`android_guides`](https://github.com/codepath/android_guides) - 面向Android开发人员的广泛开源指南
++ [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - 【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
 
 # 大前端
 
@@ -107,6 +110,8 @@
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 + [`element`](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包
 + [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
++ [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - react-redux-tutorial中文，目录&&代码示例
++ 
 
 ## `Mobile`端
 
@@ -114,7 +119,8 @@
 + [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
 + [`Tencent/weui`](https://github.com/Tencent/weui) - WeChat官方设计团队的UI库包括移动Web应用程序中最有用的小部件/模块。
 + [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-+ 
+
+
 
 
 ## `PC`端
@@ -141,6 +147,10 @@
 
 
 ## 设计模式
++ [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于Javascript代码。
++ [`python-patterns`](https://github.com/faif/python-patterns) - Python中的一系列设计模式/习语
++ [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
++ 
 
 ## 数据结构
 + [`doubleview/data-structure`](https://github.com/doubleview/data-structure) - 基于`java`语言的数据结构及算法实现，`LeetCode`算法示例
