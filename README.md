@@ -137,7 +137,7 @@
 + [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
 + [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现
 + [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典DM算法
-+ 
++ [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和LintCode刷题。
 
 
 ## 设计模式
