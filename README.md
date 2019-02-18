@@ -135,6 +135,8 @@
 + [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对LeetCode算法问题的解决方案，100％覆盖率，不断更新。
 + [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和LeetCode解决方案
 + [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
++ [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现
++ 
 
 
 ## 设计模式
