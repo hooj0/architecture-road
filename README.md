@@ -143,6 +143,10 @@
 ## 设计模式
 
 ## 数据结构
++ [`doubleview/data-structure`](https://github.com/doubleview/data-structure) - 基于`java`语言的数据结构及算法实现，`LeetCode`算法示例
++ [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - Java语言玩转数据结构示例代码
++ [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - Go语言实现数据结构。
++ [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的Java实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
 
 ## 集群
 ### 配置管理
