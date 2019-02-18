@@ -147,6 +147,14 @@
 + [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - Java语言玩转数据结构示例代码
 + [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - Go语言实现数据结构。
 + [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的Java实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
++ [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - Java中的算法和数据结构
++ [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - Python 中文数据结构和算法教程
++ [`Python-and-Algorithms-and-Data-Structures`](https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures) - Python书籍中的算法和数据结构
++ [`data_structures_and_algorithms_using_javascript`](https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript) - JavaScript 数据结构和算法
++ [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - C / C ++ / Java中的数据结构和算法介绍与实现。
++ [`python-data-structure-cn`](https://github.com/facert/python-data-structure-cn) - python 中文版数据结构
++ [`itsy-bitsy-data-structures`](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - JS 数据结构
+
 
 ## 集群
 ### 配置管理
