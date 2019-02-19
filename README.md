@@ -17,11 +17,11 @@
 
 
 
-# :notebook:语言
+# :link:语言
 
 各种编程语言的教程、热门框架、技术等
 
-## :closed_book:`Python`
+## :paperclips:`Python`
 ### :open_book:`Tutorial`
 
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
@@ -34,7 +34,7 @@
 
 
 
-## :closed_book:`Java`
+## :paperclips:`Java`
 ### :open_book:`Tutorial`
 ### :open_book:`Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
@@ -44,27 +44,27 @@
 
 
 
-## :closed_book:`Go`
+## :paperclips:`Go`
 ### :open_book:`Tutorial`
 ### :open_book:`Library`
 
 
-## :closed_book:`JavaScript`
+## :paperclips:`JavaScript`
 ### :open_book:`Tutorial`
 ### :open_book:`Library`
 
-## :closed_book:`Shell`
+## :paperclips:`Shell`
 ### :open_book:`Tutorial`
 ### :open_book:`Library`
 + [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
 + 
 
 
-# :notebook:大前端
+# :link:大前端
 
 前端常用框架技术的点，包括Web端、移动端等
 
-## :closed_book:`Web`端
+## :paperclips:`Web`端
 
 + [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 
@@ -78,69 +78,69 @@
 
 + [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
 
-## :closed_book:移动端
+## :paperclips:移动端
 
 + [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
 
 
 
-# :notebook:架构
+# :link:架构
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-## :closed_book:算法
+## :paperclips:算法
 
 + [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
 + [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 + [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
 
-## :closed_book:设计模式
+## :paperclips:设计模式
 
-## :closed_book:数据结构
+## :paperclips:数据结构
 
-## :closed_book:集群
+## :paperclips:集群
 + [apollo](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
 
-## :closed_book:大数据
+## :paperclips:大数据
 
-## :closed_book:区块链
+## :paperclips:区块链
 
-## :closed_book:人工智能
+## :paperclips:人工智能
 
 + [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
 
 + [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
 
-## :closed_book:虚拟化
+## :paperclips:虚拟化
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 
-## :closed_book:整合
+## :paperclips:整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
-# :notebook:系统
+# :link:系统
 
 有关系统的设计和操作相关的知识点
 
-## :closed_book:设计
+## :paperclips:设计
 + [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
 
-## :closed_book:虚拟机
+## :paperclips:虚拟机
 
 + [firecracker](https://github.com/firecracker-microvm/firecracker) - 安全，快速的`microVM`，适用于无服务器计算。
 
 + 
 
 
-# :notebook:工具
+# :link:工具
 
 在编程中常用的工具
-## :closed_book:`makedown`
+## :paperclips:`makedown`
 + [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 
 
-# :notebook:运维
+# :link:运维
 
 系统运维人员需要掌握或运营的知识点
 
@@ -149,7 +149,7 @@
 + [edex-ui](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
 
 
-# :notebook:综合
+# :link:综合
 
 大杂烩式的仓库
 
