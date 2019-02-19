@@ -25,111 +25,112 @@
 
 ## `Java`
 ### `Tutorial`
-+ [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分Java程序员所需要掌握的核心知识。
-+ [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小Java函数的精选集合
-+ [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的Java 8片段。
-+ [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、Java开发、后端/服务端、面试相关
-+ [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 Java 8》视频课程源码
-+ [`java 11-examples`](https://github.com/biezhi/java11-examples) - java 11示例代码
-+ 
++ [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) -  一份涵盖大部分`Java`程序员所需要掌握的核心知识。
++ [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
++ [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
++ [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
++ [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
++ [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
+
+
 ### `Library`
-+ [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
-+ [`grpc-java`](https://github.com/grpc/grpc-java) - Java gRPC实现，基于HTTP/2的RPC
-+ [`arthas`](https://github.com/alibaba/arthas) - Java诊断利器Arthas
-+ [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
-+ [`protostuff`](https://github.com/protostuff/protostuff) - Java序列化库，proto编译器，代码生成器
-+ [`jansi`](https://github.com/fusesource/jansi) - Jansi是一个小型java库，允许您使用ANSI转义序列来格式化控制台输出，甚至可以在Windows上运行。
++ [resilience4j](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
++ [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
++ [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
++ [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
++ [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
++ [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
 + [`jib`](https://github.com/GoogleContainerTools/jib) - 为Java应用程序构建`docker`容器映像
-+ [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - Java反射
++ [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
 + 
 
 ## `Python`
 ### `Tutorial`
 + [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - 30秒掌握`Python`实现的代码
-+ [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
-+ [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
-+ [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
-+ [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
-+ [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - Python 学习示例
++ [`awesome-python`](https://github.com/vinta/awesome-python) - 精选的`Python`框架，库，软件和资源的精选列表
++ [`awesome-python-cn`](https://github.com/jobbole/awesome-python-cn) - `Python`资源大全中文版，包括：`Web`框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
++ [`awesome-python-applications`](https://github.com/mahmoud/awesome-python-applications) - `Python` 资源仓库及首页
++ [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习`Python`
++ [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - `Python` 学习示例
 
 
 ### `Library`
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
-+ [`loguru`](https://github.com/Delgan/loguru) - Python日志记录变得简单
-+ [`wait-for-it`](https://github.com/vishnubob/wait-for-it) - 纯bash脚本，用于测试和等待TCP主机和端口的可用性
-+ [`tqdm`](https://github.com/tqdm/tqdm) - Python 可快速扩展的CLI进度条
++ [`loguru`](https://github.com/Delgan/loguru) - `Python`日志记录变得简单
++ [`wait-for-it`](https://github.com/vishnubob/wait-for-it) - 纯`bash`脚本，用于测试和等待`TCP`主机和端口的可用性
++ [`tqdm`](https://github.com/tqdm/tqdm) - `Python` 可快速扩展的`CLI`进度条
 
 ## `Go`
 ### `Tutorial`
-+ [`gostart`](https://github.com/alco/gostart) - Go新手入门指南
-+ [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - Go语法和功能概述
-+ [`example.v2`](https://github.com/gopcp/example.v2) - 《Go并发编程实战》第2版
-+ [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习Go
++ [`gostart`](https://github.com/alco/gostart) - `Go`新手入门指南
++ [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - `Go`语法和功能概述
++ [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
++ [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
 ### `Library`
-- [`go-ansi`](https://github.com/k0kubun/go-ansi) - Go语言的Windows可移植ANSI转义序列实用程序
-- [`sarama`](https://github.com/Shopify/sarama) - Sarama是Apache Kafka 0.8的Go库，以及
-- [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建ANSI彩色字符串和代码
+- [`go-ansi`](https://github.com/k0kubun/go-ansi) - `Go`语言的`Windows`可移植`ANSI`转义序列实用程序
+- [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库，以及
+- [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
 
 ## `JavaScript`
 ### `Tutorial`
-+ [`wtfjs`](https://github.com/denysdovhan/wtfjs) - JavaScript 小技巧、难点。
-+ [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个JavaScript开发人员应该知道33个概念。
++ [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点。
++ [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念。
 + [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
-+ [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - TypeScript手册是TypeScript语言的综合指南
-+ [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于JavaScript的系列丛书
++ [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - `TypeScript`手册是`TypeScript`语言的综合指南
++ [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于`JavaScript`的系列丛书
 + [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
-+ [`jstutorial`](https://github.com/ruanyf/jstutorial) - Javascript教程书
-+ [`js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 JavaScript 技术栈
++ [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
++ [`js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
 ### `Library`
-+ [`grpc-web`](https://github.com/improbable-eng/grpc-web) - Golang和TypeScript的gRPC Web实现
-+ [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于Web客户端的gRPC
++ [`grpc-web`](https://github.com/improbable-eng/grpc-web) - `Golang`和`TypeScript`的`gRPC Web`实现
++ [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于`Web`客户端的`gRPC`
 + []
 
 ## `Shell`
 ### `Tutorial`
 + [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
 ### `Library`
-+ [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
++ [`jq`](https://github.com/stedolan/jq) - 从文本`JSON`字符串读取数据的`shell` 工具
 + 
 
 ## `Other`
-+ [`android_guides`](https://github.com/codepath/android_guides) - 面向Android开发人员的广泛开源指南
-+ [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - 【Kotlin 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
++ [`android_guides`](https://github.com/codepath/android_guides) - 面向`Android`开发人员的广泛开源指南
++ [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - 【`Kotlin` 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
 
 # 大前端
 
 前端常用框架技术的点，包括Web端、移动端等
 
 ## `Web`端
-+ [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用CSS片段集合，您可以在30秒或更短的时间内理解这些片段。
++ [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
 + [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 + [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
-+ [carlo](https://github.com/GoogleChromeLabs/carlo) - Node和浏览器之间进行通信
++ [carlo](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
 + [eva-icons](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
 + [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
-+ [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
-+ [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的JavaScript库
++ [NES.css](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **`NES`-风格(8位机)** 的`CSS` 框架
++ [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的`JavaScript`库
 + [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
-+ [`element`](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包
++ [`element`](https://github.com/ElemeFE/element) - 适用于`Web`的`Vue.js 2.0` UI工具包
 + [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
-+ [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - react-redux-tutorial中文，目录&&代码示例
++ [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录&&代码示例
 + [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
-+ [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门CSS课程，让你成为一名魔术师。
++ [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
 + 
 
 ## `Mobile`端
 
 + [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
-+ [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
-+ [`Tencent/weui`](https://github.com/Tencent/weui) - WeChat官方设计团队的UI库包括移动Web应用程序中最有用的小部件/模块。
-+ [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际UED前端出品的移动端UI库，轻量精美
++ [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 `React` 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、`H5`、`React Native` 等的应用。
++ [`Tencent/weui`](https://github.com/Tencent/weui) - `WeChat`官方设计团队的`UI`库包括移动Web应用程序中最有用的小部件/模块。
++ [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际`UED`前端出品的移动端`UI`库，轻量精美
 
 
 
 
 ## `PC`端
-+ [`electron`](https://github.com/electron) - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序，此应用程序适用于 Windows, macOS 和 Linux 操作系统
-+ [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 Electron API 的核心特性
++ [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
++ [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 `Electron API` 的核心特性
 
 
 
