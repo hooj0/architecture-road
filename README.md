@@ -3,7 +3,7 @@
 
 
 
-# :books: 索引
+# :books:索引
 
 + 语言
 + 架构
@@ -17,26 +17,26 @@
 
 
 
-# :notebook: ​语言
+# :notebook:语言
 
 各种编程语言的教程、热门框架、技术等
 
-## :green_book:`Python`
-### :blue_book:`Tutorial`
+## :closed_book:`Python`
+### :open_book:`Tutorial`
 
 + [awesome-python](https://github.com/vinta/awesome-python) - 精选的Python框架，库，软件和资源的精选列表
 + [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 + [loguru](https://github.com/Delgan/loguru) - Python日志记录变得简单
 + [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Python 资源仓库及首页
 
-### :blue_book:`Library`
+### :open_book:`Library`
 + [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
 
 
 
-## `Java`
-### `Tutorial`
-### `Library`
+## :closed_book:`Java`
+### :open_book:`Tutorial`
+### :open_book:`Library`
 + [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
 
 + 
@@ -44,27 +44,27 @@
 
 
 
-## `Go`
-### `Tutorial`
-### `Library`
+## :closed_book:`Go`
+### :open_book:`Tutorial`
+### :open_book:`Library`
 
 
-## `JavaScript`
-### `Tutorial`
-### `Library`
+## :closed_book:`JavaScript`
+### :open_book:`Tutorial`
+### :open_book:`Library`
 
-## `Shell`
-### `Tutorial`
-### `Library`
+## :closed_book:`Shell`
+### :open_book:`Tutorial`
+### :open_book:`Library`
 + [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
 + 
 
 
-# 大前端
+# :notebook:大前端
 
 前端常用框架技术的点，包括Web端、移动端等
 
-## `Web`端
+## :closed_book:`Web`端
 
 + [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 
@@ -78,69 +78,69 @@
 
 + [NES.css](https://github.com/nostalgic-css/NES.css) - NES.css 是一款 **NES-风格(8位机)** 的CSS 框架
 
-## 移动端
+## :closed_book:移动端
 
 + [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
 
 
 
-# 架构
+# :notebook:架构
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-## 算法
+## :closed_book:算法
 
 + [Algorithms](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 Java 实现
 + [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 + [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
 
-## 设计模式
+## :closed_book:设计模式
 
-## 数据结构
+## :closed_book:数据结构
 
-## 集群
+## :closed_book:集群
 + [apollo](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
 
-## 大数据
+## :closed_book:大数据
 
-## 区块链
+## :closed_book:区块链
 
-## 人工智能
+## :closed_book:人工智能
 
 + [bert](https://github.com/google-research/bert) - TensorFlow代码和BERT预训练模型
 
 + [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
 
-## 虚拟化
+## :closed_book:虚拟化
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 
-## 整合
+## :closed_book:整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
-# 系统
+# :notebook:系统
 
 有关系统的设计和操作相关的知识点
 
-## 设计
+## :closed_book:设计
 + [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
 
-## 虚拟机
+## :closed_book:虚拟机
 
 + [firecracker](https://github.com/firecracker-microvm/firecracker) - 安全，快速的`microVM`，适用于无服务器计算。
 
 + 
 
 
-# 工具
+# :notebook:工具
 
 在编程中常用的工具
-## makedown
+## :closed_book:`makedown`
 + [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 
 
-# 运维
+# :notebook:运维
 
 系统运维人员需要掌握或运营的知识点
 
@@ -149,7 +149,7 @@
 + [edex-ui](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
 
 
-# 综合
+# :notebook:综合
 
 大杂烩式的仓库
 
