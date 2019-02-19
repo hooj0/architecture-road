@@ -40,7 +40,7 @@
 + [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
 + [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
 + [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
-+ [`jib`](https://github.com/GoogleContainerTools/jib) - 为Java应用程序构建`docker`容器映像
++ [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
 + [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
 + 
 
@@ -99,7 +99,7 @@
 
 # 大前端
 
-前端常用框架技术的点，包括Web端、移动端等
+前端常用框架技术的点，包括`Web`端、移动端等
 
 ## `Web`端
 + [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
@@ -130,7 +130,7 @@
 
 ## `PC`端
 + [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
-+ [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序, 通过示例代码演示了 `Electron API` 的核心特性
++ [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
 
 
 
@@ -142,11 +142,11 @@
 
 + [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
 + [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
-+ [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用Java编写的一些常见算法问题的解决方案
-+ [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100％`覆盖率，不断更新。
-+ [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和LeetCode解决方案
-+ [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
-+ [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
++ [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
++ [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100%`覆盖率，不断更新。
++ [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和`LeetCode`解决方案
++ [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹—举一反三，抛弃题海战术
++ [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
 + [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
 + [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
 
@@ -159,10 +159,10 @@
 
 ## 数据结构
 + [`doubleview/data-structure`](https://github.com/doubleview/data-structure) - 基于`java`语言的数据结构及算法实现，`LeetCode`算法示例
-+ [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - Java语言玩转数据结构示例代码
++ [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - `Java`语言玩转数据结构示例代码
 + [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的`Java`实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
 + [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - `Java`中的算法和数据结构
-+ [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C / C ++ / Java`中的数据结构和算法介绍与实现。
++ [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现。
 + [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构。
 + [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - `Python` 中文数据结构和算法教程
 + [`Python-and-Algorithms-and-Data-Structures`](https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures) - `Python`书籍中的算法和数据结构
@@ -181,7 +181,7 @@
 
 
 ## 微服务
-+ [`istio`](https://github.com/istio/istio) - 一个连接，管理和保护微服务的开放平台
++ [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 + [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 + 
 ## 大数据
@@ -197,8 +197,8 @@
 + [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
 + [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
 
-## 虚拟化
-+ [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - docker 学习教程
+## 容器
++ [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
 + [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 + [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
 + [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件 
@@ -231,9 +231,6 @@
 
 ## 整合
 + [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
-+ [`flyleft/tip`](https://github.com/flyleft/tip) - 自写博客、博客收藏、开源项目收藏
-+ [`scalad/Note`](https://github.com/scalad/Note) - 常规`Java`工具，算法，加密，数据库，面试题，源代码分析，解决方案
-+ [`coding-guide_i3geek`](https://github.com/yangengzhe/coding-guide_i3geek) - 内容包括但不限于数据结构、算法、数据库、操作系统、计算机网络等多方面
 
 
 
@@ -261,7 +258,7 @@
 + [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
 + [`github-markdown-toc`](https://github.com/ekalinin/github-markdown-toc) - 为`GitHub README.md`创建简单的`TOC`
 ## `Git`
-- [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有`Github贡献的图像
+- [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有`Github`贡献的图像
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理。
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
@@ -286,18 +283,6 @@
 + 
 
 
-# 综合
-
-大杂烩式的仓库
-
-+ [`awesome-cheatsheets`](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
-+ [`HelloGitHub`](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
-+ [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
-+ [`awesome-laravel`](https://github.com/chiraggude/awesome-laravel) - 来自`Laravel`生态系统的书签、包、教程、视频和其他很酷的资源的精选列表
-+ [`xitu/gold-miner`](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
-
-
-
 # 面试
 + [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
 
@@ -307,3 +292,17 @@
 - [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的`Hexo`主题从`icylogic`分叉
 - [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
 - [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
+
+
+# 综合
+
+大杂烩式的仓库
+
++ [`awesome-cheatsheets`](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 
++ [`HelloGitHub`](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
++ [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
++ [`awesome-laravel`](https://github.com/chiraggude/awesome-laravel) - 来自`Laravel`生态系统的书签、包、教程、视频和其他很酷的资源的精选列表
++ [`xitu/gold-miner`](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
++ [`flyleft/tip`](https://github.com/flyleft/tip) - 自写博客、博客收藏、开源项目收藏
++ [`scalad/Note`](https://github.com/scalad/Note) - 常规`Java`工具，算法，加密，数据库，面试题，源代码分析，解决方案
++ [`coding-guide_i3geek`](https://github.com/yangengzhe/coding-guide_i3geek) - 内容包括但不限于数据结构、算法、数据库、操作系统、计算机网络等多方面
