@@ -4,6 +4,7 @@ The path to growth of architects
 
 # 索引
 
+<<<<<<< HEAD
 - 语言
 - 架构
 - 系统
@@ -11,6 +12,17 @@ The path to growth of architects
 - 大前端
 - 运维
 - 综合
+=======
+# :paperclips:索引
+
++ 语言
++ 架构
++ 系统
++ 工具
++ 大前端
++ 运维
++ 综合
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 # 语言
 
@@ -20,7 +32,11 @@ The path to growth of architects
 
 ## `Java`
 
+<<<<<<< HEAD
 ### `Tutorial`
+=======
+# :small_orange_diamond:语言
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 - [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) - 一份涵盖大部分`Java`程序员所需要掌握的核心知识。
 - [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
@@ -29,7 +45,12 @@ The path to growth of architects
 - [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
 - [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
 
+<<<<<<< HEAD
 ### `Library`
+=======
+## :small_red_triangle_down:`Python`
+### :small_blue_diamond:`Tutorial`
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 - [resilience4j](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
@@ -41,7 +62,12 @@ The path to growth of architects
 - [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
 - 
 
+<<<<<<< HEAD
 ## `Python`
+=======
+### :small_blue_diamond:`Library`
++ [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 ### `Tutorial`
 
@@ -52,7 +78,14 @@ The path to growth of architects
 - [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习`Python`
 - [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - `Python` 学习示例
 
+<<<<<<< HEAD
 ### `Library`
+=======
+## :small_red_triangle_down:`Java`
+### :small_blue_diamond:`Tutorial`
+### :small_blue_diamond:`Library`
++ [resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j是专为Java8和函数式编程设计的容错库
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 - [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
 - [`loguru`](https://github.com/Delgan/loguru) - `Python`日志记录变得简单
@@ -68,12 +101,19 @@ The path to growth of architects
 - [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
 - [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
 
+<<<<<<< HEAD
 ### `Library`
+=======
+## :small_red_triangle_down:`Go`
+### :small_blue_diamond:`Tutorial`
+### :small_blue_diamond:`Library`
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - `Go`语言的`Windows`可移植`ANSI`转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库，以及
 - [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
 
+<<<<<<< HEAD
 ## `JavaScript`
 
 ### `Tutorial`
@@ -86,12 +126,30 @@ The path to growth of architects
 - [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
 - [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
 - [`js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
+=======
+## :small_red_triangle_down:`JavaScript`
+### :small_blue_diamond:`Tutorial`
+### :small_blue_diamond:`Library`
+
+## :small_red_triangle_down:`Shell`
+### :small_blue_diamond:`Tutorial`
+### :small_blue_diamond:`Library`
++ [`jq`](https://github.com/stedolan/jq) - 从文本JSON字符串读取数据的shell 工具
++ 
+
+
+# :small_orange_diamond:大前端
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 ### `Library`
 
+<<<<<<< HEAD
 - [`grpc-web`](https://github.com/improbable-eng/grpc-web) - `Golang`和`TypeScript`的`gRPC Web`实现
 - [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于`Web`客户端的`gRPC`
 - []
+=======
+## :small_red_triangle_down:`Web`端
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 ## `Shell`
 
@@ -106,8 +164,12 @@ The path to growth of architects
 
 ## `Other`
 
+<<<<<<< HEAD
 - [`android_guides`](https://github.com/codepath/android_guides) - 面向`Android`开发人员的广泛开源指南
 - [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - 【`Kotlin` 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
+=======
+## :small_red_triangle_down:移动端
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 # 大前端
 
@@ -143,11 +205,11 @@ The path to growth of architects
 - [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
 - [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
 
-# 架构
+# :small_orange_diamond:架构
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-## 算法
+## :small_red_triangle_down:算法
 
 - [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
 - [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
@@ -159,8 +221,9 @@ The path to growth of architects
 - [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
 - [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
 
-## 设计模式
+## :small_red_triangle_down:设计模式
 
+<<<<<<< HEAD
 - [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
 - [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
 - [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
@@ -197,17 +260,27 @@ The path to growth of architects
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 - 
+=======
+## :small_red_triangle_down:数据结构
 
-## 大数据
+## :small_red_triangle_down:集群
++ [apollo](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
-## 区块链
+## :small_red_triangle_down:大数据
 
+## :small_red_triangle_down:区块链
+
+<<<<<<< HEAD
 - [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
 - [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 - [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
 - [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
 
 ## 人工智能
+=======
+## :small_red_triangle_down:人工智能
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 ### 深度学习
 
@@ -251,6 +324,7 @@ The path to growth of architects
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 
+<<<<<<< HEAD
 ## 安全
 
 ## 整合
@@ -264,8 +338,23 @@ The path to growth of architects
 ## 设计
 
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
+=======
+## :small_red_triangle_down:虚拟化
++ [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
++ [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的、基于 `Web` 的 `Kubernetes` 多集群管理平台。
 
-## 虚拟机
+## :small_red_triangle_down:整合
++ [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+
+# :small_orange_diamond:系统
+
+有关系统的设计和操作相关的知识点
+
+## :small_red_triangle_down:设计
++ [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括Anki抽认卡。
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
+
+## :small_red_triangle_down:虚拟机
 
 - [`firecracker`](https://github.com/firecracker-microvm/firecracker) - 安全、快速的`microVM`，适用于无服务器计算。
 
@@ -273,9 +362,17 @@ The path to growth of architects
 
 - [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
 
+<<<<<<< HEAD
 # 开发工具
 
 在编程中常用的工具
+=======
+# :small_orange_diamond:工具
+
+在编程中常用的工具
+## :small_red_triangle_down:`makedown`
++ [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 ## `markdown`
 
@@ -301,7 +398,7 @@ The path to growth of architects
 
 - [`drawio-desktop`](https://github.com/jgraph/drawio-desktop) - `draw.io`的官方电子版本
 
-# 运维
+# :small_orange_diamond:运维
 
 系统运维人员需要掌握或运营的知识点
 
@@ -314,7 +411,11 @@ The path to growth of architects
 - [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
 - 
 
+<<<<<<< HEAD
 # 面试
+=======
+# :small_orange_diamond:综合
+>>>>>>> 2ebfcba55993477ee58d93b6e32eca5c71216817
 
 - [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
 
