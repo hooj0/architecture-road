@@ -1,9 +1,7 @@
 # architecture road
-
-![building_construction](https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png) The path to growth of architects
+The path to growth of architects
 
 # 索引
-
 - 语言
 - 架构
 - 系统
@@ -28,6 +26,8 @@
 - [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
 - [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
 - [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
+- [`eugenp/tutorials`](https://github.com/eugenp/tutorials) - `Java`常用技术 `Spring`、核心等技术代码
+- 
 
 ### `Library`
 
@@ -39,6 +39,10 @@
 - [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
 - [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
 - [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
+- [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
+- [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
+- [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
+- [`docker-java`](https://github.com/docker-java/docker-java) - Java Docker API客户端
 - 
 
 ## `Python`
@@ -85,13 +89,15 @@
 - [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于`JavaScript`的系列丛书
 - [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
 - [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
-- [`js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
+- [`yepbug/js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
+- [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈，英文版
 
 ### `Library`
 
 - [`grpc-web`](https://github.com/improbable-eng/grpc-web) - `Golang`和`TypeScript`的`gRPC Web`实现
 - [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于`Web`客户端的`gRPC`
-- []
+- [`dayjs`](https://github.com/iamkun/dayjs) - `Day.js 2KB`不可变日期库替代`Moment.js`，具有相同的现代`API`
+- [`ReLaXed`](https://github.com/RelaxedJS/ReLaXed) - 使用`Web`技术创建`PDF`文档
 
 ## `Shell`
 
@@ -129,7 +135,10 @@
 - [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录&&代码示例
 - [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
 - [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
-- 
+- [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
+- [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
+
+
 
 ## `Mobile`端
 
@@ -142,6 +151,8 @@
 
 - [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
 - [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
+- [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
+- [`proton-native`](https://github.com/kusti8/proton-native) - 适用于跨平台本机桌面应用的`React`环境
 
 # 架构
 
@@ -158,6 +169,7 @@
 - [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
 - [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
 - [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
+- [`trekhleb/javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) - 在`JavaScript`中实现的算法和数据结构，包含解释和进一步读数的链接
 
 ## 设计模式
 
@@ -206,6 +218,8 @@
 - [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 - [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
 - [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
+- [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
+- [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
 
 ## 人工智能
 
@@ -226,14 +240,23 @@
 - [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
 - [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
 - [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
+- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
+- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
 - 
-
+## 消息队列
+- [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
 ## 网络
-
+### 异步
+- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
 ### 协议
 
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
-- 
+
+### 安全
+- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
+
+### REST
+- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
 
 ## 数据库
 
@@ -247,15 +270,13 @@
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
 - [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
 
+## 防御
+- [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
+- 
 ## 治理
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 
-## 安全
-
-## 整合
-
-- [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
 # 操作系统
 
@@ -277,7 +298,7 @@
 
 在编程中常用的工具
 
-## `markdown`
+## `Markdown`
 
 - [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 - [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`markdown`编辑器（组件）
@@ -295,11 +316,21 @@
 ## `Eclipse`
 
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - `Eclipse`插件，它理解`ANSI`转义序列以为`Eclipse`控制台输出着色
+- [`jadx`](https://github.com/skylot/jadx) - 反编译
 - 
 
 ## `UML`
 
 - [`drawio-desktop`](https://github.com/jgraph/drawio-desktop) - `draw.io`的官方电子版本
+
+## `HTML`
+- [`eleme/UETool`](https://github.com/eleme/UETool) - 在屏幕上显示/编辑任何视图的属性。
+
+## 浏览器
+- [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载。
+- [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
+
+
 
 # 运维
 
@@ -308,11 +339,17 @@
 - [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员。
 - [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
 
-## `Ansible`
+## 自动化
+### `Jenkins`
+- [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
+- [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
+### `Ansible`
 - [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具。
 - [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
-- 
+
+## 工具
+- [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - makefile 教程
 
 # 面试
 
@@ -337,3 +374,9 @@
 - [`flyleft/tip`](https://github.com/flyleft/tip) - 自写博客、博客收藏、开源项目收藏
 - [`scalad/Note`](https://github.com/scalad/Note) - 常规`Java`工具，算法，加密，数据库，面试题，源代码分析，解决方案
 - [`coding-guide_i3geek`](https://github.com/yangengzhe/coding-guide_i3geek) - 内容包括但不限于数据结构、算法、数据库、操作系统、计算机网络等多方面
+- [`JCSprout`](https://github.com/crossoverJie/JCSprout) - Java Core Sprout：基本，并发，算法
+- [`CS-Notes`](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识
+- [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+- [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+- [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
+- 
