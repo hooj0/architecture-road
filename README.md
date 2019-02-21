@@ -31,7 +31,7 @@ The path to growth of architects
 
 ### `Library`
 
-- [resilience4j](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
+- [`resilience4j`](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 - [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
@@ -42,7 +42,7 @@ The path to growth of architects
 - [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
 - [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
 - [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
-- [`docker-java`](https://github.com/docker-java/docker-java) - Java Docker API客户端
+- [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
 - 
 
 ## `Python`
@@ -83,7 +83,7 @@ The path to growth of architects
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - `Go`语言的`Windows`可移植`ANSI`转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库，以及
 - [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
-- [`urfave/cli`](https://github.com/urfave/cli) - 一个简单，快速，有趣的包，用于在Go中构建命令行应用程序
+- [`urfave/cli`](https://github.com/urfave/cli) - 一个简单，快速，有趣的包，用于在`Go`中构建命令行应用程序
 
 ## `JavaScript`
 
@@ -139,12 +139,12 @@ The path to growth of architects
 ## `Web`端
 
 - [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
-- [quicklink](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
-- [ant-design](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
-- [carlo](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
-- [eva-icons](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
-- [NES.css](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **NES-风格(8位机)** 的`CSS` 框架
+- [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
+- [`ant-design`](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
+- [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
+- [`eva-icons`](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
+- [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
+- [`NES.css`](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **NES-风格(8位机)** 的`CSS` 框架
 - [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的`JavaScript`库
 - [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
 - [`element`](https://github.com/ElemeFE/element) - 适用于`Web`的`Vue.js 2.0` UI工具包
@@ -213,6 +213,29 @@ The path to growth of architects
 - [`data_structures_and_algorithms_using_javascript`](https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript) - `JavaScript` 数据结构和算法
 - [`itsy-bitsy-data-structures`](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `JS` 数据结构
 
+## 容器
+- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
+- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
+- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
+- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
+- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
+- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
+- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
+- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
+- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
+- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
+- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
+- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
+- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
+- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
+- 
+## 中间件
+### 消息队列
+- [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
+
+## 远程调用
+- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
+- 
 ## 集群
 
 ### 配置管理
@@ -230,6 +253,29 @@ The path to growth of architects
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 - 
+## 网络
+### 异步
+- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
+### 协议
+
+### 安全
+- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
+### 服务
+
+### REST
+- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
+
+## 数据库
+### 面对对象数据库
+### 关系数据库
+### NoSQL
+- [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
+- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
+- [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
+
+## 缓存
+
+## 检索
 
 ## 大数据
 
@@ -249,58 +295,21 @@ The path to growth of architects
 ## 人工智能
 
 ### 深度学习
-
 - [`bert`](https://github.com/google-research/bert) - `TensorFlow`代码和`BERT`预训练模型
 - [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
 - [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
 
-## 容器
-- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
-- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
-- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
-- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
-- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
-- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
-- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
-- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
-- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
-- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
-- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
-- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
-- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
-- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
-- 
-## 消息队列
-- [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
-## 网络
-### 异步
-- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
-### 协议
-
-- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
-
-### 安全
-- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
-
-### REST
-- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
-
-## 数据库
-
-- [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
-- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
-- [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
-
-## 监控
+## 安全
+### 监控
 
 - [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
 - [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
 
-## 防御
+### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
 - 
-## 治理
+### 诊断
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 
