@@ -52,6 +52,13 @@ The path to growth of architects
 - [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数。
 - [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
 - [`ansj_seg`](https://github.com/NLPchina/ansj_seg) - `ansj`分词`.ict`的真正`java`实现。分词效果速度都超过开源版的`ict`， 中文分词、人名识别、词性标注、用户自定义词典
+- [`HanLP`](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
+- [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM，CSS`和`jquery`
+- [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架。
+- [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
+- [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐。
+- [`mockito`](https://github.com/mockito/mockito) - 用Java编写的单元测试最流行的`Mocking`框架
+- [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
 
 ## `Python`
 
@@ -260,6 +267,7 @@ The path to growth of architects
 
 ### 权限
 - [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
+- [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
 
 ## 远程调用
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
@@ -279,6 +287,7 @@ The path to growth of architects
 
 ### 数据同步
 
+
 ## 微服务
 
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
@@ -293,7 +302,8 @@ The path to growth of architects
 ### 安全
 - [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
 ### 服务
-
+- [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
+- 
 ### REST
 - [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
 
@@ -308,6 +318,8 @@ The path to growth of architects
 
 ## 缓存
 - [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
+- [`Redisson`](https://github.com/redisson/redisson) -   分布式`Java`对象和服务（`Set，Multimap，SortedSet，Map，List，Queue，Deque，Semaphore，Lock，AtomicLong，Map Reduce，Publish/Subscribe，Bloom filter，Spring Cache，Tomcat，Scheduler，JCache API，Hibernate`）在`Redis`服务器上。最先进的`Redis Java`客户端
+- [`jedis`](https://github.com/xetorthio/jedis) - 一个非常小而且理智的`redis java`客户端
 
 ## 检索
 
@@ -346,6 +358,7 @@ The path to growth of architects
 - [`bert`](https://github.com/google-research/bert) - `TensorFlow`代码和`BERT`预训练模型
 - [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
 - [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
+- [`Deeplearning4j`](https://github.com/deeplearning4j/deeplearning4j) - `Deeplearning4j，ND4J，DataVec`等 -  `Java/Scala`的深度学习和线性代数与`GPU + Spark`
 
 ## 安全
 ### 监控
@@ -354,6 +367,7 @@ The path to growth of architects
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
 - [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
 - [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
+- [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
 
@@ -362,6 +376,7 @@ The path to growth of architects
 ### 诊断
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
+- [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
 
 
 # 操作系统
@@ -478,6 +493,9 @@ The path to growth of architects
 
 # 框架
 一些好用、热门的框架
+## Java
+- [`javapoet`](https://github.com/square/javapoet) - 用于生成`.java`源文件的`Java API`
+- [`okio`](https://github.com/square/okio) - 适用于`Java`的现代`I/O API`
 
 # 应用
 一些好用、热门的应用
@@ -587,6 +605,9 @@ Sonar，
 
 ## 版本管理
 Git，
+
+## 接口管理
+- [`swagger-core`](https://github.com/swagger-api/swagger-core) - 用于生成`Swagger API`规范的示例和服务器集成，可以轻松访问`REST API`
 
 ## 编辑器
 
