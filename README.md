@@ -64,7 +64,7 @@ The path to growth of architects
 - [`tqdm`](https://github.com/tqdm/tqdm) - `Python` 可快速扩展的`CLI`进度条
 - [`django`](https://github.com/django/django) - `Web`框架
 - [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架。
-- 
+- [`flask`](https://github.com/pallets/flask) - 用于构建`Web`应用程序的`Python`微框架。
 
 ## `Go`
 
@@ -156,6 +156,8 @@ The path to growth of architects
 - [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
 - [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
 - [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
+- [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
+- 
 
 
 
@@ -191,6 +193,7 @@ The path to growth of architects
 - [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
 - [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
 - [`trekhleb/javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) - 在`JavaScript`中实现的算法和数据结构，包含解释和进一步读数的链接
+- [`Python`](https://github.com/TheAlgorithms/Python) - 在`Python`中算法实现
 
 ## 设计模式
 
@@ -247,6 +250,9 @@ The path to growth of architects
 - [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
 - [`docker-elk`](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
+### 负载均衡
+
+### 数据同步
 
 ## 微服务
 
@@ -266,9 +272,10 @@ The path to growth of architects
 - [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
 
 ## 数据库
-### 面对对象数据库
-### 关系数据库
-### NoSQL
+### 面对对象型
+### 关系型
+### `NoSQL`
+### 其他
 - [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
 - [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
 - [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
@@ -280,7 +287,7 @@ The path to growth of architects
 ## 大数据
 
 ## 区块链
-### hyperledger
+### `Hyperledger`
 - [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
 - [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
 - [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
@@ -288,7 +295,7 @@ The path to growth of architects
 - [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
 - [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
 - [`fabric-starter`](https://github.com/olegabu/fabric-starter) - `Hyperledger Fabric`的入门应用程序和部署脚本
-### ethereum
+### `Ethereum`
 - [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
 - [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
 
@@ -308,7 +315,9 @@ The path to growth of architects
 
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
-- 
+
+### 容灾
+
 ### 诊断
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
@@ -405,7 +414,6 @@ The path to growth of architects
 - [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
 
 # 综合
-
 大杂烩式的仓库
 
 - [`awesome-cheatsheets`](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
@@ -421,4 +429,83 @@ The path to growth of architects
 - [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 - [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
-- 
+
+
+# 基础
+## 教程
+
+## 应用
+
+## 依赖库
+
+# 设计
+
+## 概要设计
+## 详细设计
+## 功能模块
+
+
+# 底层
+从架构设计，到应用层调优，再深入了解底层原理，扎实的基本功
+
+## 内存模型
+
+## 并发模式
+
+## 线程模型
+
+## 锁细节
+
+# 性能
+任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
+## 性能指标体系
+
+## JVM调优
+
+## Web调优
+
+## 数据库调优
+
+## 缓存调优
+
+
+
+# 架构
+
+## 基础设施
+
+### 服务器
+
+### 网络
+
+### 数据库
+
+### 持续集成
+
+### 持续部署
+
+## 中间件
+
+### 基础框架
+
+### 公共组件
+
+### 通用服务
+
+## 分布式
+### 原理
+### 策略
+### 中间件
+
+## 微服务
+### 微服务框架
+### 虚拟化
+
+# 工具
+工欲善其事必先利其器，不管是小白，还是资深开发，玩Java技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
+
+Maven，项目管理
+Jenkins，持续集成
+Sonar，代码质量管理
+Git，版本管理
+
