@@ -90,6 +90,7 @@ The path to growth of architects
 ### `Tutorial`
 
 - [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点。
+- [`30-seconds/30-seconds-of-code`](https://github.com/30-seconds/30-seconds-of-code) - 精选的有用`JavaScript`代码段集合，您可以在30秒或更短的时间内理解这些代码段。
 - [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念。
 - [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
 - [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - `TypeScript`手册是`TypeScript`语言的综合指南
@@ -112,6 +113,7 @@ The path to growth of architects
 - [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于`Web`客户端的`gRPC`
 - [`dayjs`](https://github.com/iamkun/dayjs) - `Day.js 2KB`不可变日期库替代`Moment.js`，具有相同的现代`API`
 - [`ReLaXed`](https://github.com/RelaxedJS/ReLaXed) - 使用`Web`技术创建`PDF`文档
+- [`standard`](https://github.com/standard/standard) - `JavaScript` 代码规范，自带 `linter` & 代码自动修正
 
 ## `Shell`
 
@@ -120,6 +122,8 @@ The path to growth of architects
 - [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
 - [`Bash-Snippets`](https://github.com/alexanderepstein/Bash-Snippets) - 重型终端用户的小型`bash`脚本集合
 - [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
+- [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表。
+- [`bash-guide`](https://github.com/Idnan/bash-guide) - 学习`bash`的指南
 
 
 ### `Library`
@@ -157,7 +161,7 @@ The path to growth of architects
 - [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
 - [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
 - [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
-- 
+- [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
 
 
 
