@@ -62,21 +62,28 @@ The path to growth of architects
 - [`loguru`](https://github.com/Delgan/loguru) - `Python`日志记录变得简单
 - [`wait-for-it`](https://github.com/vishnubob/wait-for-it) - 纯`bash`脚本，用于测试和等待`TCP`主机和端口的可用性
 - [`tqdm`](https://github.com/tqdm/tqdm) - `Python` 可快速扩展的`CLI`进度条
+- [`django`](https://github.com/django/django) - `Web`框架
+- [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架。
+- 
 
 ## `Go`
 
 ### `Tutorial`
-
+- [`golang`](https://github.com/golang/go) - `Go`编程语言
 - [`gostart`](https://github.com/alco/gostart) - `Go`新手入门指南
 - [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - `Go`语法和功能概述
 - [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
 - [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
+- [`the-way-to-go_ZH_CN`](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《`The Way to Go`》中文译本，中文正式名《`Go` 入门指南》
+- [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者。
+- 
 
 ### `Library`
 
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - `Go`语言的`Windows`可移植`ANSI`转义序列实用程序
 - [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库，以及
 - [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
+- [`urfave/cli`](https://github.com/urfave/cli) - 一个简单，快速，有趣的包，用于在Go中构建命令行应用程序
 
 ## `JavaScript`
 
@@ -91,6 +98,13 @@ The path to growth of architects
 - [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
 - [`yepbug/js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
 - [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈，英文版
+- [`es6tutorial`](https://github.com/ruanyf/es6tutorial) - 《`ECMAScript 6`入门》是一本开源的 `JavaScript` 语言教程，全面介绍 `ECMAScript 6` 新增的语法特性。
+- [`typescript-tutorial`](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程
+- [`TypeScript-WeChat-Starter`](https://github.com/Microsoft/TypeScript-WeChat-Starter) -  `TypeScript`和微信使用示例
+- [`TypeScript`](https://github.com/Microsoft/TypeScript) - `TypeScript` 语言
+- [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍。
+- [`zhongsp/TypeScript`](https://github.com/zhongsp/TypeScript) - `TypeScript`使用手册
+
 
 ### `Library`
 
@@ -104,6 +118,9 @@ The path to growth of architects
 ### `Tutorial`
 
 - [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
+- [`Bash-Snippets`](https://github.com/alexanderepstein/Bash-Snippets) - 重型终端用户的小型`bash`脚本集合
+- [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
+
 
 ### `Library`
 
@@ -137,6 +154,8 @@ The path to growth of architects
 - [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
 - [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
 - [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
+- [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
+- [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
 
 
 
@@ -153,6 +172,8 @@ The path to growth of architects
 - [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
 - [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
 - [`proton-native`](https://github.com/kusti8/proton-native) - 适用于跨平台本机桌面应用的`React`环境
+
+
 
 # 架构
 
@@ -176,7 +197,7 @@ The path to growth of architects
 - [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
 - [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
 - [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
-- 
+- [`go-patterns`](https://github.com/tmrts/go-patterns) - Go设计模式，食谱和习语的精选列表
 
 ## 数据结构
 
@@ -213,13 +234,17 @@ The path to growth of architects
 ## 大数据
 
 ## 区块链
-
+### hyperledger
+- [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
 - [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
 - [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 - [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
 - [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
 - [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
+- [`fabric-starter`](https://github.com/olegabu/fabric-starter) - `Hyperledger Fabric`的入门应用程序和部署脚本
+### ethereum
 - [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
+- [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
 
 ## 人工智能
 
@@ -230,7 +255,7 @@ The path to growth of architects
 - [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
 
 ## 容器
-
+- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
 - [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
 - [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
 - [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
@@ -242,6 +267,8 @@ The path to growth of architects
 - [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
 - [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
 - [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
+- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
+- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
 - 
 ## 消息队列
 - [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
@@ -284,7 +311,7 @@ The path to growth of architects
 
 ## 设计
 
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
+- [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
 
 ## 虚拟机
 
@@ -330,6 +357,9 @@ The path to growth of architects
 - [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载。
 - [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
 
+## `Vim`
+- [`vim-galore-zh_cn`](https://github.com/wsdjeg/vim-galore-zh_cn) - `Vim` 从入门到精通
+- [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
 
 
 # 运维
@@ -345,11 +375,14 @@ The path to growth of architects
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
 ### `Ansible`
+- [`ansible`](https://github.com/ansible/ansible) - `Ansible`是一个极其简单的`IT`自动化平台，可使您的应用程序和系统更易于部署。
 - [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具。
 - [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
+- [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作。
 
 ## 工具
-- [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - makefile 教程
+- [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
+
 
 # 面试
 
