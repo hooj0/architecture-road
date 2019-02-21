@@ -435,12 +435,26 @@ The path to growth of architects
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
 
 
-# 基础
+# 语言
 ## 教程
 
 ## 应用
 
 ## 依赖库
+
+
+# 基础(`Java`)
+## 输入输出
+## 网络
+## 多线程
+## 反射
+## 泛型
+
+
+# 高级
+## 数据结构
+## 程序算法
+## 设计模式
 
 # 设计
 
@@ -459,6 +473,7 @@ The path to growth of architects
 ## 线程模型
 
 ## 锁细节
+
 
 # 性能
 任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
@@ -504,6 +519,12 @@ The path to growth of architects
 ## 微服务
 ### 微服务框架
 ### 虚拟化
+
+## 安全
+### 监控
+### 防御
+### 容灾
+### 诊断
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩Java技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
