@@ -25,9 +25,12 @@ The path to growth of architects
 - [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
 - [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
 - [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
+- [`javaee7-samples`](https://github.com/javaee-samples/javaee7-samples) - `Java 7` 示例
 - [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
 - [`eugenp/tutorials`](https://github.com/eugenp/tutorials) - `Java`常用技术 `Spring`、核心等技术代码
-- 
+- [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
+- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
+- [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
 
 ### `Library`
 
@@ -43,7 +46,12 @@ The path to growth of architects
 - [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
 - [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
 - [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
-- 
+- [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
+- [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7,6和5中
+- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
+- [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数。
+- [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
+- [`ansj_seg`](https://github.com/NLPchina/ansj_seg) - `ansj`分词`.ict`的真正`java`实现。分词效果速度都超过开源版的`ict`， 中文分词、人名识别、词性标注、用户自定义词典
 
 ## `Python`
 
@@ -105,6 +113,7 @@ The path to growth of architects
 - [`TypeScript`](https://github.com/Microsoft/TypeScript) - `TypeScript` 语言
 - [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍。
 - [`zhongsp/TypeScript`](https://github.com/zhongsp/TypeScript) - `TypeScript`使用手册
+- [`freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) - 开源代码库和课程。学习与数百万人一起免费编码。
 
 
 ### `Library`
@@ -115,6 +124,7 @@ The path to growth of architects
 - [`ReLaXed`](https://github.com/RelaxedJS/ReLaXed) - 使用`Web`技术创建`PDF`文档
 - [`standard`](https://github.com/standard/standard) - `JavaScript` 代码规范，自带 `linter` & 代码自动修正
 
+
 ## `Shell`
 
 ### `Tutorial`
@@ -124,6 +134,7 @@ The path to growth of architects
 - [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
 - [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表。
 - [`bash-guide`](https://github.com/Idnan/bash-guide) - 学习`bash`的指南
+- [`the-art-of-command-line`](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行
 
 
 ### `Library`
@@ -158,10 +169,14 @@ The path to growth of architects
 - [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
 - [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
 - [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
-- [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
+
 - [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
 - [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
 - [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
+- [`expressjs/express`](https://github.com/expressjs/express) - `Node`的快速，无偏见，极简主义的`Web`框架。
+- [`nodejs/node`](https://github.com/nodejs/node) - `Node.js JavaScript`运行时
+- [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
+- [`7-days-nodejs`](https://github.com/nqdeng/7-days-nodejs) - 七天学会`NodeJS`
 
 
 
@@ -186,7 +201,7 @@ The path to growth of architects
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
 ## 算法
-
+- [`TheAlgorithms/Java`](https://github.com/TheAlgorithms/Java) - 所有算法都用Java实现
 - [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
 - [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 - [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
@@ -200,7 +215,7 @@ The path to growth of architects
 - [`Python`](https://github.com/TheAlgorithms/Python) - 在`Python`中算法实现
 
 ## 设计模式
-
+- [`java_design_patterns`](https://github.com/JamesZBL/java_design_patterns) - `Java` 实现的面向对象设计模式示例
 - [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
 - [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
 - [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
@@ -235,10 +250,16 @@ The path to growth of architects
 - [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
 - [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
 - [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
-- 
+- [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
+- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
+- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
+- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
 ## 中间件
 ### 消息队列
 - [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
+
+### 权限
+- [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
 
 ## 远程调用
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
@@ -266,8 +287,9 @@ The path to growth of architects
 ## 网络
 ### 异步
 - [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
+- [`async-http-client`](https://github.com/AsyncHttpClient/async-http-client) - 用于`Java`的异步`Http`和`WebSocket`客户端库
 ### 协议
-
+- [`Vamei/Protocol-Forest-Vamei`](https://github.com/Vamei/Protocol-Forest-Vamei) - 协议森林
 ### 安全
 - [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
 ### 服务
@@ -285,12 +307,19 @@ The path to growth of architects
 - [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
 
 ## 缓存
+- [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
 
 ## 检索
 
 ## 大数据
 
 ## 区块链
+- [`lhartikk/naivechain`](https://github.com/lhartikk/naivechain) - 200行代码中的区块链实现
+- [`sunysen/naivechain`](https://github.com/sunysen/naivechain) - 200行代码中的区块链实现。
+- [`SimpleCoin`](https://github.com/cosme12/SimpleCoin) - 只是一个非常简单，不安全和不完整的加密货币区块链实现，用`Python`作为教育材料。换句话说，一个简单的比特币克隆。
+- [`bitcoinj`](https://github.com/bitcoinj/bitcoinj) - 用于处理比特币的库
+- [`cryptocurrency`](https://github.com/michaelliao/cryptocurrency) - 简单的Java库与比特币交互
+- [`mipengchong/blockchain`](https://github.com/mipengchong/blockchain) - 免费分享区块链白皮书，涉及各门各派。
 ### `Hyperledger`
 - [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
 - [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
@@ -299,9 +328,17 @@ The path to growth of architects
 - [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
 - [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
 - [`fabric-starter`](https://github.com/olegabu/fabric-starter) - `Hyperledger Fabric`的入门应用程序和部署脚本
+- [`yeasy/hyperledger_code_fabric`](https://github.com/yeasy/hyperledger_code_fabric) -  `hyperledger fabric`项目的代码分析
+- [`shanlusun/blockchain`](https://github.com/shanlusun/blockchain) - 在区块链上学习，一步一步
+- [`awesome-blockchain-cn`](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(`BlockChain`)技术开发相关资料，包括`Fabric`和`Ethereum`开发资料
+- [`blockchain-tutorial`](https://github.com/liuchengxu/blockchain-tutorial) - 区块链教程
+
 ### `Ethereum`
 - [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
 - [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
+
+### EOS
+- [`eos`](https://github.com/EOSIO/eos) - 一个开源的智能合约平台
 
 ## 人工智能
 
@@ -316,7 +353,7 @@ The path to growth of architects
 - [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
 - [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
-
+- [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
 
@@ -353,6 +390,7 @@ The path to growth of architects
 - [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`markdown`编辑器（组件）
 - [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
 - [`github-markdown-toc`](https://github.com/ekalinin/github-markdown-toc) - 为`GitHub README.md`创建简单的`TOC`
+- [`ghtoc`](https://github.com/sk1418/ghtoc) - 为`markdown`文件生成`toc`
 
 ## `Git`
 
@@ -416,6 +454,7 @@ The path to growth of architects
 - [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的`Hexo`主题从`icylogic`分叉
 - [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
 - [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
+- [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
 
 # 综合
 大杂烩式的仓库
@@ -434,13 +473,17 @@ The path to growth of architects
 - [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
 
+# 教程
+一些语言、框架、平台、环境、工具的相关教程
 
-# 语言
-## 教程
+# 框架
+一些好用、热门的框架
 
-## 应用
+# 应用
+一些好用、热门的应用
 
-## 依赖库
+# 平台
+一些好用、热门的平台
 
 
 # 基础(`Java`)
@@ -529,8 +572,24 @@ The path to growth of architects
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩Java技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
 
-Maven，项目管理
-Jenkins，持续集成
-Sonar，代码质量管理
-Git，版本管理
+## IDE
 
+
+
+## 项目管理
+Maven，
+
+## 持续集成
+Jenkins，
+
+## 代码质量
+Sonar，
+
+## 版本管理
+Git，
+
+## 编辑器
+
+
+
+## 写博客
