@@ -12,75 +12,19 @@ The path to growth of architects
 
 # 语言
 
-各种编程语言的教程、热门框架、技术等
 
-- [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
-- [`awesome`](https://github.com/sindresorhus/awesome) - 精选列表的精选列表
 
-## `Java`
 
-### `Tutorial`
-
-- [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) - 一份涵盖大部分`Java`程序员所需要掌握的核心知识。
-- [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
-- [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
-- [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
-- [`java8-tutorial`](https://github.com/winterbe/java8-tutorial) - 现代`Java`  -  `Java8`指南
-- [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
-- [`javaee7-samples`](https://github.com/javaee-samples/javaee7-samples) - `Java 7` 示例
-- [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
-- [`eugenp/tutorials`](https://github.com/eugenp/tutorials) - `Java`常用技术 `Spring`、核心等技术代码
-- [`java-learning`](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 `Java` 学习笔记，含博客讲解和源码实例，包括 `Java SE` 和 `Java Web`
-- [`DuGuQiuBai/Java`](https://github.com/DuGuQiuBai/Java) - 27天成为`Java`大神
 
 ### `Library`
 
-- [`resilience4j`](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
-- [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
-- [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
-- [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
-- [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
-- [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
-- [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
-- [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
-- [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
-- [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
-- [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
-- [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
-- [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
-- [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7,6和5中
-- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
-- [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数。
-- [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
-- [`ansj_seg`](https://github.com/NLPchina/ansj_seg) - `ansj`分词`.ict`的真正`java`实现。分词效果速度都超过开源版的`ict`， 中文分词、人名识别、词性标注、用户自定义词典
-- [`HanLP`](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
-- [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM，CSS`和`jquery`
-- [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架。
-- [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
-- [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐。
-- [`mockito`](https://github.com/mockito/mockito) - 用Java编写的单元测试最流行的`Mocking`框架
-- [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
-- [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架。
-- [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
-- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
-- [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
-- [`zxing`](https://github.com/zxing/zxing) - `ZXing（“Zebra Crossing”）`用于`Java，Android`的条形码扫描库
-- [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
-- [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
-- [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器。
-- [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
-- [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合。
+
 
 ## `Python`
 
 ### `Tutorial`
 
-- [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - 30秒掌握`Python`实现的代码
-- [`awesome-python`](https://github.com/vinta/awesome-python) - 精选的`Python`框架，库，软件和资源的精选列表
-- [`awesome-python-cn`](https://github.com/jobbole/awesome-python-cn) - `Python`资源大全中文版，包括：`Web`框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
-- [`awesome-python-applications`](https://github.com/mahmoud/awesome-python-applications) - `Python` 资源仓库及首页
-- [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习`Python`
-- [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - `Python` 学习示例
+
 
 ### `Library`
 
@@ -95,19 +39,13 @@ The path to growth of architects
 ## `Go`
 
 ### `Tutorial`
-- [`golang`](https://github.com/golang/go) - `Go`编程语言
-- [`gostart`](https://github.com/alco/gostart) - `Go`新手入门指南
-- [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - `Go`语法和功能概述
-- [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
-- [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
-- [`the-way-to-go_ZH_CN`](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《`The Way to Go`》中文译本，中文正式名《`Go` 入门指南》
-- [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者。
+
 - 
 
 ### `Library`
 
 - [`go-ansi`](https://github.com/k0kubun/go-ansi) - `Go`语言的`Windows`可移植`ANSI`转义序列实用程序
-- [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库，以及
+- [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库
 - [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
 - [`urfave/cli`](https://github.com/urfave/cli) - 一个简单，快速，有趣的包，用于在`Go`中构建命令行应用程序
 
@@ -115,23 +53,7 @@ The path to growth of architects
 
 ### `Tutorial`
 
-- [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点。
-- [`30-seconds/30-seconds-of-code`](https://github.com/30-seconds/30-seconds-of-code) - 精选的有用`JavaScript`代码段集合，您可以在30秒或更短的时间内理解这些代码段。
-- [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念。
-- [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
-- [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - `TypeScript`手册是`TypeScript`语言的综合指南
-- [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于`JavaScript`的系列丛书
-- [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
-- [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
-- [`yepbug/js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
-- [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈，英文版
-- [`es6tutorial`](https://github.com/ruanyf/es6tutorial) - 《`ECMAScript 6`入门》是一本开源的 `JavaScript` 语言教程，全面介绍 `ECMAScript 6` 新增的语法特性。
-- [`typescript-tutorial`](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程
-- [`TypeScript-WeChat-Starter`](https://github.com/Microsoft/TypeScript-WeChat-Starter) -  `TypeScript`和微信使用示例
-- [`TypeScript`](https://github.com/Microsoft/TypeScript) - `TypeScript` 语言
-- [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍。
-- [`zhongsp/TypeScript`](https://github.com/zhongsp/TypeScript) - `TypeScript`使用手册
-- [`freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) - 开源代码库和课程。学习与数百万人一起免费编码。
+
 
 
 ### `Library`
@@ -147,12 +69,7 @@ The path to growth of architects
 
 ### `Tutorial`
 
-- [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
-- [`Bash-Snippets`](https://github.com/alexanderepstein/Bash-Snippets) - 重型终端用户的小型`bash`脚本集合
-- [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
-- [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表。
-- [`bash-guide`](https://github.com/Idnan/bash-guide) - 学习`bash`的指南
-- [`the-art-of-command-line`](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行
+
 
 
 ### `Library`
@@ -162,8 +79,7 @@ The path to growth of architects
 
 ## `Other`
 
-- [`android_guides`](https://github.com/codepath/android_guides) - 面向`Android`开发人员的广泛开源指南
-- [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - 【`Kotlin` 视频教程】国内资料较少，我录制了一套视频作为抛砖引玉~
+
 
 # 大前端
 
@@ -521,18 +437,170 @@ The path to growth of architects
 
 # 教程
 一些语言、框架、平台、环境、工具的相关教程
+- [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
+- [`awesome`](https://github.com/sindresorhus/awesome) - 精选列表的精选列表
+- 
+## Java
+- [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) - 一份涵盖大部分`Java`程序员所需要掌握的核心知识。
+- [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
+- [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
+- [`javaee7-samples`](https://github.com/javaee-samples/javaee7-samples) - `Java 7` 示例
+- [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
+- [`java8-tutorial`](https://github.com/winterbe/java8-tutorial) - 现代`Java`  -  `Java8`指南
+- [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
+- [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
+- [`eugenp/tutorials`](https://github.com/eugenp/tutorials) - `Java`常用技术 `Spring`、核心等技术代码
+- [`java-learning`](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 `Java` 学习笔记，含博客讲解和源码实例，包括 `Java SE` 和 `Java Web`
+- [`DuGuQiuBai/Java`](https://github.com/DuGuQiuBai/Java) - 27天成为`Java`大神
+
+## Python
+- [`30-seconds-of-python-code`](https://github.com/kriadmin/30-seconds-of-python-code) - 30秒掌握`Python`实现的代码
+- [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习`Python`
+- [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - `Python` 学习示例
+- [`awesome-python`](https://github.com/vinta/awesome-python) - 精选的`Python`框架，库，软件和资源的精选列表
+- [`awesome-python-cn`](https://github.com/jobbole/awesome-python-cn) - `Python`资源大全中文版，包括：`Web`框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
+- [`awesome-python-applications`](https://github.com/mahmoud/awesome-python-applications) - `Python` 资源仓库及首页
+
+## Go
+- [`golang`](https://github.com/golang/go) - `Go`编程语言
+- [`gostart`](https://github.com/alco/gostart) - `Go`新手入门指南
+- [`go-lang-cheat-sheet`](https://github.com/a8m/go-lang-cheat-sheet) - `Go`语法和功能概述
+- [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
+- [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
+- [`the-way-to-go_ZH_CN`](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《`The Way to Go`》中文译本，中文正式名《`Go` 入门指南》
+- [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者。
+
+## JavaScript
+- [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点。
+- [`30-seconds/30-seconds-of-code`](https://github.com/30-seconds/30-seconds-of-code) - 精选的有用`JavaScript`代码段集合，您可以在30秒或更短的时间内理解这些代码段。
+- [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念。
+- [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
+- [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于`JavaScript`的系列丛书
+- [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
+- [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
+- [`yepbug/js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
+- [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈，英文版
+- [`es6tutorial`](https://github.com/ruanyf/es6tutorial) - 《`ECMAScript 6`入门》是一本开源的 `JavaScript` 语言教程，全面介绍 `ECMAScript 6` 新增的语法特性。
+- [`freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) - 开源代码库和课程。学习与数百万人一起免费编码。
+
+## TypeScript
+- [`TypeScript-Handbook`](https://github.com/Microsoft/TypeScript-Handbook) - `TypeScript`手册是`TypeScript`语言的综合指南
+- [`typescript-tutorial`](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程
+- [`TypeScript-WeChat-Starter`](https://github.com/Microsoft/TypeScript-WeChat-Starter) -  `TypeScript`和微信使用示例
+- [`TypeScript`](https://github.com/Microsoft/TypeScript) - `TypeScript` 语言
+- [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍。
+- [`zhongsp/TypeScript`](https://github.com/zhongsp/TypeScript) - `TypeScript`使用手册
+
+## Shell
+- [`cheat.sh`](https://github.com/chubin/cheat.sh) - 帮助快速查找语法点，支持多种语言
+- [`bash-guide`](https://github.com/Idnan/bash-guide) - 学习`bash`的指南
+- [`Bash-Snippets`](https://github.com/alexanderepstein/Bash-Snippets) - 重型终端用户的小型`bash`脚本集合
+- [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
+- [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表。
+- [`the-art-of-command-line`](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行
+
+## Android
+- [`android_guides`](https://github.com/codepath/android_guides) - 面向`Android`开发人员的广泛开源指南
+
+## Kotlin
+- [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - `Kotlin` 视频教程
 
 # 框架
 一些好用、热门的框架
+
 ## Java
+### IO
 - [`javapoet`](https://github.com/square/javapoet) - 用于生成`.java`源文件的`Java API`
 - [`okio`](https://github.com/square/okio) - 适用于`Java`的现代`I/O API`
 
+### Thread
+
+### Net
+
+### Reflection
+- [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
+
+
+### Spring
+- [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
+- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
+- [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
+
+- [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
+- [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
+
+### IOC
+- [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架。
+
+### ORM
+- [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
+
+### Parser
+- [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM，CSS`和`jquery`
+- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
+- [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
+
+### Serialization
+- [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器。
+- [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
+
+### Template Engine
+- [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
+
+### Connect Pool
+- [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+
+### Cache
+- [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
+
+### Crawler
+- [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
+- [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架。
+
+### Barcode
+- [`zxing`](https://github.com/zxing/zxing) - `ZXing（“Zebra Crossing”）`用于`Java/Android`的条形码扫描库
+
+### Analysis
+- [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
+- [`ansj_seg`](https://github.com/NLPchina/ansj_seg) - `ansj`分词`.ict`的真正`java`实现。分词效果速度都超过开源版的`ict`， 中文分词、人名识别、词性标注、用户自定义词典
+- [`HanLP`](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
+
+### Events
+- [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐。
+
+
+### Tests
+- [`mockito`](https://github.com/mockito/mockito) - 用Java编写的单元测试最流行的`Mocking`框架
+
+### Utils
+- [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
+- [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7,6和5中
+- [`resilience4j`](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
+
+### Native
+- [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数。
+
 # 应用
 一些好用、热门的应用
+## Java
+
+- [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合。
+- [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
+
 
 # 平台
 一些好用、热门的平台
+
+### Docker
+- [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
+- [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
+- [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
+
+### RPC
+- [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
+- [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
+
+# 资源
 
 
 # 基础(`Java`)
