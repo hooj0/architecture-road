@@ -15,6 +15,7 @@ The path to growth of architects
 各种编程语言的教程、热门框架、技术等
 
 - [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
+- [`awesome`](https://github.com/sindresorhus/awesome) - 精选列表的精选列表
 
 ## `Java`
 
@@ -157,7 +158,7 @@ The path to growth of architects
 ### `Library`
 
 - [`jq`](https://github.com/stedolan/jq) - 从文本`JSON`字符串读取数据的`shell` 工具
-- 
+- [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) - 一个令人愉快的社区驱动（有1,200多个贡献者）框架，用于管理zsh配置。包括200多个可选插件（`rails`，`git`，`OSX`，`hub`，`capistrano`，`brew`，`ant`，`php`，`python`等），超过140个主题，为您的早晨增添趣味，还有一个自动更新工具，使其易于跟上随着社区的最新更新。
 
 ## `Other`
 
@@ -237,7 +238,8 @@ The path to growth of architects
 - [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
 - [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
 - [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
-- [`go-patterns`](https://github.com/tmrts/go-patterns) - Go设计模式，食谱和习语的精选列表
+- [`go-patterns`](https://github.com/tmrts/go-patterns) - `Go`设计模式，食谱和习语的精选列表
+- [`java-design-patterns`](https://github.com/iluwatar/java-design-patterns) - 用`Java`实现的设计模式
 
 ## 数据结构
 
@@ -438,6 +440,7 @@ The path to growth of architects
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
 - [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南。
 - [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的`Git`中文教程
+- [`github-cheat-sheet`](https://github.com/tiimgreen/github-cheat-sheet) - 
 
 ## `Eclipse`
 
@@ -514,6 +517,7 @@ The path to growth of architects
 - [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 - [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
+- [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books) - 免费书单推荐
 
 # 教程
 一些语言、框架、平台、环境、工具的相关教程
