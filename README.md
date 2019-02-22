@@ -24,13 +24,13 @@ The path to growth of architects
 - [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
 - [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
 - [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
+- [`java8-tutorial`](https://github.com/winterbe/java8-tutorial) - 现代`Java`  -  `Java8`指南
 - [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
 - [`javaee7-samples`](https://github.com/javaee-samples/javaee7-samples) - `Java 7` 示例
 - [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
 - [`eugenp/tutorials`](https://github.com/eugenp/tutorials) - `Java`常用技术 `Spring`、核心等技术代码
-- [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
-- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
-- [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
+- [`java-learning`](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 `Java` 学习笔记，含博客讲解和源码实例，包括 `Java SE` 和 `Java Web`
+- [`DuGuQiuBai/Java`](https://github.com/DuGuQiuBai/Java) - 27天成为`Java`大神
 
 ### `Library`
 
@@ -59,6 +59,16 @@ The path to growth of architects
 - [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐。
 - [`mockito`](https://github.com/mockito/mockito) - 用Java编写的单元测试最流行的`Mocking`框架
 - [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
+- [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架。
+- [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
+- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
+- [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
+- [`zxing`](https://github.com/zxing/zxing) - `ZXing（“Zebra Crossing”）`用于`Java，Android`的条形码扫描库
+- [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
+- [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+- [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器。
+- [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
+- [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合。
 
 ## `Python`
 
@@ -209,6 +219,7 @@ The path to growth of architects
 
 ## 算法
 - [`TheAlgorithms/Java`](https://github.com/TheAlgorithms/Java) - 所有算法都用Java实现
+- [`kdn251/interviews`](https://github.com/kdn251/interviews) - Java实现算法
 - [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
 - [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
 - [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
@@ -234,6 +245,7 @@ The path to growth of architects
 - [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - `Java`语言玩转数据结构示例代码
 - [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的`Java`实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
 - [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - `Java`中的算法和数据结构
+- [`datastructure`](https://github.com/buptdavid/datastructure) - 用`Java`实现的数据结构暨算法，同时对其进行了测试
 - [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现。
 - [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构。
 - [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - `Python` 中文数据结构和算法教程
@@ -269,9 +281,12 @@ The path to growth of architects
 - [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
 - [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
 
+### 事件总线
+- [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量。
+
 ## 远程调用
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
-- 
+- [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架。
 ## 集群
 
 ### 配置管理
@@ -286,6 +301,9 @@ The path to growth of architects
 ### 负载均衡
 
 ### 数据同步
+
+### 分布式事务
+- [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案。
 
 
 ## 微服务
@@ -303,7 +321,8 @@ The path to growth of architects
 - [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
 ### 服务
 - [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
-- 
+- [`okhttp`](https://github.com/square/okhttp) - 适用于`Android`和`Java`应用程序的`HTTP + HTTP/2`客户端。
+- [`http-request`](https://github.com/kevinsawicki/http-request) - `Java HTTP`请求库
 ### REST
 - [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
 
@@ -322,6 +341,8 @@ The path to growth of architects
 - [`jedis`](https://github.com/xetorthio/jedis) - 一个非常小而且理智的`redis java`客户端
 
 ## 检索
+- [`elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
+- 
 
 ## 大数据
 
@@ -377,6 +398,8 @@ The path to growth of architects
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 - [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
+- [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库。
+- 
 
 
 # 操作系统
@@ -413,13 +436,14 @@ The path to growth of architects
 - [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理。
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
+- [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南。
 - [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的`Git`中文教程
 
 ## `Eclipse`
 
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - `Eclipse`插件，它理解`ANSI`转义序列以为`Eclipse`控制台输出着色
 - [`jadx`](https://github.com/skylot/jadx) - 反编译
-- 
+- [`alibaba/p3c`](https://github.com/alibaba/p3c) - 阿里巴巴`Java`编码指南`pmd`实现和`IDE`插件
 
 ## `UML`
 
@@ -436,6 +460,8 @@ The path to growth of architects
 - [`vim-galore-zh_cn`](https://github.com/wsdjeg/vim-galore-zh_cn) - `Vim` 从入门到精通
 - [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
 
+## `Cli`
+- [`httpie`](https://github.com/jakubroztocil/httpie) - 现代命令行`HTTP`客户端一样简单 - 用户友好的卷曲替代方案，具有直观的`UI`，`JSON`支持，语法突出显示，类似`wget`的下载，扩展等
 
 # 运维
 
@@ -470,6 +496,7 @@ The path to growth of architects
 - [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
 - [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
 - [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
+- [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行。
 
 # 综合
 大杂烩式的仓库
@@ -588,7 +615,7 @@ The path to growth of architects
 ### 诊断
 
 # 工具
-工欲善其事必先利其器，不管是小白，还是资深开发，玩Java技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
+工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
 
 ## IDE
 
