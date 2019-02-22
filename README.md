@@ -11,101 +11,9 @@ The path to growth of architects
 - 综合
 
 
-
-
-
-
-
-# 大前端
-
-前端常用框架技术的点，包括`Web`端、移动端等
-
-## `Web`端
-
-- [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
-- [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
-- [`ant-design`](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现。
-- [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
-- [`eva-icons`](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
-- [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
-- [`NES.css`](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **NES-风格(8位机)** 的`CSS` 框架
-- [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的`JavaScript`库
-- [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
-- [`element`](https://github.com/ElemeFE/element) - 适用于`Web`的`Vue.js 2.0` UI工具包
-- [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
-- [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录&&代码示例
-- [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
-- [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
-- [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
-- [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
-
-- [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
-- [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
-- [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
-- [`expressjs/express`](https://github.com/expressjs/express) - `Node`的快速，无偏见，极简主义的`Web`框架。
-- [`nodejs/node`](https://github.com/nodejs/node) - `Node.js JavaScript`运行时
-- [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
-- [`7-days-nodejs`](https://github.com/nqdeng/7-days-nodejs) - 七天学会`NodeJS`
-
-
-
-## `Mobile`端
-
-- [flutter](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
-- [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 `React` 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、`H5`、`React Native` 等的应用。
-- [`Tencent/weui`](https://github.com/Tencent/weui) - `WeChat`官方设计团队的`UI`库包括移动Web应用程序中最有用的小部件/模块。
-- [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际`UED`前端出品的移动端`UI`库，轻量精美
-
-## `PC`端
-
-- [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
-- [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
-- [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
-- [`proton-native`](https://github.com/kusti8/proton-native) - 适用于跨平台本机桌面应用的`React`环境
-
-
-
 # 架构
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
-
-## 算法
-- [`TheAlgorithms/Java`](https://github.com/TheAlgorithms/Java) - 所有算法都用Java实现
-- [`kdn251/interviews`](https://github.com/kdn251/interviews) - Java实现算法
-- [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
-- [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
-- [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
-- [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100%`覆盖率，不断更新。
-- [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和`LeetCode`解决方案
-- [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹—举一反三，抛弃题海战术
-- [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
-- [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
-- [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
-- [`trekhleb/javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) - 在`JavaScript`中实现的算法和数据结构，包含解释和进一步读数的链接
-- [`Python`](https://github.com/TheAlgorithms/Python) - 在`Python`中算法实现
-
-## 设计模式
-- [`java_design_patterns`](https://github.com/JamesZBL/java_design_patterns) - `Java` 实现的面向对象设计模式示例
-- [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
-- [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
-- [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
-- [`go-patterns`](https://github.com/tmrts/go-patterns) - `Go`设计模式，食谱和习语的精选列表
-- [`java-design-patterns`](https://github.com/iluwatar/java-design-patterns) - 用`Java`实现的设计模式
-
-## 数据结构
-
-- [`doubleview/data-structure`](https://github.com/doubleview/data-structure) - 基于`java`语言的数据结构及算法实现，`LeetCode`算法示例
-- [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - `Java`语言玩转数据结构示例代码
-- [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的`Java`实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
-- [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - `Java`中的算法和数据结构
-- [`datastructure`](https://github.com/buptdavid/datastructure) - 用`Java`实现的数据结构暨算法，同时对其进行了测试
-- [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现。
-- [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构。
-- [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - `Python` 中文数据结构和算法教程
-- [`Python-and-Algorithms-and-Data-Structures`](https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures) - `Python`书籍中的算法和数据结构
-- [`python-data-structure-cn`](https://github.com/facert/python-data-structure-cn) - `python` 中文版数据结构
-- [`data_structures_and_algorithms_using_javascript`](https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript) - `JavaScript` 数据结构和算法
-- [`itsy-bitsy-data-structures`](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `JS` 数据结构
 
 ## 容器
 - [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
@@ -126,6 +34,8 @@ The path to growth of architects
 - [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
 - [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
 - [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
+
+
 ## 中间件
 ### 消息队列
 - [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
@@ -370,6 +280,11 @@ The path to growth of architects
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books) - 免费书单推荐
 
+
+
+
+
+
 # 教程
 一些语言、框架、平台、环境、工具的相关教程
 - [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
@@ -440,6 +355,24 @@ The path to growth of architects
 ## `Kotlin`
 - [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - `Kotlin` 视频教程
 
+## `CSS`
+- [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
+- [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
+
+## `React.js`
+- [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的`JavaScript`库
+- [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
+- [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录&&代码示例
+
+## `Vue.js`
+- [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
+
+## `Node.js`
+- [`nodejs/node`](https://github.com/nodejs/node) - `Node.js JavaScript`运行时
+- [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
+- [`7-days-nodejs`](https://github.com/nqdeng/7-days-nodejs) - 七天学会`NodeJS`
+- [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
+
 # 框架
 一些好用、热门的框架
 
@@ -455,14 +388,12 @@ The path to growth of architects
 ### `Reflection`
 - [`ronmamo/reflections`](https://github.com/ronmamo/reflections) - `Java`反射
 
-
 ### `Spring`
 - [`spring-boot-samples`](https://github.com/netgloo/spring-boot-samples)  - `Spring Boot`示例
-- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`
+- [`spring-boot`](https://github.com/spring-projects/spring-boot) - `spring-boot`项目
 - [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
-
 - [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
-- [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - Spring数据示例项目
+- [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - `Spring`数据示例项目
 
 ### `IOC`
 - [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架。
@@ -471,8 +402,8 @@ The path to growth of architects
 - [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
 
 ### `Parser`
-- [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM，CSS`和`jquery`
-- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
+- [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM、CSS`和`jquery`
+- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
 - [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
 
 ### `Serialization`
@@ -493,7 +424,7 @@ The path to growth of architects
 - [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架。
 
 ### `Barcode`
-- [`zxing`](https://github.com/zxing/zxing) - `ZXing（“Zebra Crossing”）`用于`Java/Android`的条形码扫描库
+- [`zxing`](https://github.com/zxing/zxing) - `ZXing（Zebra Crossing）`用于`Java/Android`的条形码扫描库
 
 ### `Analysis`
 - [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
@@ -551,24 +482,63 @@ The path to growth of architects
 - [`jq`](https://github.com/stedolan/jq) - 从文本`JSON`字符串读取数据的`shell` 工具
 - [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) - 一个令人愉快的社区驱动（有1,200多个贡献者）框架，用于管理zsh配置。包括200多个可选插件（`rails`，`git`，`OSX`，`hub`，`capistrano`，`brew`，`ant`，`php`，`python`等），超过140个主题，为您的早晨增添趣味，还有一个自动更新工具，使其易于跟上随着社区的最新更新。
 
+### `CSS`
+- [`NES.css`](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **NES-风格(8位机)** 的`CSS` 框架
+
+### `Node`
+- [`expressjs/express`](https://github.com/expressjs/express) - `Node`的快速，无偏见，极简主义的`Web`框架。
+
+### `Deno`
+- [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
+
+### `UI`
+- [`Tencent/weui`](https://github.com/Tencent/weui) - `WeChat`官方设计团队的`UI`库包括移动Web应用程序中最有用的小部件/模块。
+- [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际`UED`前端出品的移动端`UI`库，轻量精美
+
 # 应用
 一些好用、热门的应用
 ## `Java`
-
 - [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合。
 - [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 
+## `Node`
+- [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
+
+## `Web`
+- [`eva-icons`](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
+- [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
+- [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
+- [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
 
 # 平台
 一些好用、热门的平台
 
-### Docker
+## `Docker`
 - [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
 - [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
 - [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
 
+## `Flutter`
+- [`flutter`](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
 
+## `Taro`
+- [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 `React` 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、`H5`、`React Native` 等的应用。
+
+## `Electron`
+- [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
+- [`electron-api-demos-Zh_CN`](https://github.com/demopark/electron-api-demos-Zh_CN) - 一个交互式的桌面应用程序，通过示例代码演示了 `Electron API` 的核心特性
+
+## `React`
+- [`facebook/create-react-app`](https://github.com/facebook/create-react-app) - 通过命令行快速创建`react`应用
+- [`ant-design`](https://github.com/ant-design/ant-design) - 企业级`UI`设计语言和`React`实现
+- [`proton-native`](https://github.com/kusti8/proton-native) - 适用于跨平台本机桌面应用的`React`环境
+
+## `Vue`
+- [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
+- [`element`](https://github.com/ElemeFE/element) - 适用于`Web`的`Vue.js 2.0 UI`工具包
+- [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
+- [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
 
 
 # 基础(`Java`)
@@ -580,9 +550,69 @@ The path to growth of architects
 
 
 # 高级
+
 ## 数据结构
+### `Java`
+- [`doubleview/data-structure`](https://github.com/doubleview/data-structure) - 基于`java`语言的数据结构及算法实现，`LeetCode`算法示例
+- [`Play-with-Data-Structures`](https://github.com/liuyubobobo/Play-with-Data-Structures) - `Java`语言玩转数据结构示例代码
+- [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的`Java`实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
+- [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - `Java`中的算法和数据结构
+- [`datastructure`](https://github.com/buptdavid/datastructure) - 用`Java`实现的数据结构暨算法，同时对其进行了测试
+- [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现。
+
+### `Go`
+- [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构。
+
+### `Python`
+- [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - `Python` 中文数据结构和算法教程
+- [`Python-and-Algorithms-and-Data-Structures`](https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures) - `Python`书籍中的算法和数据结构
+- [`python-data-structure-cn`](https://github.com/facert/python-data-structure-cn) - `python` 中文版数据结构
+
+### `JavaScript`
+- [`data_structures_and_algorithms_using_javascript`](https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript) - `JavaScript` 数据结构和算法
+- [`itsy-bitsy-data-structures`](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `JS` 数据结构
+
+
 ## 程序算法
+### `Java`
+- [`TheAlgorithms/Java`](https://github.com/TheAlgorithms/Java) - 所有算法都用Java实现
+- [`kdn251/interviews`](https://github.com/kdn251/interviews) - Java实现算法
+- [`Algorithms`](https://github.com/YangXiaoHei/Algorithms) - 算法4 所有练习题的 `Java` 实现
+- [`LeetCodeAnimation`](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解`LeetCode`算法题目的思路
+- [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
+
+### `Go`
+- [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100%`覆盖率，不断更新。
+- [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和`LeetCode`解决方案
+- [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹—举一反三，抛弃题海战术
+
+### `JavaScript`
+- [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
+- [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
+- [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
+- [`trekhleb/javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) - 在`JavaScript`中实现的算法和数据结构，包含解释和进一步读数的链接
+
+### `Python`
+- [`Python`](https://github.com/TheAlgorithms/Python) - 在`Python`中算法实现
+
+
 ## 设计模式
+
+### `Java`
+- [`java_design_patterns`](https://github.com/JamesZBL/java_design_patterns) - `Java` 实现的面向对象设计模式示例
+- [`java-design-patterns`](https://github.com/iluwatar/java-design-patterns) - 用`Java`实现的设计模式
+
+### `JavaScript`
+- [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
+
+### `Python`
+- [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
+- [`design-patterns-for-humans`](https://github.com/kamranahmedse/design-patterns-for-humans) - 设计模式的超简化解释
+
+### `Go`
+- [`go-patterns`](https://github.com/tmrts/go-patterns) - `Go`设计模式，食谱和习语的精选列表
+
+
 
 # 设计
 
