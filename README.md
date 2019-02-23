@@ -15,37 +15,7 @@ The path to growth of architects
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-## 容器
-- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
-- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
-- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
-- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
-- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
-- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
-- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
-- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
-- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
-- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
-- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
-- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
-- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
-- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
-- [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
-- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
-- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
-- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
 
-
-## 中间件
-### 消息队列
-- [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
-
-### 权限
-- [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
-- [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
-
-### 事件总线
-- [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量。
 
 ## 远程调用
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
@@ -235,18 +205,10 @@ The path to growth of architects
 - [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
 
 ## 自动化
-### `Jenkins`
-- [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
-- [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
-### `Ansible`
-- [`ansible`](https://github.com/ansible/ansible) - `Ansible`是一个极其简单的`IT`自动化平台，可使您的应用程序和系统更易于部署。
-- [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具。
-- [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
-- [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作。
 
 ## 工具
-- [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
+
 
 
 # 面试
@@ -356,6 +318,9 @@ The path to growth of architects
 - [`nodejs`](https://github.com/Web-Dev-Tutor/nodejs) - `Node.js`基础与应用教程，适合初学者入门
 - [`7-days-nodejs`](https://github.com/nqdeng/7-days-nodejs) - 七天学会`NodeJS`
 - [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
+
+## `Linux`
+- [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
 
 # 框架
 一些好用、热门的框架
@@ -621,9 +586,9 @@ The path to growth of architects
 任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
 ## 性能指标体系
 
-## JVM调优
+## `JVM`调优
 
-## Web调优
+## `Web`调优
 
 ## 数据库调优
 
@@ -641,6 +606,26 @@ The path to growth of architects
 
 ### 数据库
 
+### 容器
+- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
+- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
+- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
+- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
+- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
+- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
+- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
+- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
+- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
+- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
+- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
+- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
+- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
+- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
+- [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
+- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
+- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
+- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
+
 ### 持续集成
 
 ### 持续部署
@@ -648,10 +633,22 @@ The path to growth of architects
 ## 中间件
 
 ### 基础框架
+#### 权限
+---
+- [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
+- [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
 
 ### 公共组件
+#### 消息队列
+---
+- [`rabbitmq/rabbitmq-tutorials`](https://github.com/rabbitmq/rabbitmq-tutorials) - 以各种方式使用RabbitMQ的教程
 
+#### 事件总线
+---
+- [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量。
 ### 通用服务
+
+
 
 ## 分布式
 ### 原理
@@ -679,7 +676,15 @@ The path to growth of architects
 Maven，
 
 ## 持续集成
-Jenkins，
+### `Jenkins`
+- [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
+- [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
+
+### `Ansible`
+- [`ansible`](https://github.com/ansible/ansible) - `Ansible`是一个极其简单的`IT`自动化平台，可使您的应用程序和系统更易于部署。
+- [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具。
+- [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
+- [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作。
 
 ## 代码质量
 Sonar，
