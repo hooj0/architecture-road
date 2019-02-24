@@ -15,42 +15,7 @@ The path to growth of architects
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-## 大数据
 
-## 区块链
-- [`lhartikk/naivechain`](https://github.com/lhartikk/naivechain) - 200行代码中的区块链实现
-- [`sunysen/naivechain`](https://github.com/sunysen/naivechain) - 200行代码中的区块链实现。
-- [`SimpleCoin`](https://github.com/cosme12/SimpleCoin) - 只是一个非常简单，不安全和不完整的加密货币区块链实现，用`Python`作为教育材料。换句话说，一个简单的比特币克隆。
-- [`bitcoinj`](https://github.com/bitcoinj/bitcoinj) - 用于处理比特币的库
-- [`cryptocurrency`](https://github.com/michaelliao/cryptocurrency) - 简单的Java库与比特币交互
-- [`mipengchong/blockchain`](https://github.com/mipengchong/blockchain) - 免费分享区块链白皮书，涉及各门各派。
-### `Hyperledger`
-- [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
-- [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
-- [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
-- [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
-- [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
-- [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
-- [`fabric-starter`](https://github.com/olegabu/fabric-starter) - `Hyperledger Fabric`的入门应用程序和部署脚本
-- [`yeasy/hyperledger_code_fabric`](https://github.com/yeasy/hyperledger_code_fabric) -  `hyperledger fabric`项目的代码分析
-- [`shanlusun/blockchain`](https://github.com/shanlusun/blockchain) - 在区块链上学习，一步一步
-- [`awesome-blockchain-cn`](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(`BlockChain`)技术开发相关资料，包括`Fabric`和`Ethereum`开发资料
-- [`blockchain-tutorial`](https://github.com/liuchengxu/blockchain-tutorial) - 区块链教程
-
-### `Ethereum`
-- [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
-- [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
-
-### `EOS`
-- [`eos`](https://github.com/EOSIO/eos) - 一个开源的智能合约平台
-
-## 人工智能
-
-### 深度学习
-- [`bert`](https://github.com/google-research/bert) - `TensorFlow`代码和`BERT`预训练模型
-- [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
-- [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
-- [`Deeplearning4j`](https://github.com/deeplearning4j/deeplearning4j) - `Deeplearning4j，ND4J，DataVec`等 -  `Java/Scala`的深度学习和线性代数与`GPU + Spark`
 
 ## 安全
 ### 监控
@@ -70,7 +35,7 @@ The path to growth of architects
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 - [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
 - [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库。
-- 
+
 
 
 # 操作系统
@@ -427,6 +392,45 @@ The path to growth of architects
 - [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
 - [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
 
+# 热门资源
+介绍当下流行的技术模块，如大数据、区块链、人工智能等
+
+## 大数据
+
+## 区块链
+- [`lhartikk/naivechain`](https://github.com/lhartikk/naivechain) - 200行代码中的区块链实现
+- [`sunysen/naivechain`](https://github.com/sunysen/naivechain) - 200行代码中的区块链实现。
+- [`SimpleCoin`](https://github.com/cosme12/SimpleCoin) - 只是一个非常简单，不安全和不完整的加密货币区块链实现，用`Python`作为教育材料。换句话说，一个简单的比特币克隆。
+- [`bitcoinj`](https://github.com/bitcoinj/bitcoinj) - 用于处理比特币的库
+- [`cryptocurrency`](https://github.com/michaelliao/cryptocurrency) - 简单的Java库与比特币交互
+- [`mipengchong/blockchain`](https://github.com/mipengchong/blockchain) - 免费分享区块链白皮书，涉及各门各派。
+### `Hyperledger`
+- [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
+- [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
+- [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
+- [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
+- [`fabric-explorer`](https://github.com/xuehuiit/fabric-explorer) - `Fabric-explorer`是一个简单，功能强大，可维护的开源结构浏览器
+- [`balance-transfer-java`](https://github.com/MindtreeLtd/balance-transfer-java) - 超级账本转账示例
+- [`fabric-starter`](https://github.com/olegabu/fabric-starter) - `Hyperledger Fabric`的入门应用程序和部署脚本
+- [`yeasy/hyperledger_code_fabric`](https://github.com/yeasy/hyperledger_code_fabric) -  `hyperledger fabric`项目的代码分析
+- [`shanlusun/blockchain`](https://github.com/shanlusun/blockchain) - 在区块链上学习，一步一步
+- [`awesome-blockchain-cn`](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(`BlockChain`)技术开发相关资料，包括`Fabric`和`Ethereum`开发资料
+- [`blockchain-tutorial`](https://github.com/liuchengxu/blockchain-tutorial) - 区块链教程
+
+### `Ethereum`
+- [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
+- [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
+
+### `EOS`
+- [`eos`](https://github.com/EOSIO/eos) - 一个开源的智能合约平台
+
+## 人工智能
+
+### 深度学习
+- [`bert`](https://github.com/google-research/bert) - `TensorFlow`代码和`BERT`预训练模型
+- [`DeepLearning-500-questions`](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者
+- [`machine-learning-cheat-sheet`](https://github.com/soulmachine/machine-learning-cheat-sheet) - 机器学习中的经典方程和图表
+- [`Deeplearning4j`](https://github.com/deeplearning4j/deeplearning4j) - `Deeplearning4j，ND4J，DataVec`等 -  `Java/Scala`的深度学习和线性代数与`GPU + Spark`
 
 # 基础(`Java`)
 ## 输入输出
