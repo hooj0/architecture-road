@@ -11,33 +11,6 @@ The path to growth of architects
 - 综合
 
 
-# 架构
-
-有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
-
-
-
-## 安全
-### 监控
-
-- [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
-- [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
-- [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
-- [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
-- [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
-### 防御
-- [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
-
-### 容灾
-
-### 诊断
-
-- [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
-- [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
-- [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库。
-
-
-
 # 操作系统
 
 有关系统的设计和操作相关的知识点
@@ -670,9 +643,22 @@ The path to growth of architects
 
 ## 安全
 ### 监控
+
+- [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
+- [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
+- [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
+- [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
+- [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
 ### 防御
+- [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
+
 ### 容灾
+
 ### 诊断
+
+- [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
+- [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
+- [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库。
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
