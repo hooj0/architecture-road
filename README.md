@@ -15,50 +15,6 @@ The path to growth of architects
 
 有关架构的算法、设计模式、数据结构、集群应用、大数据和区块链的应用等
 
-
-
-
-
-
-
-## 微服务
-
-- [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
-- [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
-- 
-## 网络
-### 异步
-- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
-- [`async-http-client`](https://github.com/AsyncHttpClient/async-http-client) - 用于`Java`的异步`Http`和`WebSocket`客户端库
-### 协议
-- [`Vamei/Protocol-Forest-Vamei`](https://github.com/Vamei/Protocol-Forest-Vamei) - 协议森林
-### 安全
-- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
-### 服务
-- [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
-- [`okhttp`](https://github.com/square/okhttp) - 适用于`Android`和`Java`应用程序的`HTTP + HTTP/2`客户端。
-- [`http-request`](https://github.com/kevinsawicki/http-request) - `Java HTTP`请求库
-### REST
-- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
-
-## 数据库
-### 面对对象型
-### 关系型
-### `NoSQL`
-### 其他
-- [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
-- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
-- [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
-
-## 缓存
-- [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
-- [`Redisson`](https://github.com/redisson/redisson) -   分布式`Java`对象和服务（`Set，Multimap，SortedSet，Map，List，Queue，Deque，Semaphore，Lock，AtomicLong，Map Reduce，Publish/Subscribe，Bloom filter，Spring Cache，Tomcat，Scheduler，JCache API，Hibernate`）在`Redis`服务器上。最先进的`Redis Java`客户端
-- [`jedis`](https://github.com/xetorthio/jedis) - 一个非常小而且理智的`redis java`客户端
-
-## 检索
-- [`elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
-- 
-
 ## 大数据
 
 ## 区块链
@@ -85,7 +41,7 @@ The path to growth of architects
 - [`go-ethereum`](https://github.com/ethereum/go-ethereum) - 官方`Go`实施以太坊协议
 - [`ethereumbook`](https://github.com/ethereumbook/ethereumbook) - 掌握以太坊
 
-### EOS
+### `EOS`
 - [`eos`](https://github.com/EOSIO/eos) - 一个开源的智能合约平台
 
 ## 人工智能
@@ -585,28 +541,43 @@ The path to growth of architects
 ### 服务器
 
 ### 网络
-
+有关网络协议、安全、服务的框架和工具
+#### 异步
+---
+- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
+- [`async-http-client`](https://github.com/AsyncHttpClient/async-http-client) - 用于`Java`的异步`Http`和`WebSocket`客户端库
+#### 协议
+---
+- [`Vamei/Protocol-Forest-Vamei`](https://github.com/Vamei/Protocol-Forest-Vamei) - 协议森林
+#### 安全
+---
+- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
+#### 服务
+---
+- [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
+- [`okhttp`](https://github.com/square/okhttp) - 适用于`Android`和`Java`应用程序的`HTTP + HTTP/2`客户端。
+- [`http-request`](https://github.com/kevinsawicki/http-request) - `Java HTTP`请求库
+#### REST
+---
+- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
 ### 数据库
+有关数据库的框架和数据库相关知识
+#### 面对对象型
+---
+#### 关系型
+---
+#### `NoSQL`
+---
+#### 其他
+---
+- [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
+- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
+- [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
 
-### 容器
-- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
-- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
-- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
-- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
-- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
-- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
-- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
-- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
-- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
-- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
-- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
-- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
-- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
-- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
-- [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
-- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
-- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
-- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
+### 缓存
+- [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
+- [`Redisson`](https://github.com/redisson/redisson) -   分布式`Java`对象和服务（`Set，Multimap，SortedSet，Map，List，Queue，Deque，Semaphore，Lock，AtomicLong，Map Reduce，Publish/Subscribe，Bloom filter，Spring Cache，Tomcat，Scheduler，JCache API，Hibernate`）在`Redis`服务器上。最先进的`Redis Java`客户端
+- [`jedis`](https://github.com/xetorthio/jedis) - 一个非常小而且理智的`redis java`客户端
 
 ### 持续集成
 
@@ -661,9 +632,37 @@ The path to growth of architects
 ---
 - [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案。
 
+#### 检索
+---
+- [`elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
+
+
 ## 微服务
 ### 微服务框架
+- [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
+- [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
 ### 虚拟化
+#### 容器
+---
+- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
+- [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
+- [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
+- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
+- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
+- [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
+- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
+- [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
+- [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
+- [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
+- [`google/gvisor`](https://github.com/google/gvisor) - 容器运行时沙箱
+- [`docker-selenium`](https://github.com/SeleniumHQ/docker-selenium) - `Selenium Grid Server`（独立，集线器和节点）的`Docker`镜像
+- [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
+- [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
+- [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
+- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
+- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
+- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
+
 
 ## 安全
 ### 监控
