@@ -17,11 +17,11 @@ The path to growth of architects
 - [`awesome`](https://github.com/sindresorhus/awesome) - 精选列表的精选列表
 
 ## `Java`
-- [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) - 一份涵盖大部分`Java`程序员所需要掌握的核心知识。
+- [`JavaGuide`](https://github.com/Snailclimb/JavaGuide) - 一份涵盖大部分`Java`程序员所需要掌握的核心知识
 - [`Java-Notes`](https://github.com/PansonPanson/Java-Notes) - 计算机科学基础知识、`Java`开发、后端/服务端、面试相关
 - [`30-seconds-of-java`](https://github.com/shekhargulati/30-seconds-of-java) - 可以快速理解的有用的小`Java`函数的精选集合
 - [`javaee7-samples`](https://github.com/javaee-samples/javaee7-samples) - `Java 7` 示例
-- [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段。
+- [`30-seconds-of-java8`](https://github.com/biezhi/30-seconds-of-java8) - 30秒收集有用的`Java 8`片段
 - [`java8-tutorial`](https://github.com/winterbe/java8-tutorial) - 现代`Java`  -  `Java8`指南
 - [`learn-java8`](https://github.com/biezhi/learn-java8) - 《跟上 `Java 8`》视频课程源码
 - [`java 11-examples`](https://github.com/biezhi/java11-examples) - `java 11`示例代码
@@ -34,7 +34,7 @@ The path to growth of architects
 - [`LearnPython`](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习`Python`
 - [`geekcomputers/Python`](https://github.com/geekcomputers/Python) - `Python` 学习示例
 - [`awesome-python`](https://github.com/vinta/awesome-python) - 精选的`Python`框架，库，软件和资源的精选列表
-- [`awesome-python-cn`](https://github.com/jobbole/awesome-python-cn) - `Python`资源大全中文版，包括：`Web`框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
+- [`awesome-python-cn`](https://github.com/jobbole/awesome-python-cn) - `Python`资源大全中文版，包括：`Web`框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新
 - [`awesome-python-applications`](https://github.com/mahmoud/awesome-python-applications) - `Python` 资源仓库及首页
 
 ## `Go`
@@ -44,19 +44,19 @@ The path to growth of architects
 - [`example.v2`](https://github.com/gopcp/example.v2) - 《`Go`并发编程实战》第2版
 - [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
 - [`the-way-to-go_ZH_CN`](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《`The Way to Go`》中文译本，中文正式名《`Go` 入门指南》
-- [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者。
+- [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者
 
 ## `JavaScript`
-- [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点。
-- [`30-seconds/30-seconds-of-code`](https://github.com/30-seconds/30-seconds-of-code) - 精选的有用`JavaScript`代码段集合，您可以在30秒或更短的时间内理解这些代码段。
-- [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念。
+- [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点
+- [`30-seconds/30-seconds-of-code`](https://github.com/30-seconds/30-seconds-of-code) - 精选的有用`JavaScript`代码段集合，您可以在30秒或更短的时间内理解这些代码段
+- [`33-js-concepts`](https://github.com/leonardomso/33-js-concepts) - 每个`JavaScript`开发人员应该知道33个概念
 - [`33-js-concepts-ZH-CN`](https://github.com/stephentian/33-js-concepts) - 同上，中文版
 - [`You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS) - 关于`JavaScript`的系列丛书
 - [`airbnb/javascript`](https://github.com/airbnb/javascript) - `JavaScript`样式指南
 - [`jstutorial`](https://github.com/ruanyf/jstutorial) - `Javascript`教程书
 - [`yepbug/js-stack-from-scratch`](https://github.com/yepbug/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈
 - [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch) - 从零开始构建 `JavaScript` 技术栈，英文版
-- [`es6tutorial`](https://github.com/ruanyf/es6tutorial) - 《`ECMAScript 6`入门》是一本开源的 `JavaScript` 语言教程，全面介绍 `ECMAScript 6` 新增的语法特性。
+- [`es6tutorial`](https://github.com/ruanyf/es6tutorial) - 《`ECMAScript 6`入门》是一本开源的 `JavaScript` 语言教程，全面介绍 `ECMAScript 6` 新增的语法特性
 - [`freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) - 开源代码库和课程。学习与数百万人一起免费编码。
 
 ## `TypeScript`
@@ -64,7 +64,7 @@ The path to growth of architects
 - [`typescript-tutorial`](https://github.com/xcatliu/typescript-tutorial) - `TypeScript` 入门教程
 - [`TypeScript-WeChat-Starter`](https://github.com/Microsoft/TypeScript-WeChat-Starter) -  `TypeScript`和微信使用示例
 - [`TypeScript`](https://github.com/Microsoft/TypeScript) - `TypeScript` 语言
-- [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍。
+- [`typescript-book`](https://github.com/basarat/typescript-book) - TypeScript的权威指南，可能是最好的`TypeScript`书籍
 - [`zhongsp/TypeScript`](https://github.com/zhongsp/TypeScript) - `TypeScript`使用手册
 
 ## `Shell`
@@ -72,7 +72,7 @@ The path to growth of architects
 - [`bash-guide`](https://github.com/Idnan/bash-guide) - 学习`bash`的指南
 - [`Bash-Snippets`](https://github.com/alexanderepstein/Bash-Snippets) - 重型终端用户的小型`bash`脚本集合
 - [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
-- [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表。
+- [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表
 - [`the-art-of-command-line`](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行
 
 ## `Android`
@@ -82,13 +82,13 @@ The path to growth of architects
 - [`Kotlin-Tutorials`](https://github.com/enbandari/Kotlin-Tutorials) - `Kotlin` 视频教程
 
 ## `CSS`
-- [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段。
-- [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师。
+- [`30-seconds-of-css`](https://github.com/30-seconds/30-seconds-of-css) - 精选的有用`CSS`片段集合，您可以在30秒或更短的时间内理解这些片段
+- [`magic-of-css`](https://github.com/adamschwartz/magic-of-css) - 一门`CSS`课程，让你成为一名魔术师
 
 ## `React.js`
 - [`react`](https://github.com/facebook/react) - 用于构建用户界面的声明性，高效且灵活的`JavaScript`库
 - [`react-developer-roadmap`](https://github.com/adam-golab/react-developer-roadmap) - 成为2019年`React`开发人员的路线图
-- [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录&&代码示例
+- [`react-redux-tutorial`](https://github.com/lewis617/react-redux-tutorial) - `react-redux-tutorial`中文，目录、代码示例
 
 ## `Vue.js`
 - [`vue-tutorials`](https://github.com/keepfool/vue-tutorials) - 深入了解`Vue.js`
@@ -101,7 +101,7 @@ The path to growth of architects
 
 ## `Linux`
 - [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
-- [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员。
+- [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员
 
 # 框架
 一些好用、热门的框架
@@ -126,43 +126,43 @@ The path to growth of architects
 - [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - `Spring`数据示例项目
 
 ### `IOC`
-- [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架。
+- [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架
 
 ### `ORM`
 - [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
 
 ### `Parser`
 - [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM、CSS`和`jquery`
-- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。
-- [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行。
+- [`antlr4`](https://github.com/antlr/antlr4) - `ANTLR`是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件
+- [`jansi`](https://github.com/fusesource/jansi) - `Jansi`是一个小型`java`库，允许您使用`ANSI`转义序列来格式化控制台输出，甚至可以在`Windows`上运行
 
 ### `Serialization`
-- [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器。
+- [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器
 - [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
 
 ### `Template Engine`
 - [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
 
 ### `Connect Pool`
-- [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+- [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
 
 ### `Cache`
 - [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
 
 ### `Crawler`
 - [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
-- [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架。
+- [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架
 
 ### `Barcode`
 - [`zxing`](https://github.com/zxing/zxing) - `ZXing（Zebra Crossing）`用于`Java/Android`的条形码扫描库
 
 ### `Analysis`
-- [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典。
+- [`elasticsearch-analysis-ik`](https://github.com/medcl/elasticsearch-analysis-ik) - `IK Analysis`插件将`Lucene IK`分析器集成到`elasticsearch`中，支持自定义词典
 - [`ansj_seg`](https://github.com/NLPchina/ansj_seg) - `ansj`分词`.ict`的真正`java`实现。分词效果速度都超过开源版的`ict`， 中文分词、人名识别、词性标注、用户自定义词典
-- [`HanLP`](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
+- [`HanLP`](https://github.com/hankcs/HanLP) - 自然语言处理、中文分词、词性标注、命名实体识别、依存句法分析、新词发现、关键词短语提取、自动摘要、文本分类聚类、拼音简繁
 
 ### `Events`
-- [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐。
+- [`Vert.x`](https://github.com/eclipse-vertx/vert.x) - `Vert.x`是一个用于在`JVM`上构建响应式应用程序的工具包。`Vert.x`框架基于事件和异步，依托于全异步`Java`服务器`Netty`，并扩展了很多其他特性，以其轻量、高性能、支持多语言开发而备受开发者青睐
 
 
 ### `Tests`
@@ -170,11 +170,11 @@ The path to growth of architects
 
 ### `Utils`
 - [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
-- [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7,6和5中
+- [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7、6和5中
 - [`resilience4j`](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
 
 ### `Native`
-- [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数。
+- [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数
 
 ### `RPC`
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
@@ -189,10 +189,10 @@ The path to growth of architects
 - [`termgraph`](https://github.com/mkaz/termgraph) - 一个`python`命令行工具，它在终端中绘制基本图形
 
 ### `Crawler`
-- [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架。
+- [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架
 
 ### `Web Framework`
-- [`flask`](https://github.com/pallets/flask) - 用于构建`Web`应用程序的`Python`微框架。
+- [`flask`](https://github.com/pallets/flask) - 用于构建`Web`应用程序的`Python`微框架
 - [`django`](https://github.com/django/django) - `Web`框架
 
 ## `Go`
@@ -206,11 +206,11 @@ The path to growth of architects
 - [`grpc-web`](https://github.com/grpc/grpc-web) - 适用于`Web`客户端的`gRPC`
 - [`dayjs`](https://github.com/iamkun/dayjs) - `Day.js 2KB`不可变日期库替代`Moment.js`，具有相同的现代`API`
 - [`ReLaXed`](https://github.com/RelaxedJS/ReLaXed) - 使用`Web`技术创建`PDF`文档
-- [`standard`](https://github.com/standard/standard) - `JavaScript` 代码规范，自带 `linter` & 代码自动修正
+- [`standard`](https://github.com/standard/standard) - `JavaScript` 代码规范，自带 `linter` 代码自动修正
 
 ### `Shell`
 - [`jq`](https://github.com/stedolan/jq) - 从文本`JSON`字符串读取数据的`shell` 工具
-- [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) - 一个令人愉快的社区驱动（有1,200多个贡献者）框架，用于管理zsh配置。包括200多个可选插件（`rails`，`git`，`OSX`，`hub`，`capistrano`，`brew`，`ant`，`php`，`python`等），超过140个主题，为您的早晨增添趣味，还有一个自动更新工具，使其易于跟上随着社区的最新更新。
+- [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) - 一个令人愉快的社区驱动（有1,200多个贡献者）框架，用于管理zsh配置。包括200多个可选插件（`rails`，`git`，`OSX`，`hub`，`capistrano`，`brew`，`ant`，`php`，`python`等），超过140个主题，还有一个自动更新工具，使其易于跟上随着社区的最新更新
 
 ### `CSS`
 - [`NES.css`](https://github.com/nostalgic-css/NES.css) - `NES.css` 是一款 **NES-风格(8位机)** 的`CSS` 框架
@@ -222,13 +222,13 @@ The path to growth of architects
 - [`denoland/deno`](https://github.com/denoland/deno) - 下一代`Node.js`
 
 ### `UI`
-- [`Tencent/weui`](https://github.com/Tencent/weui) - `WeChat`官方设计团队的`UI`库包括移动Web应用程序中最有用的小部件/模块。
+- [`Tencent/weui`](https://github.com/Tencent/weui) - `WeChat`官方设计团队的`UI`库包括移动Web应用程序中最有用的小部件/模块
 - [`sdc-alibaba/SUI-Mobile`](https://github.com/sdc-alibaba/SUI-Mobile) - 阿里巴巴国际`UED`前端出品的移动端`UI`库，轻量精美
 
 # 应用
 一些好用、热门的应用
 ## `Java`
-- [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合。
+- [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合
 - [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 
@@ -236,25 +236,25 @@ The path to growth of architects
 - [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
 
 ## `Web`
-- [`eva-icons`](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标。
+- [`eva-icons`](https://github.com/akveo/eva-icons) - 一包超过480个精美的开源图标
 - [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 - [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
-- [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
+- [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像
 
 
 # 平台
 一些好用、热门的平台
 
 ## `Docker`
-- [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例。
+- [`testcontainers-java`](https://github.com/testcontainers/testcontainers-java) - `Testcontainers`是一个支持`JUnit`测试的`Java`库，提供常见数据库，`Selenium Web`浏览器或可以在`Docker`容器中运行的任何其他东西的轻量级，一次性实例
 - [`docker-java`](https://github.com/docker-java/docker-java) - `Java Docker API`客户端
 - [`jib`](https://github.com/GoogleContainerTools/jib) - 为`Java`应用程序构建`docker`容器映像
 
 ## `Flutter`
-- [`flutter`](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序。
+- [`flutter`](https://github.com/flutter/flutter) - `Flutter`可以轻松快速地构建漂亮的移动应用程序
 
 ## `Taro`
-- [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 `React` 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、`H5`、`React Native` 等的应用。
+- [`taro`](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 `React` 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、`H5`、`React Native` 等的应用
 
 ## `Electron`
 - [`electron`](https://github.com/electron) - 使用`JavaScript`，`HTML`和`CSS`构建跨平台桌面应用程序，此应用程序适用于 `Windows`, `macOS` 和 `Linux` 操作系统
@@ -266,10 +266,10 @@ The path to growth of architects
 - [`proton-native`](https://github.com/kusti8/proton-native) - 适用于跨平台本机桌面应用的`React`环境
 
 ## `Vue`
-- [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`。
+- [`vuejs/vue`](https://github.com/vuejs/vue) - `Vue.js`是一个渐进的，可逐步采用的`JavaScript`框架，用于在`Web`上构建`UI`
 - [`element`](https://github.com/ElemeFE/element) - 适用于`Web`的`Vue.js 2.0 UI`工具包
 - [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
-- [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序。
+- [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序
 
 # 热门资源
 介绍当下流行的技术模块，如大数据、区块链、人工智能等
@@ -278,13 +278,15 @@ The path to growth of architects
 
 ## 区块链
 - [`lhartikk/naivechain`](https://github.com/lhartikk/naivechain) - 200行代码中的区块链实现
-- [`sunysen/naivechain`](https://github.com/sunysen/naivechain) - 200行代码中的区块链实现。
-- [`SimpleCoin`](https://github.com/cosme12/SimpleCoin) - 只是一个非常简单，不安全和不完整的加密货币区块链实现，用`Python`作为教育材料。换句话说，一个简单的比特币克隆。
+- [`sunysen/naivechain`](https://github.com/sunysen/naivechain) - 200行代码中的区块链实现
+- [`SimpleCoin`](https://github.com/cosme12/SimpleCoin) - 只是一个非常简单，不安全和不完整的加密货币区块链实现，用`Python`作为教育材料。换句话说，一个简单的比特币克隆
 - [`bitcoinj`](https://github.com/bitcoinj/bitcoinj) - 用于处理比特币的库
 - [`cryptocurrency`](https://github.com/michaelliao/cryptocurrency) - 简单的Java库与比特币交互
-- [`mipengchong/blockchain`](https://github.com/mipengchong/blockchain) - 免费分享区块链白皮书，涉及各门各派。
+- [`mipengchong/blockchain`](https://github.com/mipengchong/blockchain) - 免费分享区块链白皮书，涉及各门各派
+
+
 ### `Hyperledger`
-- [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界。
+- [`blockchain_guide`](https://github.com/yeasy/blockchain_guide) - 介绍区块链相关技术，从理论到实践，比特币，以太币和超级边界
 - [`Composer`](https://github.com/hyperledger/composer) - `Composer`是构建区块链业务网络的框架
 - [`caliper`](https://github.com/hyperledger/caliper) - 区块链基准框架，用于衡量多个区块链解决方案的绩效
 - [`hyperledger_on_swarm`](https://github.com/ChoiSD/hyperledger_on_swarm) - `hyperledger fabric docker`集群
@@ -328,10 +330,10 @@ The path to growth of architects
 - [`githubofrico/DataStructure`](https://github.com/githubofrico/DataStructure) - 常用数据结构及其算法的`Java`实现，包括但不仅限于链表、栈，队列，树，堆，图等经典数据结构及其他经典基础算法(如排序等)
 - [`Algorithms-and-Data-Structures-in-Java`](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java) - `Java`中的算法和数据结构
 - [`datastructure`](https://github.com/buptdavid/datastructure) - 用`Java`实现的数据结构暨算法，同时对其进行了测试
-- [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现。
+- [`wangkuiwu/datastructs_and_algorithm`](https://github.com/wangkuiwu/datastructs_and_algorithm) - `C/C++/Java`中的数据结构和算法介绍与实现
 
 ### `Go`
-- [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构。
+- [`timtadh/data-structures`](https://github.com/timtadh/data-structures) - `Go`语言实现数据结构
 
 ### `Python`
 - [`python_data_structures_and_algorithms`](https://github.com/PegasusWang/python_data_structures_and_algorithms) - `Python` 中文数据结构和算法教程
@@ -352,14 +354,14 @@ The path to growth of architects
 - [`pedrovgs/Algorithms`](https://github.com/pedrovgs/Algorithms) - 用`Java`编写的一些常见算法问题的解决方案
 
 ### `Go`
-- [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100%`覆盖率，不断更新。
+- [`aQuaYi/LeetCode-in-Go`](https://github.com/aQuaYi/LeetCode-in-Go) - 针对`LeetCode`算法问题的解决方案，`100%`覆盖率，不断更新
 - [`brianway/algorithms-learning`](https://github.com/brianway/algorithms-learning) - 算法学习笔记和`LeetCode`解决方案
 - [`soulmachine/algorithm-essentials`](https://github.com/soulmachine/algorithm-essentials) - 算法精粹—举一反三，抛弃题海战术
 
 ### `JavaScript`
 - [`JS-Sorting-Algorithm`](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 `GitBook` 在线书籍 《十大经典排序算法》，使用 `JavaScript & Python & Go & Java` 实现
 - [`linyiqun/DataMiningAlgorithm`](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典`DM`算法
-- [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题。
+- [`geguofeng/algorithm-learning`](https://github.com/geguofeng/algorithm-learning) - 算法与数据结构学习，《程序员代码面试指南》和`LintCode`刷题
 - [`trekhleb/javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) - 在`JavaScript`中实现的算法和数据结构，包含解释和进一步读数的链接
 
 ### `Python`
@@ -373,7 +375,7 @@ The path to growth of architects
 - [`java-design-patterns`](https://github.com/iluwatar/java-design-patterns) - 用`Java`实现的设计模式
 
 ### `JavaScript`
-- [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码。
+- [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码
 
 ### `Python`
 - [`python-patterns`](https://github.com/faif/python-patterns) - `Python`中的一系列设计模式/习语
@@ -434,15 +436,15 @@ The path to growth of architects
 - [`Vamei/Protocol-Forest-Vamei`](https://github.com/Vamei/Protocol-Forest-Vamei) - 协议森林
 #### 安全
 ---
-- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等。
+- [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等
 #### 服务
 ---
 - [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
-- [`okhttp`](https://github.com/square/okhttp) - 适用于`Android`和`Java`应用程序的`HTTP + HTTP/2`客户端。
+- [`okhttp`](https://github.com/square/okhttp) - 适用于`Android`和`Java`应用程序的`HTTP + HTTP/2`客户端
 - [`http-request`](https://github.com/kevinsawicki/http-request) - `Java HTTP`请求库
 #### REST
 ---
-- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等。
+- [`eclipse-ee4j/jersey`](https://github.com/eclipse-ee4j/jersey) - `Jersey`是一个`REST`框架，提供`JAX-RS`参考实现等
 ### 数据库
 有关数据库的框架和数据库相关知识
 #### 面对对象型
@@ -454,7 +456,7 @@ The path to growth of architects
 #### 其他
 ---
 - [`XiaoMi/soar`](https://github.com/XiaoMi/soar) - `SQL`优化器和重写器
-- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库。
+- [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库
 - [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
 
 ### 缓存
@@ -471,7 +473,7 @@ The path to growth of architects
 ### 基础框架
 #### 权限
 ---
-- [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人。
+- [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人
 - [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
 
 ### 公共组件
@@ -481,7 +483,7 @@ The path to growth of architects
 
 #### 事件总线
 ---
-- [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量。
+- [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量
 ### 通用服务
 
 
@@ -492,8 +494,8 @@ The path to growth of architects
 ### 中间件
 #### 远程调用
 ---
-- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为“`baidu-rpc`”。
-- [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架。
+- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为`baidu-rpc`
+- [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架
 
 #### 配置管理
 ---
@@ -513,7 +515,7 @@ The path to growth of architects
 ---
 #### 分布式事务
 ---
-- [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案。
+- [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案
 
 #### 检索
 ---
@@ -523,14 +525,14 @@ The path to growth of architects
 ## 微服务
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
-- [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案。
+- [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
 ### 虚拟化
 #### 容器
 ---
 - [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
 - [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
 - [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
-- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台。
+- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台
 - [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
 - [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
 - [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
@@ -544,29 +546,29 @@ The path to growth of architects
 - [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
 - [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
 - [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
-- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合。
+- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合
 
 
 ## 安全
 ### 监控
 - [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
-- [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
-- [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
+- [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库
+- [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告
 - [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
-- [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
+- [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持
 
 
 ### 防御
-- [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
+- [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的
 
 ### 容灾
 
 ### 诊断
 
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
-- [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么。
-- [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库。
+- [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么
+- [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
@@ -574,7 +576,6 @@ The path to growth of architects
 ## 开发软件
 介绍常用的开发工具IDE
 ### `Eclipse`
-
 - [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - `Eclipse`插件，它理解`ANSI`转义序列以为`Eclipse`控制台输出着色
 - [`jadx`](https://github.com/skylot/jadx) - 反编译
 - [`alibaba/p3c`](https://github.com/alibaba/p3c) - 阿里巴巴`Java`编码指南`pmd`实现和`IDE`插件
@@ -586,11 +587,9 @@ The path to growth of architects
 - [`eleme/UETool`](https://github.com/eleme/UETool) - 在屏幕上显示/编辑任何视图的属性。
 
 
-
 ## 编辑器
 介绍一下常用热门的文档、文件编辑器
 ### `Markdown`
-
 - [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
 - [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`markdown`编辑器（组件）
 - [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
@@ -601,7 +600,7 @@ The path to growth of architects
 - [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
 
 ## 浏览器
-- [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载。
+- [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载
 - [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
 
 
@@ -618,10 +617,10 @@ Maven，
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
 ### `Ansible`
-- [`ansible`](https://github.com/ansible/ansible) - `Ansible`是一个极其简单的`IT`自动化平台，可使您的应用程序和系统更易于部署。
-- [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具。
-- [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例。
-- [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作。
+- [`ansible`](https://github.com/ansible/ansible) - `Ansible`是一个极其简单的`IT`自动化平台，可使您的应用程序和系统更易于部署
+- [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具
+- [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例
+- [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作
 
 ## 代码质量
 Sonar，
@@ -631,10 +630,10 @@ Sonar，
 - [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的`Git`中文教程
 - [`github-cheat-sheet`](https://github.com/tiimgreen/github-cheat-sheet) - `Git`教程
 - [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有`Github`贡献的图像
-- [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理。
+- [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理
 - [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
-- [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南。
+- [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南
 
 ## 接口管理
 - [`swagger-core`](https://github.com/swagger-api/swagger-core) - 用于生成`Swagger API`规范的示例和服务器集成，可以轻松访问`REST API`
@@ -645,24 +644,24 @@ Sonar，
 - [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的`Hexo`主题从`icylogic`分叉
 - [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
 - [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
-- [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
-- [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行。
+- [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计
+- [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行
 
 # 操作系统
 有关系统的设计和操作相关的知识点
 
 ## 设计
-- [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
+- [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡
 
 ## 虚拟机
-- [`firecracker`](https://github.com/firecracker-microvm/firecracker) - 安全、快速的`microVM`，适用于无服务器计算。
+- [`firecracker`](https://github.com/firecracker-microvm/firecracker) - 安全、快速的`microVM`，适用于无服务器计算
 
 ## 构建
 - [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
 
 
 # 面试
-- [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
+- [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试
 
 
 
