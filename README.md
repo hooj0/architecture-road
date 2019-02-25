@@ -11,88 +11,6 @@ The path to growth of architects
 - 综合
 
 
-
-
-# 开发工具
-
-在编程中常用的工具
-
-## `Markdown`
-
-- [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
-- [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`markdown`编辑器（组件）
-- [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
-- [`github-markdown-toc`](https://github.com/ekalinin/github-markdown-toc) - 为`GitHub README.md`创建简单的`TOC`
-- [`ghtoc`](https://github.com/sk1418/ghtoc) - 为`markdown`文件生成`toc`
-
-## `Git`
-
-- [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有`Github`贡献的图像
-- [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理。
-- [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
-- [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
-- [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南。
-- [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的`Git`中文教程
-- [`github-cheat-sheet`](https://github.com/tiimgreen/github-cheat-sheet) - 
-
-## `Eclipse`
-
-- [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - `Eclipse`插件，它理解`ANSI`转义序列以为`Eclipse`控制台输出着色
-- [`jadx`](https://github.com/skylot/jadx) - 反编译
-- [`alibaba/p3c`](https://github.com/alibaba/p3c) - 阿里巴巴`Java`编码指南`pmd`实现和`IDE`插件
-
-## `UML`
-
-- [`drawio-desktop`](https://github.com/jgraph/drawio-desktop) - `draw.io`的官方电子版本
-
-## `HTML`
-- [`eleme/UETool`](https://github.com/eleme/UETool) - 在屏幕上显示/编辑任何视图的属性。
-
-## 浏览器
-- [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载。
-- [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
-
-## `Vim`
-- [`vim-galore-zh_cn`](https://github.com/wsdjeg/vim-galore-zh_cn) - `Vim` 从入门到精通
-- [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
-
-## `Cli`
-- [`httpie`](https://github.com/jakubroztocil/httpie) - 现代命令行`HTTP`客户端一样简单 - 用户友好的卷曲替代方案，具有直观的`UI`，`JSON`支持，语法突出显示，类似`wget`的下载，扩展等
-
-# 运维
-
-系统运维人员需要掌握或运营的知识点
-
-- [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员。
-- [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
-
-## 自动化
-
-
-## 工具
-
-
-
-# 面试
-
-- [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
-
-# 写博客
-
-- [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - `Hexo`的优雅主题
-- [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的`Hexo`主题从`icylogic`分叉
-- [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
-- [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
-- [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
-- [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行。
-
-
-
-
-
-
-
-
 # 教程
 一些语言、框架、平台、环境、工具的相关教程
 - [`hello-world`](https://github.com/leachim6/hello-world) - 每种语言下的 `hello-world` 示例
@@ -183,6 +101,7 @@ The path to growth of architects
 
 ## `Linux`
 - [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
+- [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员。
 
 # 框架
 一些好用、热门的框架
@@ -321,6 +240,7 @@ The path to growth of architects
 - [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 - [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
 - [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像。
+
 
 # 平台
 一些好用、热门的平台
@@ -629,12 +549,14 @@ The path to growth of architects
 
 ## 安全
 ### 监控
-
 - [`graphite-web`](https://github.com/graphite-project/graphite-web) - 高度可扩展的实时图形系统
 - [`grafana`](https://github.com/grafana/grafana) - 用于`Graphite`，`InfluxDB`和`Prometheus`等的精美监控和度量分析和仪表板的工具
 - [`prometheus`](https://github.com/prometheus/prometheus) - 监测系统和时间序列数据库。
 - [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告。
 - [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
+- [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。
+
+
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的。
 
@@ -649,9 +571,43 @@ The path to growth of architects
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
 
-## IDE
+## 开发软件
+介绍常用的开发工具IDE
+### `Eclipse`
+
+- [`ansi-econsole`](https://github.com/mihnita/ansi-econsole) - `Eclipse`插件，它理解`ANSI`转义序列以为`Eclipse`控制台输出着色
+- [`jadx`](https://github.com/skylot/jadx) - 反编译
+- [`alibaba/p3c`](https://github.com/alibaba/p3c) - 阿里巴巴`Java`编码指南`pmd`实现和`IDE`插件
+
+### `UML`
+- [`drawio-desktop`](https://github.com/jgraph/drawio-desktop) - `draw.io`的官方电子版本
+
+### `HTML`
+- [`eleme/UETool`](https://github.com/eleme/UETool) - 在屏幕上显示/编辑任何视图的属性。
 
 
+
+## 编辑器
+介绍一下常用热门的文档、文件编辑器
+### `Markdown`
+
+- [`mermaid`](https://github.com/knsv/mermaid) - 以与`markdown`类似的方式生成图表和流程图
+- [`editor.md`](https://github.com/pandao/editor.md) - 开源嵌入式在线`markdown`编辑器（组件）
+- [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc) - 生成`markdown`文件的`markdown TOC`（目录）
+- [`github-markdown-toc`](https://github.com/ekalinin/github-markdown-toc) - 为`GitHub README.md`创建简单的`TOC`
+- [`ghtoc`](https://github.com/sk1418/ghtoc) - 为`markdown`文件生成`toc`
+### `Vim`
+- [`vim-galore-zh_cn`](https://github.com/wsdjeg/vim-galore-zh_cn) - `Vim` 从入门到精通
+- [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
+
+## 浏览器
+- [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载。
+- [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
+
+
+
+## `Cli`
+- [`httpie`](https://github.com/jakubroztocil/httpie) - 现代命令行`HTTP`客户端一样简单 - 用户友好的卷曲替代方案，具有直观的`UI`，`JSON`支持，语法突出显示，类似`wget`的下载，扩展等
 
 ## 项目管理
 Maven，
@@ -671,12 +627,18 @@ Maven，
 Sonar，
 
 ## 版本管理
-Git，
+### `Git`
+- [`git-recipes`](https://github.com/geeeeeeeeek/git-recipes) - 高质量的`Git`中文教程
+- [`github-cheat-sheet`](https://github.com/tiimgreen/github-cheat-sheet) - `Git`教程
+- [`github-contributions-chart`](https://github.com/sallar/github-contributions-chart) - 生成所有`Github`贡献的图像
+- [`git-flight-rules`](https://github.com/k88hudson/git-flight-rules) - `Git`的使用方法，在遇到问题后如何处理。
+- [`emoji`](https://github.com/carpedm20/emoji) - 提交注释添加表情
+- [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
+- [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南。
 
 ## 接口管理
 - [`swagger-core`](https://github.com/swagger-api/swagger-core) - 用于生成`Swagger API`规范的示例和服务器集成，可以轻松访问`REST API`
 
-## 编辑器
 
 
 
