@@ -640,10 +640,13 @@ Sonar，
 - [`swagger-core`](https://github.com/swagger-api/swagger-core) - 用于生成`Swagger API`规范的示例和服务器集成，可以轻松访问`REST API`
 
 
-
-
 ## 写博客
-
+- [`hexo-theme-next`](https://github.com/iissnan/hexo-theme-next) - `Hexo`的优雅主题
+- [`maupassant-hexo`](https://github.com/tufu9441/maupassant-hexo) - 一个简单的`Hexo`主题从`icylogic`分叉
+- [`hexo`](https://github.com/hexojs/hexo) - 一个快速、简单和强大的博客框架，由`Node.js`提供支持
+- [`hexo-theme-yilia`](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的`hexo`主题
+- [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
+- [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行。
 
 # 操作系统
 有关系统的设计和操作相关的知识点
@@ -656,6 +659,11 @@ Sonar，
 
 ## 构建
 - [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
+
+
+# 面试
+- [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试。
+
 
 
 # 综合
