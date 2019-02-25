@@ -11,21 +11,7 @@ The path to growth of architects
 - 综合
 
 
-# 操作系统
 
-有关系统的设计和操作相关的知识点
-
-## 设计
-
-- [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
-
-## 虚拟机
-
-- [`firecracker`](https://github.com/firecracker-microvm/firecracker) - 安全、快速的`microVM`，适用于无服务器计算。
-
-## 构建
-
-- [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
 
 # 开发工具
 
@@ -695,6 +681,19 @@ Git，
 
 
 ## 写博客
+
+
+# 操作系统
+有关系统的设计和操作相关的知识点
+
+## 设计
+- [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡。
+
+## 虚拟机
+- [`firecracker`](https://github.com/firecracker-microvm/firecracker) - 安全、快速的`microVM`，适用于无服务器计算。
+
+## 构建
+- [`os-tutorial`](https://github.com/cfenollosa/os-tutorial) - 如何从头开始创建操作系统
 
 
 # 综合
