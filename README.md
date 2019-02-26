@@ -674,7 +674,7 @@ Sonar，
 - [`flyleft/tip`](https://github.com/flyleft/tip) - 自写博客、博客收藏、开源项目收藏
 - [`scalad/Note`](https://github.com/scalad/Note) - 常规`Java`工具，算法，加密，数据库，面试题，源代码分析，解决方案
 - [`coding-guide_i3geek`](https://github.com/yangengzhe/coding-guide_i3geek) - 内容包括但不限于数据结构、算法、数据库、操作系统、计算机网络等多方面
-- [`JCSprout`](https://github.com/crossoverJie/JCSprout) - Java Core Sprout：基本，并发，算法
+- [`JCSprout`](https://github.com/crossoverJie/JCSprout) - `Java Core Sprout`：基本，并发，算法
 - [`CS-Notes`](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识
 - [`architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 - [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
