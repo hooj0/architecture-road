@@ -408,7 +408,7 @@ The path to growth of architects
 + [`事务的隔离级别`](https://blog.csdn.net/qq_33290787/article/details/51924963) - 理解事务的4种隔离级别
 + [`数据库事务的四大特性及事务隔离级别`](https://www.cnblogs.com/z-sm/p/7245981.html) - 数据库事务的四大特性及事务隔离级别
 + [``MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题
-+ [`mysql-innodb`](https://draveness.me/mysql-innodb) - 一篇文章带你读懂`MySQL`和`InnoDB`
++ [`一篇文章带你读懂MySQL和InnoDB`](https://draveness.me/mysql-innodb) - 图解脏读、不可重复读、幻读问题
 
 ## 线程模型
 + [`40个Java多线程问题总结`](http://www.importnew.com/18459.html) - 40个Java多线程问题总结
@@ -420,7 +420,8 @@ The path to growth of architects
 + [`Java 中信号量 Semaphore`](http://cuisuqiang.iteye.com/blog/2020146) - 有数量控制
 申请用 `acquire`，申请不要则阻塞；释放用 `release`
 + [`Java开发中的Mutex vs Semaphore`](https://www.cnblogs.com/davidwang456/p/6094947.html) - 简单的说就是`Mutex`是排它的，只有一个可以获取到资源， `Semaphore`也具有排它性，但可以定义多个可以获取的资源的对象
-
++ [`公平锁与非公平锁`](https://blog.csdn.net/EthanWhite/article/details/55508357) - 默认情况下 `ReentrantLock` 和 `synchronized` 都是非公平锁。`ReentrantLock` 可以设置成公平锁。
++ [`MySQL悲观锁&乐观锁`](https://www.cnblogs.com/zhiqian-ali/p/6200874.html) - 
 
 
 
