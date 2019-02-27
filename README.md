@@ -423,7 +423,9 @@ The path to growth of architects
 + [`公平锁与非公平锁`](https://blog.csdn.net/EthanWhite/article/details/55508357) - 默认情况下 `ReentrantLock` 和 `synchronized` 都是非公平锁。`ReentrantLock` 可以设置成公平锁。
 + [`MySQL悲观锁&乐观锁`](https://www.cnblogs.com/zhiqian-ali/p/6200874.html) - `MySQL`悲观锁/乐观锁
 + [`select.. for update导致的数据库死锁分析`](https://www.cnblogs.com/Lawson/p/5008741.html) - `Mysql`查询语句使用`select.. for update`导致的数据库死锁分析
-
++ [`Mysql并发时经典常见的死锁原因及解决方法`](https://www.cnblogs.com/zejin2008/p/5262751.html) - `Mysql`并发时经典常见的死锁原因及解决方法
++ [`乐观锁的一种实现方式CAS`](http://www.importnew.com/20472.html) - 和`MySQL`乐观锁方式相似，只不过是通过和原值进行比较
++ 
 
 
 # 性能
