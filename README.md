@@ -415,6 +415,13 @@ The path to growth of architects
 + [`Java并发编程安全`](https://www.cnblogs.com/zhanht/p/5450325.html) - `Java`并发编程——线程安全及解决机制简介
 
 ## 锁细节
++ [`Java中的锁分类`](https://www.cnblogs.com/qifengshi/p/6831055.html) - `Java`中的锁分类：主要包括 `synchronized`、`ReentrantLock`和`ReadWriteLock`
++ [`发之AQS详解`](https://www.cnblogs.com/waterystone/p/4920797.html) - `Java`并发之`AQS`详解
++ [`Java 中信号量 Semaphore`](http://cuisuqiang.iteye.com/blog/2020146) - 有数量控制
+申请用 `acquire`，申请不要则阻塞；释放用 `release`
++ [`Java开发中的Mutex vs Semaphore`](https://www.cnblogs.com/davidwang456/p/6094947.html) - 简单的说就是`Mutex`是排它的，只有一个可以获取到资源， `Semaphore`也具有排它性，但可以定义多个可以获取的资源的对象
+
+
 
 
 # 性能
