@@ -407,7 +407,7 @@ The path to growth of architects
 + [`事务 ACID 特性`](https://blog.csdn.net/u012440687/article/details/52116108) - 数据库事务ACID特性
 + [`事务的隔离级别`](https://blog.csdn.net/qq_33290787/article/details/51924963) - 理解事务的4种隔离级别
 + [`数据库事务的四大特性及事务隔离级别`](https://www.cnblogs.com/z-sm/p/7245981.html) - 数据库事务的四大特性及事务隔离级别
-+ [``MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题
++ [`MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题
 + [`一篇文章带你读懂MySQL和InnoDB`](https://draveness.me/mysql-innodb) - 图解脏读、不可重复读、幻读问题
 
 ## 线程模型
