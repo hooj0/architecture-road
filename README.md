@@ -399,8 +399,20 @@ The path to growth of architects
 ## 内存模型
 
 ## 并发模式
+### 多线程并发
+[`Java-concurrency`](https://github.com/CL0610/Java-concurrency) - `Java` 并发知识合集
+[`并发知识图谱`](https://github.com/CL0610/Java-concurrency/blob/master/Java%E5%B9%B6%E5%8F%91%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.png) - `JAVA`并发知识图谱
+
+### 一致性事务
+[`事务 ACID 特性`](https://blog.csdn.net/u012440687/article/details/52116108) - 数据库事务ACID特性
+[`事务的隔离级别`](https://blog.csdn.net/qq_33290787/article/details/51924963) - 理解事务的4种隔离级别
+[`数据库事务的四大特性及事务隔离级别`](https://www.cnblogs.com/z-sm/p/7245981.html) - 数据库事务的四大特性及事务隔离级别
+[``MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题 
+[`mysql-innodb`](https://draveness.me/mysql-innodb) - 一篇文章带你读懂`MySQL`和`InnoDB`
 
 ## 线程模型
+[`40个Java多线程问题总结`](http://www.importnew.com/18459.html) - 40个Java多线程问题总结
+[`Java并发编程安全`](https://www.cnblogs.com/zhanht/p/5450325.html) - `Java`并发编程——线程安全及解决机制简介
 
 ## 锁细节
 
@@ -680,3 +692,5 @@ Sonar，
 - [`architect-awesome`](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x) - 建立自己的（在这里插入技术）
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books) - 免费书单推荐
+
+### 参考资料
