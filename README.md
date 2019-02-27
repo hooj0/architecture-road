@@ -425,8 +425,14 @@ The path to growth of architects
 + [`select.. for update导致的数据库死锁分析`](https://www.cnblogs.com/Lawson/p/5008741.html) - `Mysql`查询语句使用`select.. for update`导致的数据库死锁分析
 + [`Mysql并发时经典常见的死锁原因及解决方法`](https://www.cnblogs.com/zejin2008/p/5262751.html) - `Mysql`并发时经典常见的死锁原因及解决方法
 + [`乐观锁的一种实现方式CAS`](http://www.importnew.com/20472.html) - 和`MySQL`乐观锁方式相似，只不过是通过和原值进行比较
-+ 
++ [`Java CAS 和ABA问题`](https://www.cnblogs.com/549294286/p/3766717.html) - `Java CAS` 和`ABA`问题
++ [`Java 中 ABA问题及避免`](https://blog.csdn.net/li954644351/article/details/50511879) - `AtomicStampedReference` 和 `AtomicStampedReference`
+### `CopyOnWrite`
++ [`JAVA中写时复制(Copy-On-Write) Map实现`](https://www.cnblogs.com/hapjin/p/4840107.html) - 实现读写分离，读取发生在原始数据上，写入发生在副本上。不用加锁，通过最终一致实现一致性。
++ [`聊聊并发-Java中的Copy-On-Write容器`](https://blog.csdn.net/a494303877/article/details/53404623) - 可以对`CopyOnWrite`容器进行并发的读，而不需要加锁。`CopyOnWrite`并发容器用于读多写少的并发场景。比如白名单，黑名单，商品类目的访问和更新场景，不适合需要数据强一致性的场景。
 
+### 无锁
++ [`线程安全的无锁RingBuffer的实现`](http://www.cnblogs.com/l00l/p/4115001.html) - 线程安全的无锁`RingBuffer`的实现，一个读线程，一个写线程
 
 # 性能
 任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
