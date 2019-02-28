@@ -421,15 +421,15 @@ The path to growth of architects
 申请用 `acquire`，申请不要则阻塞；释放用 `release`
 + [`Java开发中的Mutex vs Semaphore`](https://www.cnblogs.com/davidwang456/p/6094947.html) - 简单的说就是`Mutex`是排它的，只有一个可以获取到资源， `Semaphore`也具有排它性，但可以定义多个可以获取的资源的对象
 + [`公平锁与非公平锁`](https://blog.csdn.net/EthanWhite/article/details/55508357) - 默认情况下 `ReentrantLock` 和 `synchronized` 都是非公平锁。`ReentrantLock` 可以设置成公平锁。
-+ [`MySQL悲观锁&乐观锁`](https://www.cnblogs.com/zhiqian-ali/p/6200874.html) - `MySQL`悲观锁/乐观锁
-+ [`select.. for update导致的数据库死锁分析`](https://www.cnblogs.com/Lawson/p/5008741.html) - `Mysql`查询语句使用`select.. for update`导致的数据库死锁分析
-+ [`Mysql并发时经典常见的死锁原因及解决方法`](https://www.cnblogs.com/zejin2008/p/5262751.html) - `Mysql`并发时经典常见的死锁原因及解决方法
++ [`悲观锁：MySQL悲观锁&乐观锁`](https://www.cnblogs.com/zhiqian-ali/p/6200874.html) - `MySQL`悲观锁/乐观锁
++ [`悲观锁：select.. for update导致的数据库死锁分析`](https://www.cnblogs.com/Lawson/p/5008741.html) - `Mysql`查询语句使用`select.. for update`导致的数据库死锁分析
++ [`悲观锁：Mysql并发时经典常见的死锁原因及解决方法`](https://www.cnblogs.com/zejin2008/p/5262751.html) - `Mysql`并发时经典常见的死锁原因及解决方法
 + [`乐观锁的一种实现方式CAS`](http://www.importnew.com/20472.html) - 和`MySQL`乐观锁方式相似，只不过是通过和原值进行比较
-+ [`Java CAS 和ABA问题`](https://www.cnblogs.com/549294286/p/3766717.html) - `Java CAS` 和`ABA`问题
-+ [`Java 中 ABA问题及避免`](https://blog.csdn.net/li954644351/article/details/50511879) - `AtomicStampedReference` 和 `AtomicStampedReference`
-+ [`可重入锁和不可重入锁`](https://www.cnblogs.com/dj3839/p/6580765.html) - 通过简单代码举例说明可重入锁和不可重入锁。可重入锁指同一个线程可以再次获得之前已经获得的锁。可重入锁可以用户避免死锁。Java中的可重入锁：`synchronized` 和 `java.util.concurrent.locks.ReentrantLock`
-+ [`ReenTrantLock可重入锁（和synchronized的区别）总结`]() - `synchronized` 使用方便，编译器来加锁，是非公平锁。`ReenTrantLock` 使用灵活，锁的公平性可以定制。相同加锁场景下，推荐使用 `synchronized`。
-+ [`互斥锁和共享锁ReadWriteLock场景应用`](https://www.cnblogs.com/liang1101/p/6475555.html) - 互斥锁：同时只能有一个线程获得锁。比如，`ReentrantLock` 是互斥锁，`ReadWriteLock` 中的写锁是互斥锁。 共享锁：可以有多个线程同时或的锁。比如，`Semaphore`、`CountDownLatch` 是共享锁，`ReadWriteLock` 中的读锁是共享锁。
++ [`ABA 问题：Java CAS 和ABA问题`](https://www.cnblogs.com/549294286/p/3766717.html) - `Java CAS` 和`ABA`问题
++ [`ABA 问题：Java 中 ABA问题及避免`](https://blog.csdn.net/li954644351/article/details/50511879) - `AtomicStampedReference` 和 `AtomicStampedReference`
++ [`可重入锁和不可重入锁：可重入锁和不可重入锁`](https://www.cnblogs.com/dj3839/p/6580765.html) - 通过简单代码举例说明可重入锁和不可重入锁。可重入锁指同一个线程可以再次获得之前已经获得的锁。可重入锁可以用户避免死锁。`Java`中的可重入锁：`synchronized` 和 `java.util.concurrent.locks.ReentrantLock`
++ [`可重入锁和不可重入锁：ReenTrantLock可重入锁（和synchronized的区别）总结`](https://www.cnblogs.com/dj3839/p/6580765.html) - `synchronized` 使用方便，编译器来加锁，是非公平锁。`ReenTrantLock` 使用灵活，锁的公平性可以定制。相同加锁场景下，推荐使用 `synchronized`。
++ [`互斥锁和共享锁：ReadWriteLock场景应用`](https://www.cnblogs.com/liang1101/p/6475555.html) - 互斥锁：同时只能有一个线程获得锁。比如，`ReentrantLock` 是互斥锁，`ReadWriteLock` 中的写锁是互斥锁。 共享锁：可以有多个线程同时或的锁。比如，`Semaphore`、`CountDownLatch` 是共享锁，`ReadWriteLock` 中的读锁是共享锁。
 ### `CopyOnWrite`
 + [`JAVA中写时复制(Copy-On-Write) Map实现`](https://www.cnblogs.com/hapjin/p/4840107.html) - 实现读写分离，读取发生在原始数据上，写入发生在副本上。不用加锁，通过最终一致实现一致性。
 + [`聊聊并发-Java中的Copy-On-Write容器`](https://blog.csdn.net/a494303877/article/details/53404623) - 可以对`CopyOnWrite`容器进行并发的读，而不需要加锁。`CopyOnWrite`并发容器用于读多写少的并发场景。比如白名单，黑名单，商品类目的访问和更新场景，不适合需要数据强一致性的场景。
