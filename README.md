@@ -437,6 +437,13 @@ The path to growth of architects
 ### 无锁
 + [`线程安全的无锁RingBuffer的实现`](http://www.cnblogs.com/l00l/p/4115001.html) - 线程安全的无锁`RingBuffer`的实现，一个读线程，一个写线程
 
+### 死锁
++ [`死锁四个必要条件的合理解释`](https://blog.csdn.net/yunfenglw/article/details/45950305) - 互斥、持有、不可剥夺、环形等待
++ [`Java如何查看死锁？`](https://blog.csdn.net/u014039577/article/details/52351626) - `JConsole` 可以识别死锁
++ [`Java多线程系列：死锁及检测`](https://blog.csdn.net/bohu83/article/details/51135061) - `jstack` 可以显示死锁
+
+
+
 # 性能
 任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
 ## 性能指标体系
