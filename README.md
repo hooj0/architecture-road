@@ -100,6 +100,7 @@ The path to growth of architects
 - [`N-blog`](https://github.com/nswbmw/N-blog) - `Node.js` 包教不包会
 
 ## `Linux`
+- [`Linux 命令大全`](http://www.runoob.com/linux/linux-command-manual.html) - `Linux` 命令大全
 - [`how-to-write-makefile`](https://github.com/seisman/how-to-write-makefile) - `makefile` 教程
 - [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) - 一系列精彩的列表，手册/博客/黑客/单行/`cli/web`工具等等。特别是对于系统和网络管理员，`DevOps、Pentesters`或安全研究人员
 
@@ -373,6 +374,8 @@ The path to growth of architects
 ### `Java`
 - [`java_design_patterns`](https://github.com/JamesZBL/java_design_patterns) - `Java` 实现的面向对象设计模式示例
 - [`java-design-patterns`](https://github.com/iluwatar/java-design-patterns) - 用`Java`实现的设计模式
+- [`Spring-涉及到的设计模式汇总`](https://www.cnblogs.com/hwaggLee/p/4510687.html) - `Spring`-涉及到的设计模式汇总
+- [`Mybatis使用的设计模式`](https://blog.csdn.net/u012387062/article/details/54719114) - `Mybatis`使用的设计模式
 
 ### `JavaScript`
 - [`Design-Patterns-in-Javascript`](https://github.com/tcorral/Design-Patterns-in-Javascript) - 设计模式应用于`Javascript`代码
@@ -389,6 +392,7 @@ The path to growth of architects
 # 设计
 
 ## 概要设计
++ [`UML教程`](https://www.w3cschool.cn/uml_tutorial/) - 掌握`UML`，并在软件设计中合理使用
 ## 详细设计
 ## 功能模块
 
@@ -688,7 +692,11 @@ Sonar，
 
 # 操作系统
 有关系统的设计和操作相关的知识点
-
+## 底层
++ [`计算机原理`](https://segmentfault.com/a/1190000003692840) - 操作系统基础知识——操作系统的原理，类型和结构
++ [`多级缓存：从Java视角理解CPU缓存和伪共享`](https://blog.csdn.net/zero__007/article/details/54089730) - 典型的 `CPU` 有三级缓存，距离核心越近，速度越快，空间越小。`L1` 一般 `32k`，`L2` 一般 `256k`，L3 一般`12M`。内存速度需要`200`个 `CPU` 周期，`CPU` 缓存需要1个`CPU`周期。
++ [`线程`](https://blog.csdn.net/asdf_1024/article/details/78978437) - 线程的生命周期及状态转换详解
++ [`协程`](https://www.thinksaas.cn/group/topic/839375/) - 终结`python`协程----从`yield`到`actor`模型的实现。线程的调度是由操作系统负责，协程调度是程序自行负责。与线程相比，协程减少了无谓的操作系统切换。实际上当遇到`IO`操作时做切换才更有意义，（因为`IO`操作不用占用`CPU`），如果没遇到`IO`操作，按照时间片切换。
 ## 设计
 - [`system-design-primer`](https://github.com/donnemartin/system-design-primer) - 了解如何设计大型系统，准备系统设计面试，包括`Anki`抽认卡
 
@@ -721,3 +729,4 @@ Sonar，
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books) - 免费书单推荐
 
 ### 参考资料
++ https://github.com/xingshaocheng/architect-awesome
