@@ -566,6 +566,8 @@ The path to growth of architects
 
 
 ## 微服务
++ [`微服务架构设计`](https://www.cnblogs.com/wintersun/p/6219259.html) - 微服务架构设计
++ [`微服务架构选型手册`](http://www.infoq.com/cn/articles/micro-service-technology-stack) - 微服务架构技术栈选型手册
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
