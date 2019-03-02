@@ -449,7 +449,7 @@ The path to growth of architects
 
 
 # 性能
-任何脱离细节的ppt架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
+任何脱离细节的`ppt`架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
 ## 性能指标体系
 
 ## `JVM`调优
@@ -605,7 +605,8 @@ The path to growth of architects
 - [`sentry`](https://github.com/getsentry/sentry) - 跨平台应用程序监控，重点是错误报告
 - [`incubator-skywalking`](https://github.com/apache/incubator-skywalking) - 分布式跟踪系统和`APM`（应用程序性能监视）
 - [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持
-
+- [`监控 Linux 系统性能`](http://blog.jobbole.com/96846/) - 20个命令行工具监控 `Linux` 系统性能
+- [`常用命令行监控工具 top、sar、tsar、nload`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/44-an-quan-yu-yun-wei/445-fu-wu-qi-zhuang-tai-jian-ce/4451-ming-ling-xing-gong-ju.html) - 常用命令行监控工具
 
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的
