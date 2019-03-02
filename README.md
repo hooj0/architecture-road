@@ -607,6 +607,9 @@ The path to growth of architects
 - [`edex-ui`](https://github.com/GitSquared/edex-ui) - 跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持
 - [`监控 Linux 系统性能`](http://blog.jobbole.com/96846/) - 20个命令行工具监控 `Linux` 系统性能
 - [`常用命令行监控工具 top、sar、tsar、nload`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/44-an-quan-yu-yun-wei/445-fu-wu-qi-zhuang-tai-jian-ce/4451-ming-ling-xing-gong-ju.html) - 常用命令行监控工具
+- [`开源还是商用？十大云运维监控工具横评`](https://www.oschina.net/news/67525/monitoring-tools) - `Zabbix`、`Nagios`、`Ganglia`、`Zenoss`、`Open-falcon`、监控宝、 360网站服务监控、阿里云监控、百度云观测、小蜜蜂网站监测等
+- [`监控报警系统案例`](http://developer.51cto.com/art/201612/525373.htm) - 监控报警系统搭建及二次开发经验
+- [`腾讯业务系统监控的修炼之路`](https://blog.csdn.net/enweitech/article/details/77849205) - 控的方式：主动、被动、旁路(比如舆情监控)；监控类型： 基础监控、服务端监控、客户端监控、 监控、用户端监控；监控的目标：全、块、准；核心指标：请求量、成功率、耗时
 
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的
