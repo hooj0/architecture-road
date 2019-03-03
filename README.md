@@ -676,6 +676,8 @@ Maven，
 - [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具
 - [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例
 - [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作
+- [`Ansible中文权威指南`](http://www.ansible.com.cn/) - `Ansible`中文权威指南
+- [`Ansible基础配置和企业级项目实用案例`](https://www.cnblogs.com/heiye123/articles/7855890.html) - `Ansible`基础配置和企业级项目实用案例
 
 ### `Chef`
 - [`Chef的安装与使用`](https://www.ibm.com/developerworks/cn/cloud/library/1407_caomd_chef/) - `Chef` 的安装与使用
