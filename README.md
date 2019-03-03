@@ -664,6 +664,8 @@ The path to growth of architects
 Maven，
 
 ## 持续集成
+- [`持续集成是什么？`](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html) - 持续集成是什么？
+- [`8个流行的持续集成工具`](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html) - 8个流行的持续集成工具
 ### `Jenkins`
 - [`使用Jenkins进行持续集成`](https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000) - 使用`Jenkins`进行持续集成
 - [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
@@ -674,6 +676,12 @@ Maven，
 - [`ansible-tuto`](https://github.com/leucos/ansible-tuto) - `Ansible`教程，脚本自动化工具
 - [`ansible-for-devops`](https://github.com/geerlingguy/ansible-for-devops) - 使用`Vagrant`部署到本地`VM`的`Ansible`示例
 - [`ansible-examples`](https://github.com/ansible/ansible-examples) - 一些`ansible playbooks`的初学者例子，展示功能以及它们如何协同工作
+
+### `Chef`
+- [`Chef的安装与使用`](https://www.ibm.com/developerworks/cn/cloud/library/1407_caomd_chef/) - `Chef` 的安装与使用
+
+### `Puppet`
+- [`自动化运维工具puppet详解`](https://www.cnblogs.com/keerya/p/8040071.html) - 自动化运维工具`puppet`详解
 
 ## 代码质量
 Sonar，
