@@ -665,6 +665,7 @@ Maven，
 
 ## 持续集成
 ### `Jenkins`
+- [`使用Jenkins进行持续集成`](https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000) - 使用`Jenkins`进行持续集成
 - [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
