@@ -574,9 +574,13 @@ The path to growth of architects
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
-### 虚拟化
-#### 容器
----
+## 虚拟化
+
+- [`VPS的三种虚拟技术OpenVZ、Xen、KVM优缺点比较`](https://blog.csdn.net/enweitech/article/details/52910082) - `VPS`的三种虚拟技术`OpenVZ、Xen、KVM`优缺点比较
+- 
+
+
+## 容器
 - [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
 - [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
 - [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
@@ -655,8 +659,6 @@ The path to growth of architects
 - [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载
 - [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
 
-
-
 ## `Cli`
 - [`httpie`](https://github.com/jakubroztocil/httpie) - 现代命令行`HTTP`客户端一样简单 - 用户友好的卷曲替代方案，具有直观的`UI`，`JSON`支持，语法突出显示，类似`wget`的下载，扩展等
 
@@ -664,8 +666,10 @@ The path to growth of architects
 Maven，
 
 ## 持续集成
+
 - [`持续集成是什么？`](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html) - 持续集成是什么？
 - [`8个流行的持续集成工具`](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html) - 8个流行的持续集成工具
+- [`开发环境、生产环境、测试环境的基本理解和区`](https://my.oschina.net/sancuo/blog/214904) - 开发环境、生产环境、测试环境的基本理解和区
 ### `Jenkins`
 - [`使用Jenkins进行持续集成`](https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000) - 使用`Jenkins`进行持续集成
 - [`jenkins`](https://github.com/jenkinsci/jenkins) - 自动化服务器
@@ -710,7 +714,41 @@ Sonar，
 - [`solo`](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计
 - [`jekyll-now`](https://github.com/barryclark/jekyll-now) - 在几分钟内构建一个`Jekyll`博客，无需触及命令行
 
+# 测试
+
+## `TDD` 理论
+
++ [`深度解读 - TDD（测试驱动开发）`](https://www.jianshu.com/p/62f16cd4fef3) - 基于测试用例编码功能代码，`XP（Extreme Programming）`的核心实践；好处：一次关注一个点，降低思维负担；迎接需求变化或改善代码的设计；提前澄清需求；快速反馈
+
+## 单元测试
++ [`Java单元测试之JUnit篇`](https://www.cnblogs.com/happyzm/p/6482886.html) - `Java`单元测试之`JUnit`篇
++ [`JUnit 4 与 TestNG 对比`](https://blog.csdn.net/hotdust/article/details/53406086) - `TestNG` 覆盖 `JUnit` 功能，适用于更复杂的场景
++ [`单元测试主要的测试功能点`](https://blog.csdn.net/wqetfg/article/details/50900512) - 模块接口测试、局部数据结构测试、路径测试 、错误处理测试、边界条件测试
+
+## 压力测试
+
++ [`Apache ab 测试使用指南`](https://blog.csdn.net/blueheart20/article/details/52170790) - `Apache ab` 测试使用指南
++ [`大型网站压力测试及优化方案`](https://www.cnblogs.com/binyue/p/6141088.html) - 大型网站压力测试及优化方案
++ [`10大主流压力/负载/性能测试工具推荐`](http://news.chinabyte.com/466/14126966.shtml) - 10大主流压力/负载/性能测试工具推荐
++ [`真实流量压测工具 tcpcopy应用浅析`](http://quentinxxz.iteye.com/blog/2249799) - 真实流量压测工具 `tcpcopy`应用浅析
++ [`nGrinder 简易使用教程`](https://www.cnblogs.com/jwentest/p/7136727.html) - `nGrinder` 简易使用教程
+
+## 全链路压测
+
++ [`京东618：升级全链路压测方案`](http://www.infoq.com/cn/articles/jd-618-upgrade-full-link-voltage-test-program-forcebot) - 京东618：升级全链路压测方案，打造军演机器人`ForceBot`
++ [`饿了么全链路压测的探索与实践`](https://zhuanlan.zhihu.com/p/30306892) - 饿了么全链路压测的探索与实践
++ [`四大语言，八大框架｜滴滴全链路压测解决之道`](https://zhuanlan.zhihu.com/p/28355759) - 四大语言，八大框架｜滴滴全链路压测解决之道
++ [`全链路压测经验`](https://www.jianshu.com/p/27060fd61f72) - 全链路压测经验
+
+## `A/B`/灰度/蓝绿测试
+
+- [`技术干货 | AB 测试和灰度发布探索及实践`](https://testerhome.com/topics/11165) - 技术干货 | `AB` 测试和灰度发布探索及实践
+- [`nginx 根据IP 进行灰度发布`](http://blog.51cto.com/purplegrape/1403123) - `nginx` 根据`IP` 进行灰度发布
+- [`蓝绿部署、A/B 测试以及灰度发布`](https://www.v2ex.com/t/344341) - 蓝绿部署、`A/B` 测试以及灰度发布
+
+
 # 操作系统
+
 有关系统的设计和操作相关的知识点
 ## 底层
 + [`计算机原理`](https://segmentfault.com/a/1190000003692840) - 操作系统基础知识——操作系统的原理，类型和结构
