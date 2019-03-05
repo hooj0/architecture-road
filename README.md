@@ -551,7 +551,31 @@ The path to growth of architects
 - [`docker-elk`](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
+#### `WebServer`
+
+---
+
++ [`Ngnix的基本学习-多进程和Apache的比较`](https://blog.csdn.net/qq_25797077/article/details/52200722) - `Nginx` 通过异步非阻塞的事件处理机制实现高并发。`Apache` 每个请求独占一个线程，非常消耗系统资源。事件驱动适合于`IO`密集型服务(`Nginx`)，多进程或线程适合于`CPU`密集型服务(`Apache`)，所以`Nginx`适合做反向代理，而非`Web`服务器使用。
++ [`Nginx与Apache的对比以及优缺点`](https://www.cnblogs.com/cunkouzh/p/5410154.html) - `nginx`只适合静态和反向代理，不适合处理动态请求
++ [`OpenResty官方网站`](http://openresty.org/cn/) - `OpenResty`官方网站
++ [`浅谈 OpenResty`](http://www.linkedkeeper.com/detail/blog.action?bid=1034) - 浅谈 `OpenResty`，通过 `Lua` 模块可以在`Nginx`上进行开发
++ [`agentzh 的 Nginx 教程`](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) - `agentzh` 的 `Nginx` 教程
++ [`Tengine官方网站`](http://tengine.taobao.org/) - `Tengine`官方网站
++ [`Apache Httpd官方网站`](http://httpd.apache.org/) - `Apache Httpd`官方网站
+
+**Tomcat**
+
++ [`Tomcat原理详解及请求过程`](https://www.cnblogs.com/hggen/p/6264475.html) - `TOMCAT`原理详解及请求过程
++ [`Tomcat服务器原理详解`](https://www.cnblogs.com/crazylqy/p/4706223.html) - `Tomcat`服务器原理详解
++ [`Tomcat 系统架构与设计模式工作原理`](https://www.ibm.com/developerworks/cn/java/j-lo-tomcat1/) - `Tomcat` 系统架构与设计模式工作原理
++ [`四张图带你了解Tomcat系统架构`](https://blog.csdn.net/xlgen157387/article/details/79006434) - 四张图带你了解`Tomcat`系统架构
++ [`JBoss vs. Tomcat: 选择Java服务器`](https://www.futurehosting.com/blog/jboss-vs-tomcat-choosing-a-java-application-server/) - `Tomcat` 是轻量级的 `Serverlet` 容器，没有实现全部 `JavaEE` 特性（比如持久化和事务处理），但可以通过其他组件代替，比如`Spring`。`Jboss` 实现全部了`JavaEE`特性，软件开源免费、文档收费。
++ [`Tomcat 调优方案`](https://www.cnblogs.com/sunfenqing/p/7339058.html) - 启动`NIO`模式（或者`APR`），调整线程池；禁用`AJP`连接器（`Nginx+tomcat`的架构，不需要`AJP`）
++ [`tomcat http协议与ajp协议`](http://blog.chinaunix.net/uid-20662363-id-3012760.html) - `tomcat http`协议与`ajp`协议
++ [`AJP与HTTP比较和分析`](http://dmouse.iteye.com/blog/1354527) - `AJP` 协议（8009端口）用于降低和前端`Server`（如`Apache`，而且需要支持`AJP`协议）的连接数(前端)，通过长连接提高性能。并发高时，`AJP`协议优于`HTTP`协议
+
 #### 负载均衡
+
 ---
 #### 数据同步
 ---
@@ -574,6 +598,8 @@ The path to growth of architects
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
+
+
 ## 虚拟化
 
 - [`VPS的三种虚拟技术OpenVZ、Xen、KVM优缺点比较`](https://blog.csdn.net/enweitech/article/details/52910082) - `VPS`的三种虚拟技术`OpenVZ、Xen、KVM`优缺点比较
@@ -611,6 +637,10 @@ The path to growth of architects
 - [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
 - [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
 
+## 云
++ [`OpenStack构架知识梳理`](https://www.cnblogs.com/klb561/p/8660264.html) - `OpenStack`构架知识梳理
++ [`一分钟告诉你究竟DevOps是什么`](https://www.cnblogs.com/jetzhang/p/6068773.html) - 一分钟告诉你究竟`DevOps`是什么鬼？
++ [`DevOps详解`](http://www.infoq.com/cn/articles/detail-analysis-of-devops) - `DevOps`详解
 
 ## 安全
 ### 监控
@@ -713,7 +743,14 @@ Sonar，
 - [`muan/emoji`](https://github.com/muan/emoji) - 找到时候你的表情符号
 - [`gitmoji`](https://github.com/carloscuesta/gitmoji) - 提交消息的表情符号指南
 
+## 文档管理
+
+- [`Confluence-收费文档管理系统`](http://www.confluence.cn/) - 收费文档管理系统
+- `GitLab`
+- `Wiki`
+
 ## 接口管理
+
 - [`swagger-core`](https://github.com/swagger-api/swagger-core) - 用于生成`Swagger API`规范的示例和服务器集成，可以轻松访问`REST API`
 
 
