@@ -541,7 +541,7 @@ The path to growth of architects
 + [`Tengine官方网站`](http://tengine.taobao.org/) - `Tengine`官方网站
 + [`Apache Httpd官方网站`](http://httpd.apache.org/) - `Apache Httpd`官方网站
 
-**Tomcat**
+**`Tomcat`**
 
 + [`Tomcat原理详解及请求过程`](https://www.cnblogs.com/hggen/p/6264475.html) - `TOMCAT`原理详解及请求过程
 + [`Tomcat服务器原理详解`](https://www.cnblogs.com/crazylqy/p/4706223.html) - `Tomcat`服务器原理详解
@@ -551,6 +551,11 @@ The path to growth of architects
 + [`Tomcat 调优方案`](https://www.cnblogs.com/sunfenqing/p/7339058.html) - 启动`NIO`模式（或者`APR`），调整线程池；禁用`AJP`连接器（`Nginx+tomcat`的架构，不需要`AJP`）
 + [`tomcat http协议与ajp协议`](http://blog.chinaunix.net/uid-20662363-id-3012760.html) - `tomcat http`协议与`ajp`协议
 + [`AJP与HTTP比较和分析`](http://dmouse.iteye.com/blog/1354527) - `AJP` 协议（8009端口）用于降低和前端`Server`（如`Apache`，而且需要支持`AJP`协议）的连接数(前端)，通过长连接提高性能。并发高时，`AJP`协议优于`HTTP`协议
+
+**`Jetty`**
+
++ [`Jetty 的工作原理以及与 Tomcat 的比较`](https://www.ibm.com/developerworks/cn/java/j-lo-jetty/) - `Jetty` 的工作原理以及与 `Tomcat` 的比较
++ [`Jetty和tomcat优势比较`](https://blog.csdn.net/doutao6677/article/details/51957288) - 架构比较：`Jetty`的架构比`Tomcat`的更为简单；性能比较：`Jetty`和`Tomcat`性能方面差异不大，`Jetty`默认采用`NIO`结束在处理`I/O`请求上更占优势，`Tomcat`默认采用`BIO`处理`I/O`请求，`Tomcat`适合处理少数非常繁忙的链接，处理静态资源时性能较差；其他方面：`Jetty`的应用更加快速，修改简单，对新的`Servlet`规范的支持较好；`Tomcat` 对`JEE`和`Servlet` 支持更加全面。
 
 ### 通用服务
 
