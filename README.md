@@ -577,17 +577,31 @@ The path to growth of architects
 ## 虚拟化
 
 - [`VPS的三种虚拟技术OpenVZ、Xen、KVM优缺点比较`](https://blog.csdn.net/enweitech/article/details/52910082) - `VPS`的三种虚拟技术`OpenVZ、Xen、KVM`优缺点比较
-- 
+- [`KVM详解，经典详细深入`](http://blog.chinaunix.net/uid-20201831-id-5775661.html) - `KVM详解，经典详细深入讲解`
+- [`KVM 虚拟机安装详解`](https://www.coderxing.com/kvm-install.html) - `KVM` 虚拟机安装详解
+- [`Xen虚拟化基本原理详解`](https://www.cnblogs.com/sddai/p/5931201.html) - `Xen`虚拟化基本原理详解
+- [`开源Linux容器 OpenVZ 快速上手指南`](https://blog.csdn.net/longerzone/article/details/44829255) - 开源`Linux`容器 `OpenVZ` 快速上手指南
+- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台
+- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
 
 
 ## 容器
-- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
+### 教程
+- [`理解 docker 基本原理及快速入门`](https://www.cnblogs.com/SzeCheng/p/6822905.html) - 几张图帮你理解 `docker` 基本原理及快速入门
+- [`Docker 核心技术与实现原理`](https://draveness.me/docker) - `Docker` 核心技术与实现原理
+- [`Docker 教程`](http://www.runoob.com/docker/docker-tutorial.html) - `Docker` 教程
 - [`docker-cheat-sheet`](https://github.com/wsargent/docker-cheat-sheet) - `docker` 学习教程
+- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
+- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合
+
+### 工具
+- [`chef-cookbooks/docker`](https://github.com/chef-cookbooks/docker) - `Docker`的`chef`食谱
 - [`dive`](https://github.com/wagoodman/dive) - 用于探索或查看`docker`镜像中每个图层的工具
-- [`Wayne`](https://github.com/Qihoo360/wayne) - 一个通用的基于 `Web` 的 `Kubernetes` 多集群管理平台
-- [`vagrant-disksize`](https://github.com/sprotheroe/vagrant-disksize) - 用于调整`VirtualBox`中磁盘大小的`Vagrant`插件
 - [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
-- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在docker容器中运行应用程序
+- [`dockerize`](https://github.com/jwilder/dockerize) - 简化在`docker`容器中运行应用程序
+- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具
+
+### 镜像
 - [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
 - [`swarmprom`](https://github.com/stefanprodan/swarmprom) - `Docker Swarm`仪器与`Prometheus/Grafana/cAdvisor`，节点导出器和警报管理器
 - [`dockprom`](https://github.com/stefanprodan/dockprom) - 单机模式下的监控
@@ -596,9 +610,6 @@ The path to growth of architects
 - [`oracle/docker-images`](https://github.com/oracle/docker-images) - `Docker`配置，图像以及`Dockerfiles for Oracle`产品和项目示例的官方来源
 - [`dockerfiles`](https://github.com/jessfraz/dockerfiles) - 在桌面和服务器上使用的各种`Dockerfiles`
 - [`yeasy/docker-compose-files`](https://github.com/yeasy/docker-compose-files) - 一些典型的`docker`组成模板。
-- [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具。
-- [`yeasy/docker_practice`](https://github.com/yeasy/docker_practice) - `docker`--从入门到实践
-- [`docker/labs`](https://github.com/docker/labs) - 这是一个学习如何使用`Docker`和各种工具的教程的集合
 
 
 ## 安全
