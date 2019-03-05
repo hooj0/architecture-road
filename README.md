@@ -528,28 +528,6 @@ The path to growth of architects
 #### 事件总线
 ---
 - [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量
-### 通用服务
-
-
-
-## 分布式
-### 原理
-### 策略
-### 中间件
-#### 远程调用
----
-- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为`baidu-rpc`
-- [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架
-
-#### 配置管理
----
-- [`apollo`](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
-
-#### 日志管理
----
-- [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
-- [`docker-elk`](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
-- [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
 #### `WebServer`
 
@@ -573,6 +551,29 @@ The path to growth of architects
 + [`Tomcat 调优方案`](https://www.cnblogs.com/sunfenqing/p/7339058.html) - 启动`NIO`模式（或者`APR`），调整线程池；禁用`AJP`连接器（`Nginx+tomcat`的架构，不需要`AJP`）
 + [`tomcat http协议与ajp协议`](http://blog.chinaunix.net/uid-20662363-id-3012760.html) - `tomcat http`协议与`ajp`协议
 + [`AJP与HTTP比较和分析`](http://dmouse.iteye.com/blog/1354527) - `AJP` 协议（8009端口）用于降低和前端`Server`（如`Apache`，而且需要支持`AJP`协议）的连接数(前端)，通过长连接提高性能。并发高时，`AJP`协议优于`HTTP`协议
+
+### 通用服务
+
+
+
+## 分布式
+### 原理
+### 策略
+### 组件
+#### 远程调用
+---
+- [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为`baidu-rpc`
+- [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架
+
+#### 配置管理
+---
+- [`apollo`](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
+
+#### 日志管理
+---
+- [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
+- [`docker-elk`](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
+- [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
 
 #### 负载均衡
 
