@@ -508,6 +508,32 @@ The path to growth of architects
 - [`Redisson`](https://github.com/redisson/redisson) -   分布式`Java`对象和服务（`Set，Multimap，SortedSet，Map，List，Queue，Deque，Semaphore，Lock，AtomicLong，Map Reduce，Publish/Subscribe，Bloom filter，Spring Cache，Tomcat，Scheduler，JCache API，Hibernate`）在`Redis`服务器上。最先进的`Redis Java`客户端
 - [`jedis`](https://github.com/xetorthio/jedis) - 一个非常小而且理智的`redis java`客户端
 
+**缓存策略**
+
+- [`缓存失效策略`](https://blog.csdn.net/clementad/article/details/48229243) - 缓存失效策略（`FIFO 、LRU、LFU`三种算法的区别）
+
+**本地缓存**
+
+- [`HashMap本地缓存`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/421-ying-yong-ceng-ben-di-huan-cun/4211.html) - `HashMap`本地缓存
+- [`EhCache本地缓存`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/421-ying-yong-ceng-ben-di-huan-cun/4212-ehcache.html) - 堆内、堆外、磁盘三级缓存；可按照缓存空间容量进行设置；按照时间、次数等过期策略。
+- [`Guava Cache`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/421-ying-yong-ceng-ben-di-huan-cun/4213-guava-cache.html) - 简单轻量、无堆外、磁盘缓存
+- [`Nginx本地缓存`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/422-fu-wu-duan-ben-di-huan-cun/nginx-ben-di-huan-cun.html) - `Nginx`本地缓存
+- [`Pagespeed`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/422-fu-wu-duan-ben-di-huan-cun/4222-pagespeed.html) - `Pagespeed`—懒人工具，服务器端加速
+
+**客户端缓存**
+
++ [`浏览器端缓存`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/423-ke-hu-duan-huan-cun.html) - 主要是利用 `Cache-Control` 参数
++ [`H5 和移动端 WebView 缓存机制解析与实战`](https://mp.weixin.qq.com/s/qHm_dJBhVbv0pJs8Crp77w) - `H5` 和移动端 `WebView` 缓存机制解析与实战
+
+**服务器缓存**
+
++ [`Web缓存 nuster`](https://github.com/jiangwenyuan/nuster) - nuster cache
++ [`Web缓存 varnish`](https://github.com/varnishcache/varnish-cache) - varnish cache
++ [`Web缓存 squid`](https://github.com/squid-cache/squid) - squid cache
++ [`Memcached 教程`](http://www.runoob.com/Memcached/Memcached-tutorial.html) - `Memcached` 教程
++ [`深入理解Memcached原理`](https://blog.csdn.net/chenleixing/article/details/47035453) - 采用多路复用技术提高并发性；`slab`分配算法： `memcached`给`Slab`分配内存空间，默认是`1MB`；分配给`Slab`之后 把`slab`的切分成大小相同的`chunk`，`Chunk`是用于缓存记录的内存空间，`Chunk` 的大小默认按照`1.25`倍的速度递增；好处是不会频繁申请内存，提高`IO`效率，坏处是会有一定的内存浪费。
++ [`Memcached软件工作原理`](https://www.jianshu.com/p/36e5cd400580) - `Memcached`软件工作原理
+
 ### 持续集成
 
 ### 持续部署
