@@ -542,7 +542,8 @@ The path to growth of architects
 + [`分布式缓存--序列3--原子操作与CAS乐观锁`](https://blog.csdn.net/chunlongyu/article/details/53346436) - 分布式缓存--序列3--原子操作与`CAS`乐观锁
 + [`Redis单线程架构`](https://blog.csdn.net/sunhuiliang85/article/details/73656830) - `Redis`单线程架构
 + [`Redis的回收策略`](https://blog.csdn.net/qq_29108585/article/details/63251491) - `Redis`的回收策略
-+ 
++ [`Tair官方网站`](https://github.com/alibaba/tair) - `Tair`官方网站
++ [`Tair和Redis的对比`](http://blog.csdn.net/farphone/article/details/53522383) - 特点：可以配置备份节点数目，通过异步同步到备份节点；一致性`Hash`算法；架构：和`Hadoop` 的设计思想类似，有`Configserver`，`DataServer`，`Configserver` 通过心跳来检测，`Configserver`也有主备关系。
 
 ### 持续集成
 
