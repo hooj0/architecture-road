@@ -536,6 +536,12 @@ The path to growth of architects
 + [`Memcache技术分享`](http://zhihuzeye.com/archives/2361) - `Memcache`技术分享：介绍、使用、存储、算法、优化、命中率
 + [`memcache 中 add 、 set 、replace 的区别`](https://blog.csdn.net/liu251890347/article/details/37690045) - 区别在于当`key`存在还是不存在时，返回值是`true`和`false`的
 + [`memcached全面剖析`](https://pan.baidu.com/s/1qX00Lti?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=) - `memcached`全面剖析
++ [`Redis 教程`](http://www.runoob.com/redis/redis-tutorial.html) - `Redis` 教程
++ [`Redis底层原理`](https://blog.csdn.net/wcf373722432/article/details/78678504) - 使用 `ziplist` 存储链表，`ziplist`是一种压缩链表，它的好处是更能节省内存空间，因为它所存储的内容都是在连续的内存区域当中的。使用 `skiplist`(跳跃表)来存储有序集合对象、查找上先从高`Level`查起、时间复杂度和红黑树相当，实现容易，无锁、并发性好
++ [`Redis持久化方式`](http://doc.redisfans.com/topic/persistence.html) - `RDB`方式：定期备份快照，常用于灾难恢复。优点：通过`fork`出的进程进行备份，不影响主进程、`RDB` 在恢复大数据集时的速度比 `AOF` 的恢复速度要快。缺点：会丢数据。`AOF`方式：保存操作日志方式。优点：恢复时数据丢失少，缺点：文件大，回复慢。
++ [`分布式缓存--序列3--原子操作与CAS乐观锁`](https://blog.csdn.net/chunlongyu/article/details/53346436) - 分布式缓存--序列3--原子操作与`CAS`乐观锁
++ [`Redis单线程架构`](https://blog.csdn.net/sunhuiliang85/article/details/73656830) - `Redis`单线程架构
++ [`Redis的回收策略`](https://blog.csdn.net/qq_29108585/article/details/63251491) - `Redis`的回收策略
 + 
 
 ### 持续集成
