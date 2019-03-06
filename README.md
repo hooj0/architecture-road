@@ -534,7 +534,8 @@ The path to growth of architects
 + [`深入理解Memcached原理`](https://blog.csdn.net/chenleixing/article/details/47035453) - 采用多路复用技术提高并发性；`slab`分配算法： `memcached`给`Slab`分配内存空间，默认是`1MB`；分配给`Slab`之后 把`slab`的切分成大小相同的`chunk`，`Chunk`是用于缓存记录的内存空间，`Chunk` 的大小默认按照`1.25`倍的速度递增；好处是不会频繁申请内存，提高`IO`效率，坏处是会有一定的内存浪费。
 + [`Memcached软件工作原理`](https://www.jianshu.com/p/36e5cd400580) - `Memcached`软件工作原理
 + [`Memcache技术分享`](http://zhihuzeye.com/archives/2361) - `Memcache`技术分享：介绍、使用、存储、算法、优化、命中率
-+ [`memcache 中 add 、 set 、replace 的区别`](https://blog.csdn.net/liu251890347/article/details/37690045) - `memcache` 中 `add 、 set 、replace` 的区别
++ [`memcache 中 add 、 set 、replace 的区别`](https://blog.csdn.net/liu251890347/article/details/37690045) - 区别在于当`key`存在还是不存在时，返回值是`true`和`false`的
++ [`memcached全面剖析`](https://pan.baidu.com/s/1qX00Lti?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=) - `memcached`全面剖析
 + 
 
 ### 持续集成
