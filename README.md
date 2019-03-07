@@ -601,6 +601,25 @@ The path to growth of architects
 
 + [`Redis用作消息队列`](https://blog.csdn.net/qq_34212276/article/details/78455004) - `Redis`学习笔记之十：`Redis`用作消息队列
 
+#### 定时调度
+
+---
+
+**单机定时调度**
+
++ [`linux定时任务cron配置`](https://www.cnblogs.com/shuaiqing/p/7742382.html) - `linux`定时任务`cron`配置
++ [`Linux cron运行原理`](https://my.oschina.net/daquan/blog/483305) - `fork` 进程 + `sleep` 轮询
++ [`Quartz使用总结`](https://www.cnblogs.com/drift-ice/p/3817269.html) - `Quartz`使用总结
++ [`Quartz源码解析`](https://blog.csdn.net/wenniuwuren/article/details/42082981/) - `Quartz`源码解析 —— 触发器按时启动原理
++ [`quartz原理揭秘和源码解读`](https://www.jianshu.com/p/bab8e4e32952) - 定时调度在 `QuartzSchedulerThread` 代码中，`while()`无限循环，每次循环取出时间将到的`trigger`，触发对应的`job`，直到调度器线程被关闭
+
+**分布式定时调度**
+
++ [`这些优秀的国产分布式任务调度系统`](https://blog.csdn.net/qq_16216221/article/details/70314337) - 你用过几个？`opencron`、`LTS`、`XXL-JOB`、`Elastic-Job`、`Uncode-Schedule`、`Antares`
++ [`Quartz任务调度的基本实现原理`](https://www.cnblogs.com/zhenyuyaodidiao/p/4755649.html) - `Quartz`集群中，独立的`Quartz`节点并不与另一其的节点或是管理节点通信，而是通过相同的数据库表来感知到另一`Quartz`应用的
++ [`Elastic-Job-Lite 源码解析`](http://www.iocoder.cn/categories/Elastic-Job-Lite/?vip&architect-awesome) - `Elastic-Job-Lite` 源码解析
++ [`Elastic-Job-Cloud 源码解析`](http://www.iocoder.cn/categories/Elastic-Job-Cloud/?vip&architect-awesome) - `Elastic-Job-Cloud` 源码解析
+
 #### 事件总线
 ---
 - [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量
@@ -645,6 +664,25 @@ The path to growth of architects
 ---
 - [`brpc`](https://github.com/brpc/brpc) - 整个百度使用的工业级`RPC`框架，拥有`1,000,000`多个实例和数千种服务，在百度内部称为`baidu-rpc`
 - [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架
+- [`从零开始实现RPC框架`](https://blog.csdn.net/top_code/article/details/54615853) - 从零开始实现`RPC`框架 - `RPC`原理及实现：核心角色：`Server`：暴露服务的服务提供方、`Client`：调用远程服务的服务消费方、`Registry`：服务注册与发现的注册中心。
+- [`分布式RPC框架性能大比拼`](https://blog.csdn.net/testcs_dn/article/details/78050590) - 分布式RPC框架性能大比拼 `dubbo`、`motan`、`rpcx`、`gRPC`、`thrift`的性能比较
+
+**`Dubbo`**
+
++ [`Dubbo官方网站`](http://dubbo.apache.org/) - `Dubbo`官方网站
++ [`dubbo实现原理简单介绍`](https://www.cnblogs.com/steven520213/p/7606598.html) - `dubbo`实现原理简单介绍
+
+**`Thrift`**
+
++ [`Thrift官方网站`](http://thrift.apache.org/) - 官方网站
++ [`Thrift RPC详解`](https://blog.csdn.net/kesonyk/article/details/50924489) - `Thrift RPC`详解
+
+**`gRPC`**
+
+服务端可以认证加密，在外网环境下，可以保证数据安全。
+
+- [`gRpc官方网站`](https://grpc.io/) - 官方网站
+- [`RPC原理`](https://www.cnblogs.com/LBSer/p/4853234.html) - 你应该知道的`RPC`原理
 
 #### 配置管理
 ---
