@@ -624,6 +624,13 @@ The path to growth of architects
 ---
 - [`EventBus`](https://github.com/greenrobot/EventBus) - 适用于`Android`和`Java`的事件总线，可简化活动，碎片，线程，服务等之间的通信。减少代码，提高质量
 
+#### 数据库
+
+**`Sharding Jdbc`**
+
++ [`官网`](http://shardingjdbc.io/) - `Sharding Jdbc` 官网
++ [`源码解析`](http://www.iocoder.cn/categories/Sharding-JDBC/?vip&architect-awesome) - `Sharding Jdbc` 源码解析
+
 #### `WebServer`
 
 ---
@@ -687,12 +694,18 @@ The path to growth of architects
 #### 配置管理
 ---
 - [`apollo`](https://github.com/ctripcorp/apollo) - 阿波罗是携程框架部门研发的分布式配置中心
+- [`基于zookeeper实现统一配置管理`](https://blog.csdn.net/u011320740/article/details/78742625) - 基于`zookeeper`实现统一配置管理
+- [`Spring Cloud Config 分布式配置中心使用教程`](https://www.cnblogs.com/shamo89/p/8016908.html) - `Spring Cloud Config` 分布式配置中心使用教程
+- [`Servlet3.0 新特性——异步处理`](https://www.cnblogs.com/dogdogwang/p/7151866.html) - `servlet` 3.0 异步特性可用于配置中心的客户端
 
 #### 日志管理
 ---
 - [`graylog2-server`](https://github.com/Graylog2/graylog2-server) - `Graylog`是一个开源日志管理平台
 - [`docker-elk`](https://github.com/deviantony/docker-elk) - 由`Docker`和`Compose`驱动的`ELK`堆栈
 - [`jenkinsci/ansicolor-plugin`](https://github.com/jenkinsci/ansicolor-plugin) - `Jenkins ANSI Color Plugin`
+- [`搭建ELKB日志收集系统`](http://cjting.me/misc/build-log-system-with-elkb/) - 从零开始搭建一个`ELKB`日志收集系统
+- [`用ELK搭建简单的日志收集分析系统`](https://blog.csdn.net/lzw_2006/article/details/51280058) - 用`ELK`搭建简单的日志收集分析系统
+- [`日志收集系统-探究`](https://www.cnblogs.com/beginmind/p/6058194.html) - 日志收集系统探究
 
 #### 负载均衡
 
