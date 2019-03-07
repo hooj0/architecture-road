@@ -581,7 +581,25 @@ The path to growth of architects
 + [`RocketMQ 实战之快速入门`](https://www.jianshu.com/p/824066d70da8) - 快速入门
 + [`RocketMQ 源码解析`](http://www.iocoder.cn/categories/RocketMQ/?vip&architect-awesome) - 源码解析
 
+**`ActiveMQ`**
 
+纯`Java`实现，兼容`JMS`，可以内嵌于`Java`应用中。
+
++ [`ActiveMQ消息队列介绍`](https://www.cnblogs.com/wintersun/p/3962302.html) - 消息队列
+
+**`Kafka`**
+
+高吞吐量、采用拉模式。适合高`IO`场景，比如日志同步。
+
++ [`Kafka 官方网站`](http://kafka.apache.org/) - 官方网站
++ [`各消息队列对比/解析`](https://blog.csdn.net/allthesametome/article/details/47362451) - 各消息队列对比，`Kafka`深度解析，众人推荐，精彩好文
++ [`Kafka分区机制介绍与示例`](http://lxw1234.com/archives/2015/10/538.htm) - `Kafka`分区机制介绍与示例
+
+**`Redis` 消息推送**
+
+生产者、消费者模式完全是客户端行为，`list` 和 拉模式实现，阻塞等待采用 `blpop` 指令。
+
++ [`Redis用作消息队列`](https://blog.csdn.net/qq_34212276/article/details/78455004) - `Redis`学习笔记之十：`Redis`用作消息队列
 
 #### 事件总线
 ---
