@@ -707,6 +707,16 @@ The path to growth of architects
 - [`用ELK搭建简单的日志收集分析系统`](https://blog.csdn.net/lzw_2006/article/details/51280058) - 用`ELK`搭建简单的日志收集分析系统
 - [`日志收集系统-探究`](https://www.cnblogs.com/beginmind/p/6058194.html) - 日志收集系统探究
 
+#### 接口网关
+
+主要职责：请求转发、安全认证、协议转换、容灾。
+
+- [`API网关`](http://yunlzheng.github.io/2017/03/14/the-things-about-api-gateway/) - `API`网关介绍
+- [`谈API网关的背景、架构以及落地方案`](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)   - 谈`API`网关的背景、架构以及落地方案
+- [`使用Zuul构建API Gateway`](https://blog.csdn.net/zhanglh046/article/details/78651993) - 使用`Zuul`构建`API Gateway`
+- [`Spring Cloud Gateway 源码解析`](http://www.iocoder.cn/categories/Spring-Cloud-Gateway/?vip&architect-awesome) - `Spring Cloud Gateway` 源码解析
+- [`HTTP API网关选择之一Kong介绍`](https://mp.weixin.qq.com/s/LIq2CiXJQmmjBC0yvYLY5A) - `Kong`介绍
+
 #### 负载均衡
 
 ---
