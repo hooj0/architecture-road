@@ -471,14 +471,64 @@ The path to growth of architects
 
 ### 网络
 有关网络协议、安全、服务的框架和工具
-#### 异步
----
-- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
-- [`async-http-client`](https://github.com/AsyncHttpClient/async-http-client) - 用于`Java`的异步`Http`和`WebSocket`客户端库
 #### 协议
 ---
 - [`Vamei/Protocol-Forest-Vamei`](https://github.com/Vamei/Protocol-Forest-Vamei) - 协议森林
+
+**`OSI 七层协议`**
+
++ [`OSI七层协议模型、TCP/IP四层模型`](https://www.cnblogs.com/Robin-YB/p/6668762.html) - `OSI`七层协议模型、`TCP/IP`四层模型学习笔记
+
+**`TCP/IP`**
+
++ [`深入浅出 TCP/IP 协议`](https://www.cnblogs.com/onepixel/p/7092302.html) - 深入浅出 `TCP/IP` 协议
++ [`TCP协议中的三次握手和四次挥手`](https://blog.csdn.net/whuslei/article/details/6667471/) - `TCP`协议中的三次握手和四次挥手
+
+**`HTTP`**
+
++ [`http协议详解`](https://www.cnblogs.com/wangning528/p/6388464.html) - `http`协议详解(超详细)
+
+**`HTTP2.0`**
+
++ [`HTTP 2.0 原理详细分析`](https://blog.csdn.net/zhuyiquan/article/details/69257126) - `HTTP 2.0` 原理详细分析
++ [`HTTP 2.0 的基本单位为二进制帧`](https://blog.csdn.net/u012657197/article/details/77877840) - `HTTP 2.0` 利用二进制帧负责传输；多路复用
+
+**`HTTPS`**
+
++ [`https原理通俗了解`](https://www.cnblogs.com/zhangshitong/p/6478721.html) - 使用非对称加密协商加密算法；使用对称加密方式传输数据；使用第三方机构签发的证书，来加密公钥，用于公钥的安全传输、防止被中间人串改
++ [`八大免费SSL证书`](https://blog.csdn.net/enweitech/article/details/53213862) - 八大免费`SSL`证书-给你的网站免费添加`Https`安全加密
+
+#### 网络模型
+
+---
+
++ [`web优化必须了解的原理之I/o的五种模型和web的三种工作模式`](http://blog.51cto.com/litaotao/1289790) - `web`优化必须了解的原理之`I/O`的五种模型和`web`的三种工作模式。五种`I/O`模型：阻塞`I/O`，非阻塞`I/O`，`I/O`复用、事件(信号)驱动`I/O`、异步`I/O`，前四种`I/O`属于同步操作，`I/O`的第一阶段不同、第二阶段相同，最后的一种则属于异步操作；三种 `Web Server` 工作方式：`Prefork`(多进程)、`Worker`方式(线程方式)、`Event`方式。
++ [`select、poll、epoll之间的区别总结`](http://www.cnblogs.com/Anker/p/3265058.html) - `select`，`poll`，`epoll`本质上都是同步`I/O`，因为他们都需要在读写事件就绪后自己负责进行读写，也就是说这个读写过程是阻塞的。`select` 有打开文件描述符数量限制，默认`1024（2048 for x64）`，100万并发，就要用1000个进程、切换开销大；`poll`采用链表结构，没有数量限制。`select`，`poll` “醒着”的时候要遍历整个`fd`集合，而`epoll`在“醒着”的时候只要判断一下就绪链表是否为空就行了，通过回调机制节省大量`CPU`时间；`select`，`poll`每次调用都要把fd集合从用户态往内核态拷贝一次，而`epoll`只要一次拷贝。`poll`会随着并发增加，性能逐渐下降，`epoll`采用红黑树结构，性能稳定，不会随着连接数增加而降低。
++ [`select，poll，epoll比较`](http://xingyunbaijunwei.blog.163.com/blog/static/76538067201241685556302/) - 在连接数少并且连接都十分活跃的情况下，`select`和`poll`的性能可能比`epoll`好，毕竟`epoll`的通知机制需要很多函数回调。
++ [`深入理解Java NIO`](https://www.cnblogs.com/geason/p/5774096.html) - `NIO` 是一种同步非阻塞的 `IO` 模型。同步是指线程不断轮询 `IO` 事件是否就绪，非阻塞是指线程在等待 `IO` 的时候，可以同时做其他任务。
++ [`BIO与NIO、AIO的区别`](https://blog.csdn.net/skiof007/article/details/52873421) - `BIO`与`NIO`、`AIO`的区别
++ [`两种高效的服务器设计模型`](https://blog.csdn.net/u013074465/article/details/46276967) - 两种高效的服务器设计模型：`Reactor`和`Proactor`模型
++ [`Epoll —— 使用详解（精髓）`](https://www.cnblogs.com/fnlingnzb-learner/p/5835573.html) - 使用详解
++ [`Java NIO —— 深入理解`](https://www.cnblogs.com/geason/p/5774096.html) - 深入理解`Java NIO`
++ [`Java NIO —— 编写Socket服务器的一个例子`](https://blog.csdn.net/xidianliuy/article/details/51612676) - `Java NIO` 编写`Socket`服务器的一个例子
++ [`Kqueue用法简介`](http://www.cnblogs.com/luminocean/p/5631336.html) - `kqueue`用法简介
+
+#### 长连接和短连接
+
+---
+
++ [`TCP/IP系列——长连接与短连接的区别`](https://www.cnblogs.com/pangguoping/p/5571422.html) - `TCP/IP`系列——长连接与短连接的区别
+
+#### 异步
+
+---
+- [`netty`](https://github.com/netty/netty) - `Netty`项目 - 事件驱动的异步网络应用程序框架
+- [`async-http-client`](https://github.com/AsyncHttpClient/async-http-client) - 用于`Java`的异步`Http`和`WebSocket`客户端库
+- [`Netty原理剖析`](https://blog.csdn.net/excellentyuxiao/article/details/53390408) - `Reactor` 模式介绍；`Netty` 是 `Reactor` 模式的一种实现
+- [`对于 Netty ByteBuf 的零拷贝(Zero Copy) 的理解`](https://www.cnblogs.com/xys1228/p/6088805.html) - 多个物理分离的buffer，通过逻辑上合并成为一个，从而避免了数据在内存之间的拷贝
+
 #### 安全
+
 ---
 - [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等
 #### 服务
