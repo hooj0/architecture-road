@@ -553,20 +553,35 @@ The path to growth of architects
 
 + [`数据库的三大范式以及五大约束`](https://www.cnblogs.com/waj6511988/p/7027127.html) - 第一范式：数据表中的每一列（每个字段）必须是不可拆分的最小单元，也就是确保每一列的原子性；第二范式（2NF）：满足1NF后，要求表中的所有列，都必须依赖于主键，而不能有任何一列与主键没有关系，也就是说一个表只描述一件事情；第三范式：必须先满足第二范式（2NF），要求：表中的每一列只与主键直接相关而不是间接相关，（表中的每一列只能依赖于主键）
 
-#### 面对对象型
----
-#### 关系型
----
-**`MySQL`**
+#### `MySQL`
 
 + [`MySQL的InnoDB索引原理详解`](http://www.admin10000.com/document/5372.html) - `MySQL`的`InnoDB`索引原理详解
 + [`MySQL存储引擎－－MyISAM与InnoDB区别`](https://blog.csdn.net/xifeijian/article/details/20316775) - 两种类型最主要的差别就是`Innodb`支持事务处理与外键和行级锁
 + [`myisam和innodb索引实现的不同`](https://www.2cto.com/database/201211/172380.html) - `myisam`和`innodb`索引实现的不同
 
-**`InnoDB`**
+#### `InnoDB`
 
 + [`一篇文章带你读懂Mysql和InnoDB`](https://my.oschina.net/kailuncen/blog/1504217) - 一篇文章带你读懂`Mysql`和`InnoDB`
 
+#### `优化`
+
+- [`MySQL36条军规`](http://vdisk.weibo.com/s/muWOT) - `MySQL36`条军规
+- [`MYSQL性能优化的最佳20+条经验`](https://www.cnblogs.com/zhouyusheng/p/8038224.html) - `MYSQL`性能优化的最佳`20+`条经验 
+- [`SQL优化之道`](https://blog.csdn.net/when_less_is_more/article/details/70187459) - `SQL`优化之道
+- [`Mysql数据库死锁的产生原因及解决办法`](https://www.cnblogs.com/sivkun/p/7518540.html) - `Mysql`数据库死锁的产生原因及解决办法
+- [`导致索引失效的可能情况`](https://blog.csdn.net/monkey_d_feilong/article/details/52291556) - 导致索引失效的可能情况
+- [`MYSQL分页limit速度太慢优化方法`](https://blog.csdn.net/zy_281870667/article/details/51604540) - 原则上就是缩小扫描范围
+
+#### 索引
+
++ [`MySQL 聚集索引/非聚集索引简述`](https://blog.csdn.net/no_endless/article/details/77073549) - `MySQL` 聚集索引/非聚集索引简述
++ [`MyISAM和InnoDB的索引实现`](https://www.cnblogs.com/zlcxbb/p/5757245.html) - `MyISAM` 是非聚集，`InnoDB` 是聚集
++ 
+
+#### 面对对象型
+---
+#### 关系型
+---
 
 
 #### `NoSQL`
