@@ -956,12 +956,23 @@ The path to growth of architects
 - [`一种高级的DoS攻击-Hash碰撞攻击`](http://blog.it2048.cn/article_hash-collision.html) - 一种高级的`DoS`攻击-`Hash`碰撞攻击
 - [`关于Hash Collision DoS漏洞：解析与解决方案`](http://www.iteye.com/news/23939/) - 关于`Hash Collision DoS`漏洞：解析与解决方案
 - [`脚本注入：上传文件漏洞原理及防范`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/641-web-an-quan-fang-fan/6414-shang-chuan-wen-jian-guo-lv.html) - 上传文件漏洞原理及防范
+
+**漏洞扫描**
+
 - [`漏洞扫描工具: DVWA`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/6421-dvwa.html) - 漏洞扫描工具: `DVWA`
 - [`漏洞扫描工具: W3af`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/w3af.html) - 漏洞扫描工具: `W3af`
 - [`漏洞扫描工具: OpenVAS详解`](https://blog.csdn.net/xygg0801/article/details/53610640) - 漏洞扫描工具: `OpenVAS`详解
+
+**验证码**
+
 - [`验证码原理分析及实现`](https://blog.csdn.net/niaonao/article/details/51112686) - 验证码原理分析及实现
-- [`详解滑动验证码的实现原理`](https://my.oschina.net/jiangbianwanghai/blog/1031031) - 滑动验证码是根据人在滑动滑块的响应时间，拖拽速度，时间，位置，轨迹，重试次数等来评估风险
-- 
+- [`验证码滑动的实现原理详解`](https://my.oschina.net/jiangbianwanghai/blog/1031031) - 滑动验证码是根据人在滑动滑块的响应时间，拖拽速度，时间，位置，轨迹，重试次数等来评估风险
+- [`淘宝滑动验证码研究`](https://www.cnblogs.com/xcj26/p/5242758.html) - 淘宝滑动验证码研究
+
+**`DDoS` 防范**
+
++ [`学习手册：DDoS的攻击方式及防御手段`](http://netsecurity.51cto.com/art/201601/503799.htm) - `DDoS`的攻击方式及防御手段
++ [`免费DDoS攻击测试工具大合集`](http://netsecurity.51cto.com/art/201406/442756.htm) - 免费`DDoS`攻击测试工具大合集
 
 ### 容灾
 
@@ -970,6 +981,14 @@ The path to growth of architects
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 - [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么
 - [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库
+
+### 保护
+
+**用户隐私保护**
+
++ [`个人隐私包括哪些`](https://zhidao.baidu.com/question/1988017976673661587.html) - 个人隐私包括哪些
++ [`在互联网上，隐私的范围包括哪些？`](https://www.zhihu.com/question/20137108) - 在互联网上，隐私的范围包括哪些
++ [`用户密码保存`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6425-jia-mi-chang-jing-ff1a-yong-hu-mi-ma-bao-cun.html) - 用户密码保存
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
