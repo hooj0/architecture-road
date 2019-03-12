@@ -450,18 +450,27 @@ The path to growth of architects
 
 # 性能
 任何脱离细节的`ppt`架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
-## 性能指标体系
+## 性能指标
+
+## 调优方法论
+
++ [`15天的性能优化工作，5方面的调优经验`](https://blog.csdn.net/huangwenyi1010/article/details/72673447?ref=myread) - 代码层面、业务层面、数据库层面、服务器层面、前端优化
++ [`系统性能优化的几个方面`](https://blog.csdn.net/tenglizhe/article/details/44563135) - 系统性能优化的几个方面
 
 ## `JVM`调优
 + [`JVM性能调优监控工具`](https://my.oschina.net/feichexia/blog/196575) - `JVM`性能调优监控工具`jps`、`jstack`、`jmap`、`jhat`、`jstat`、`hprof`使用详解
++ [`九大Java性能调试工具，必备至少一款`](https://blog.csdn.net/yethyeth/article/details/73266455) - 九大`Java`性能调试工具，必备至少一款
 
 ## `Web`调优
 
-## 数据库调优
+## `DB`调优
 
-## 缓存调优
++ [`主流Java数据库连接池比较与开发配置实战`](https://blog.csdn.net/fysuccess/article/details/66972554) - 主流`Java`数据库连接池比较与开发配置实战
 
+## `Cache`调优
 
++ [`CDN加速原理`](https://www.cnblogs.com/wxiaona/p/5867685.html) - `CDN`加速原理
++ [`国内有哪些比较好的 CDN？`](https://www.zhihu.com/question/20536932) - 国内有哪些比较好的 `CDN`
 
 # 架构
 
@@ -594,7 +603,11 @@ The path to growth of architects
 + [`Mongodb相对于关系型数据库的优缺点`](http://mxdxm.iteye.com/blog/2093603) - 优点：弱一致性（最终一致），更能保证用户的访问速度；内置`GridFS`，支持大容量的存储；`Schema-less` 数据库，不用预先定义结构；内置`Sharding`；相比于其他`NoSQL`，第三方支持丰富；性能优越；缺点：`mongodb`不支持事务操作；`mongodb`占用空间过大；`MongoDB`没有如`MySQL`那样成熟的维护工具，这对于开发和IT运营都是个值得注意的地方
 
 ##### `Hbase`
-+ 
++ [`简明 HBase 入门教程（开篇）`](http://www.thebigdata.cn/HBase/35831.html) - 简明 `HBase` 入门教程（开篇）
++ [`深入学习HBase架构原理`](https://www.cnblogs.com/qiaoyihang/p/6246424.html) - 深入学习`HBase`架构原理
++ [`传统的行存储和（HBase）列存储的区别`](https://blog.csdn.net/youzhouliu/article/details/67632882) - 传统的行存储和（`HBase`）列存储的区别
++ [`Hbase与传统数据库的区别`](https://blog.csdn.net/lifuxiangcaohui/article/details/39891099) - 空数据不存储，节省空间，且适用于并发
++ [`HBase Rowkey设计`](https://blog.csdn.net/u014091123/article/details/73163088) - `HBase Rowkey`设计：`rowkey` 按照字典顺序排列，便于批量扫描；通过散列可以避免热点
 
 #### 其他
 
@@ -830,7 +843,14 @@ The path to growth of architects
 
 #### 检索
 ---
-- [`elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
+- [`搜索引擎原理：倒排索引`](https://www.jianshu.com/p/0193dc44135b) - 搜索引擎原理：倒排索引——搜索引擎入门
+- [`Lucene入门简介`](https://www.cnblogs.com/rodge-run/p/6551152.html) - `Lucene`入门简介
+- [`Elasticsearch学习，请先看这一篇`](https://blog.csdn.net/laoyang360/article/details/52244917) - `Elasticsearch`学习，请先看这一篇
+- [`Elasticsearch索引原理`](https://blog.csdn.net/cyony/article/details/65437708) - `Elasticsearch`索引原理
+- [`Apache Solr入门教程`](https://blog.csdn.net/u011936655/article/details/51960005) - `Apache Solr`入门教程
+- [`Elasticsearch与Solr比较`](https://blog.csdn.net/convict_eva/article/details/53537837) - `Elasticsearch`与`Solr`比较
+- [`Sphinx 的介绍和原理探索`](http://blog.jobbole.com/101672/) - `Sphinx` 的介绍和原理探索
+- [`Elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
 
 
 ## 微服务
