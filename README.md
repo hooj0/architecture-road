@@ -272,10 +272,38 @@ The path to growth of architects
 - [`vue2-elm`](https://github.com/bailicangdu/vue2-elm) - 基于`vue2 + vuex` 构建一个具有 45 个页面的大型单页面应用
 - [`vuido`](https://github.com/mimecorg/vuido) - 使用`Vue.js`的本机桌面应用程序
 
-# 热门资源
+# 热门
 介绍当下流行的技术模块，如大数据、区块链、人工智能等
 
 ## 大数据
+
+### 流式计算
+
+- [`Storm官方网站`](http://storm.apache.org/) - `Storm`官方网站
+- [`Storm最详细的入门教程`](https://blog.csdn.net/uisoul/article/details/77989927) - `Storm`最详细的入门教程
+- [`Flink基本原理介绍`](https://blog.csdn.net/lisi1129/article/details/54844919) - `Flink`基本原理介绍
+- [`Kafka Stream调研：一种轻量级流计算模式`](https://yq.aliyun.com/articles/58382) - `Kafka Stream`调研：一种轻量级流计算模式
+
+**适用场景**
+
++ 广告相关实时统计
++ 推荐系统用户画像标签实时更新
++ 线上服务健康状况实时监测
++ 实时榜单
++ 实时数据统计
+
+### `Hadoop`
+
++ [`用通俗易懂的话说下hadoop`](https://blog.csdn.net/houbin0912/article/details/72967178) - 用通俗易懂的话说下`hadoop`是什么，能做什么
++ [`史上最详细的Hadoop环境搭建`](http://gitbook.cn/books/5954c9600326c7705af8a92a/index.html) - 史上最详细的`Hadoop`环境搭建
++ [`HDFS基本原理`](https://segmentfault.com/a/1190000011575458) - `Hadoop`学习——`HDFS`基本原理
++ [`用通俗易懂的大白话讲解Map/Reduce原理`](https://blog.csdn.net/oppo62258801/article/details/72884633) - 用通俗易懂的大白话讲解`Map/Reduce`原理
++ [`简单的map-reduce的java例子`](https://blog.csdn.net/foye12/article/details/78358292) - 简单的`map-reduce`的`java`例子
++ [`初步掌握Yarn的架构及原理`](http://www.cnblogs.com/codeOfLife/p/5492740.html) - 初步掌握`Yarn`的架构及原理
+
+### `Spark`
+
++ [`Spark(一): 基本架构及原理`](http://www.cnblogs.com/tgzhu/p/5818374.html) - `Spark`(一): 基本架构及原理
 
 ## 区块链
 - [`lhartikk/naivechain`](https://github.com/lhartikk/naivechain) - 200行代码中的区块链实现
@@ -921,6 +949,13 @@ The path to growth of architects
 
 ### 防御
 - [`Netflix/Hystrix`](https://github.com/Netflix/Hystrix) - `Hystrix`是一个延迟和容错库，旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在复杂的分布式系统中实现弹性，在这些系统中，故障是不可避免的
+- [`XSS攻击原理与解决方法`](https://blog.csdn.net/qq_21956483/article/details/54377947) - `XSS`攻击原理与解决方法
+- [`CSRF原理及防范`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/641-web-an-quan-fang-fan/6412-csrf.html) - `CSRF`原理及防范
+- [`SQL注入`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/641-web-an-quan-fang-fan/6413-sql-zhu-ru.html) - `SQL`注入
+- [`邪恶的JAVA HASH DOS攻击`](http://www.freebuf.com/articles/web/14199.html) - 防止邪恶的`JAVA HASH DOS`攻击，利用`JsonObject` 上传大`Json`，`JsonObject` 底层使用`HashMap`；不同的数据产生相同的`hash`值，使得构建`Hash`速度变慢，耗尽`CPU`
+- [`一种高级的DoS攻击-Hash碰撞攻击`](http://blog.it2048.cn/article_hash-collision.html) - 一种高级的`DoS`攻击-`Hash`碰撞攻击
+- [`关于Hash Collision DoS漏洞：解析与解决方案`](http://www.iteye.com/news/23939/) - 关于`Hash Collision DoS`漏洞：解析与解决方案
+- [`脚本注入：上传文件漏洞原理及防范`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/641-web-an-quan-fang-fan/6414-shang-chuan-wen-jian-guo-lv.html) - 上传文件漏洞原理及防范
 
 ### 容灾
 
