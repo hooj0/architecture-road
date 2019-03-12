@@ -956,6 +956,12 @@ The path to growth of architects
 - [`一种高级的DoS攻击-Hash碰撞攻击`](http://blog.it2048.cn/article_hash-collision.html) - 一种高级的`DoS`攻击-`Hash`碰撞攻击
 - [`关于Hash Collision DoS漏洞：解析与解决方案`](http://www.iteye.com/news/23939/) - 关于`Hash Collision DoS`漏洞：解析与解决方案
 - [`脚本注入：上传文件漏洞原理及防范`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/641-web-an-quan-fang-fan/6414-shang-chuan-wen-jian-guo-lv.html) - 上传文件漏洞原理及防范
+- [`漏洞扫描工具: DVWA`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/6421-dvwa.html) - 漏洞扫描工具: `DVWA`
+- [`漏洞扫描工具: W3af`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/w3af.html) - 漏洞扫描工具: `W3af`
+- [`漏洞扫描工具: OpenVAS详解`](https://blog.csdn.net/xygg0801/article/details/53610640) - 漏洞扫描工具: `OpenVAS`详解
+- [`验证码原理分析及实现`](https://blog.csdn.net/niaonao/article/details/51112686) - 验证码原理分析及实现
+- [`详解滑动验证码的实现原理`](https://my.oschina.net/jiangbianwanghai/blog/1031031) - 滑动验证码是根据人在滑动滑块的响应时间，拖拽速度，时间，位置，轨迹，重试次数等来评估风险
+- 
 
 ### 容灾
 
