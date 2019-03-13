@@ -990,7 +990,21 @@ The path to growth of architects
 + [`在互联网上，隐私的范围包括哪些？`](https://www.zhihu.com/question/20137108) - 在互联网上，隐私的范围包括哪些
 + [`用户密码保存`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6425-jia-mi-chang-jing-ff1a-yong-hu-mi-ma-bao-cun.html) - 用户密码保存
 
-[`Lib之过？Java反序列化漏洞通用利用分析`](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) - `Lib`之过？`Java`反序列化漏洞通用利用分析
+**序列化**
+
++ [`Lib之过？Java反序列化漏洞通用利用分析`](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) - `Lib`之过？`Java`反序列化漏洞通用利用分析
+
+**加密解密**
+
++ [`常见对称加密算法`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6421-chang-jian-dui-cheng-jia-mi-suan-fa.html) - `DES`、`3DES`、`Blowfish`、`AES`；`DES` 采用 56位秘钥，`Blowfish` 采用1到448位变长秘钥，`AES`128，192和256位长度的秘钥；`DES` 秘钥太短（只有56位）算法目前已经被 `AES` 取代，并且 `AES` 有硬件加速，性能很好
++ [`常用的哈希算法`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6422-chang-jian-ha-xi-suan-fa-and-hmac.html) - `MD5` 和 `SHA-1` 已经不再安全，已被弃用；目前 `SHA-256` 是比较安全的
++ [`基于Hash摘要签名的公网URL签名验证设计方案`](https://blog.csdn.net/zhangruhong168/article/details/78033202) - 基于`Hash`摘要签名的公网`URL`签名验证设计方案
++ [`常见非对称加密算法`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6424-chang-yong-fei-dui-cheng-jia-mi-suan-fa.html) - `RSA、DSA、ECDSA`(螺旋曲线加密算法)；和 `RSA` 不同的是 `DSA` 仅能用于数字签名，不能进行数据加密解密，其安全性和`RSA`相当，但其性能要比`RSA`快；`256`位的`ECC`秘钥的安全性等同于3072位的`RSA`秘钥
++ [`区块链的加密技术`](http://baijiahao.baidu.com/s?id=1578348858092033763&wfr=spider&for=pc) - 区块链的加密技术
+
+**`Linux`安全**
+
++ [`15步打造一个安全的Linux服务器`](http://www.freebuf.com/articles/system/121540.html) - `Linux`强化论：15步打造一个安全的`Linux`服务器
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
