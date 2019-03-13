@@ -990,6 +990,8 @@ The path to growth of architects
 + [`在互联网上，隐私的范围包括哪些？`](https://www.zhihu.com/question/20137108) - 在互联网上，隐私的范围包括哪些
 + [`用户密码保存`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/642-shu-ju-jia-mi/6425-jia-mi-chang-jing-ff1a-yong-hu-mi-ma-bao-cun.html) - 用户密码保存
 
+[`Lib之过？Java反序列化漏洞通用利用分析`](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) - `Lib`之过？`Java`反序列化漏洞通用利用分析
+
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
 
