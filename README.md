@@ -850,6 +850,8 @@ The path to growth of architects
 
 #### 接口网关
 
+---
+
 主要职责：请求转发、安全认证、协议转换、容灾。
 
 - [`API网关`](http://yunlzheng.github.io/2017/03/14/the-things-about-api-gateway/) - `API`网关介绍
