@@ -1039,7 +1039,10 @@ The path to growth of architects
 
 ## 浏览器
 - [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载
+
 - [`selenium`](https://github.com/SeleniumHQ/selenium) - 封装了各种工具和库，可实现`Web`浏览器自动化
+
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - `Chrome`插件英雄榜, 为优秀的`Chrome`插件写一本中文说明书
 
 ## `Cli`
 - [`httpie`](https://github.com/jakubroztocil/httpie) - 现代命令行`HTTP`客户端一样简单 - 用户友好的卷曲替代方案，具有直观的`UI`，`JSON`支持，语法突出显示，类似`wget`的下载，扩展等
