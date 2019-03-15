@@ -130,7 +130,10 @@ The path to growth of architects
 - [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架
 
 ### `ORM`
+- [`ORM框架使用优缺点`](https://blog.csdn.net/sinat_34093604/article/details/53082000) - `ORM`框架使用优缺点，主要目的是为了提高开发效率
 - [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
+- [`mybatis缓存机制详解`](https://www.cnblogs.com/winclpt/articles/7511672.html) - 一级缓存是`SqlSession`级别的缓存，缓存的数据只在`SqlSession`内有效；二级缓存是`mapper`级别的缓存，同一个`namespace`公用这一个缓存，所以对`SqlSession`是共享的；使用 `LRU` 机制清理缓存，通过 `cacheEnabled` 参数开启
+- [`MyBatis学习之代码生成器Generator`](https://blog.csdn.net/baidu_32877851/article/details/53959268) - `MyBatis`学习之代码生成器`Generator`
 
 ### `Parser`
 - [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM、CSS`和`jquery`
@@ -176,6 +179,13 @@ The path to growth of architects
 
 ### `Native`
 - [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数
+
+### `Log`
+
++ [`log4j 详细讲解`](https://blog.csdn.net/u012422446/article/details/51199724) - `log4j` 详细讲解
++ [`log4j2 实际使用详解`](https://blog.csdn.net/vbirdbest/article/details/71751835) - `log4j2` 实际使用详解
++ [`Log4j1,Logback以及Log4j2性能测试对比`](https://my.oschina.net/OutOfMemory/blog/789267) - `Log4J` 异步日志性能优异
++ [`最全LogBack 详解、含java案例和配置说明`](https://blog.csdn.net/rulon147/article/details/52620541) - 最全`LogBack` 详解、含`java`案例和配置说明
 
 ### `RPC`
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
@@ -1016,6 +1026,17 @@ The path to growth of architects
 
 + [`内外网分离`]() - 内外网分离
 + [`登录跳板机——搭建简易堡垒机`](http://blog.51cto.com/zero01/2062618) - 在内外环境中通过跳板机登录到线上主机
+
+### 权限
+
++ [`RBAC基于组织角色的权限设计`](https://www.cnblogs.com/zq8024/p/5003050.html) - 基于组织角色的权限设计
++ [`权限系统与RBAC模型概述`](https://www.cnblogs.com/shijiaqi1066/p/3793894.html) - 权限系统与`RBAC`模型概述
++ [`Spring整合Shiro做权限控制模块详细案例分析`](https://blog.csdn.net/he90227/article/details/38663553) - `Spring`整合`Shiro`做权限控制模块详细案例分析
++ [`理解OAuth 2.0`](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html) - 理解`OAuth 2.0`
++ [`一张图搞定OAuth2.0`](https://www.cnblogs.com/flashsun/p/7424071.html) - 一张图搞定`OAuth2.0`
++ [`双因素认证（2FA）教程`](http://www.ruanyifeng.com/blog/2017/11/2fa-tutorial.html) - 双因素认证（`2FA`）教程
++ [`单点登录原理与简单实现`](https://www.cnblogs.com/ywlaker/p/6113927.html) - 单点登录原理与简单实现
++ [`CAS单点登录框架`](https://github.com/apereo/cas) - `CAS`单点登录框架
 
 # 工具
 工欲善其事必先利其器，不管是小白，还是资深开发，玩`Java`技术体系，选择好的工具，提升开发效率和团队协作效率，是必不可少的
