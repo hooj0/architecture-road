@@ -125,6 +125,11 @@ The path to growth of architects
 - [`spring-boot-admin`](https://github.com/codecentric/spring-boot-admin) - 用于管理`Spring`启动应用程序的`Admin UI`
 - [`spring-data-commons`](https://github.com/spring-projects/spring-data-commons) - `Spring Data Commons`各种数据存储特定实现之间共享的接口和代码。
 - [`spring-data-examples`](https://github.com/spring-projects/spring-data-examples) - `Spring`数据示例项目
+- [`Spring 简明教程`](https://www.w3cschool.cn/wkspring/) - 简明教程
+- [`Spring Boot基础教程`](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/) - `Spring Boot`基础教程
+- [`Spring Boot 中文索引站`](http://springboot.fun/) - `Spring Boot` 中文索引站
+- [`Spring Cloud 中文文档`](https://springcloud.cc/) - `Spring Cloud` 中文文档
+- [`Spring Cloud基础教程`](http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/) - `Spring Cloud`基础教程
 
 ### `IOC`
 - [`guice`](https://github.com/google/guice) - `Google`为您带来的`Java 6`及更高版本的轻量级依赖注入框架
@@ -176,6 +181,8 @@ The path to growth of architects
 - [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
 - [`retrolambda`](https://github.com/luontola/retrolambda) - 将`Java 8`的`lambda`表达式移植到`Java` 7、6和5中
 - [`resilience4j`](https://github.com/resilience4j/resilience4j) - `Resilience4j`是专为`Java8`和函数式编程设计的容错库
+- [`Apache Commons 工具类介绍及简单使用`](https://www.cnblogs.com/crazylqy/p/4872236.html) - `Apache Commons` 工具类介绍及简单使用
+- [`Google guava 中文教程`](http://ifeve.com/google-guava/) - `Google guava` 中文教程
 
 ### `Native`
 - [`java-native-access/jna`](https://github.com/java-native-access/jna) - `JNA`为`Java`程序提供了对本机共享库的轻松访问，而无需编写除`Java`代码之外的任何内容，`JNA`允许您使用自然`Java`方法调用直接调用本机函数
