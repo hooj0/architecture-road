@@ -837,7 +837,7 @@ The path to growth of architects
 **稳定/高可用设计**
 
 + [`系统设计：关于高可用系统的一些技术方案`](https://blog.csdn.net/hustspy1990/article/details/78008324) - 可扩展：水平扩展、垂直扩展。 通过冗余部署，避免单点故障；隔离：避免单一业务占用全部资源。避免业务之间的相互影响 2. 机房隔离避免单点故障；解耦：降低维护成本，降低耦合风险。减少依赖，减少相互间的影响；限流：滑动窗口计数法、漏桶算法、令牌桶算法等算法。遇到突发流量时，保证系统稳定；降级：紧急情况下释放非核心功能的资源。牺牲非核心业务，保证核心业务的高可用；熔断：异常情况超出阈值进入熔断状态，快速失败。减少不稳定的外部依赖对核心服务的影响；自动化测试：通过完善的测试，减少发布引起的故障；灰度发布：灰度发布是速度与安全性作为妥协，能够有效减少发布故障
-+ [`关于高可用的系统`](https://coolshell.cn/articles/17459.html) - 高可用的系统介绍与设计
++ [`关于高可用的系统`](https://coolshell.cn/articles/17459.html) - 设计原则：数据不丢(持久化)；服务高可用(服务副本)；绝对的100%高可用很难，目标是做到尽可能多的9，如99.999%（全年累计只有5分钟）
 
 **硬件负载均衡**
 
@@ -899,7 +899,23 @@ The path to growth of architects
 #### 负载均衡
 
 ---
+**硬件负载均衡**
+
++ [`负载均衡器技术Nginx和F5的优缺点对比`](https://www.cnblogs.com/wuyun-blog/p/6186198.html) - 主要是和`F5`对比
++ [`软/硬件负载均衡产品`](https://www.cnblogs.com/lcword/p/5773296.html)- 软/硬件负载均衡产品 你知多少？
+
+**软件负载均衡**
+
++ [`几种负载均衡算法`](https://www.cnblogs.com/tianzhiliang/articles/2317808.html) - 轮寻、权重、负载、最少连接、`QoS`
++ [`DNS负载均衡`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/611-dns-fang-shi.html) - 配置简单，更新速度慢
++ [`Nginx负载均衡`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/613-nginx-fu-zai-jun-heng.html) - 简单轻量、学习成本低；主要适用于`Web`应用
++ [`借助LVS+Keepalived实现负载均衡 `](https://www.cnblogs.com/edisonchou/p/4281978.html) - 配置比较负载、只支持到4层，性能较高
++ [`HAProxy用法详解 全网最详细中文文档`](http://www.ttlsa.com/linux/haproxy-study-tutorial/) - 支持到七层（比如`HTTP`）、功能比较全面，性能也不错
++ [`Haproxy+Keepalived+MySQL实现读均衡负载`](http://blog.itpub.net/25704976/viewspace-1319781/) - 主要是用户读请求的负载均衡
++ [`rabbitmq+haproxy+keepalived实现高可用集群搭建`](https://www.cnblogs.com/lylife/p/5584019.html) - 高可用集群搭建
+
 #### 数据同步
+
 ---
 #### 时间同步
 ---
