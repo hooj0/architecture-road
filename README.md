@@ -523,6 +523,30 @@ The path to growth of architects
 
 ### 服务器
 
++ [`Ngnix的基本学习-多进程和Apache的比较`](https://blog.csdn.net/qq_25797077/article/details/52200722) - `Nginx` 通过异步非阻塞的事件处理机制实现高并发。`Apache` 每个请求独占一个线程，非常消耗系统资源。事件驱动适合于`IO`密集型服务(`Nginx`)，多进程或线程适合于`CPU`密集型服务(`Apache`)，所以`Nginx`适合做反向代理，而非`Web`服务器使用。
++ [`Nginx与Apache的对比以及优缺点`](https://www.cnblogs.com/cunkouzh/p/5410154.html) - `nginx`只适合静态和反向代理，不适合处理动态请求
++ [`OpenResty官方网站`](http://openresty.org/cn/) - `OpenResty`官方网站
++ [`浅谈 OpenResty`](http://www.linkedkeeper.com/detail/blog.action?bid=1034) - 浅谈 `OpenResty`，通过 `Lua` 模块可以在`Nginx`上进行开发
++ [`agentzh 的 Nginx 教程`](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) - `agentzh` 的 `Nginx` 教程
++ [`Tengine官方网站`](http://tengine.taobao.org/) - `Tengine`官方网站
++ [`Apache Httpd官方网站`](http://httpd.apache.org/) - `Apache Httpd`官方网站
+
+**`Tomcat`**
+
++ [`Tomcat原理详解及请求过程`](https://www.cnblogs.com/hggen/p/6264475.html) - `TOMCAT`原理详解及请求过程
++ [`Tomcat服务器原理详解`](https://www.cnblogs.com/crazylqy/p/4706223.html) - `Tomcat`服务器原理详解
++ [`Tomcat 系统架构与设计模式工作原理`](https://www.ibm.com/developerworks/cn/java/j-lo-tomcat1/) - `Tomcat` 系统架构与设计模式工作原理
++ [`四张图带你了解Tomcat系统架构`](https://blog.csdn.net/xlgen157387/article/details/79006434) - 四张图带你了解`Tomcat`系统架构
++ [`JBoss vs. Tomcat: 选择Java服务器`](https://www.futurehosting.com/blog/jboss-vs-tomcat-choosing-a-java-application-server/) - `Tomcat` 是轻量级的 `Serverlet` 容器，没有实现全部 `JavaEE` 特性（比如持久化和事务处理），但可以通过其他组件代替，比如`Spring`。`Jboss` 实现全部了`JavaEE`特性，软件开源免费、文档收费。
++ [`Tomcat 调优方案`](https://www.cnblogs.com/sunfenqing/p/7339058.html) - 启动`NIO`模式（或者`APR`），调整线程池；禁用`AJP`连接器（`Nginx+tomcat`的架构，不需要`AJP`）
++ [`tomcat http协议与ajp协议`](http://blog.chinaunix.net/uid-20662363-id-3012760.html) - `tomcat http`协议与`ajp`协议
++ [`AJP与HTTP比较和分析`](http://dmouse.iteye.com/blog/1354527) - `AJP` 协议（8009端口）用于降低和前端`Server`（如`Apache`，而且需要支持`AJP`协议）的连接数(前端)，通过长连接提高性能。并发高时，`AJP`协议优于`HTTP`协议
+
+**`Jetty`**
+
++ [`Jetty 的工作原理以及与 Tomcat 的比较`](https://www.ibm.com/developerworks/cn/java/j-lo-jetty/) - `Jetty` 的工作原理以及与 `Tomcat` 的比较
++ [`Jetty和tomcat优势比较`](https://blog.csdn.net/doutao6677/article/details/51957288) - 架构比较：`Jetty`的架构比`Tomcat`的更为简单；性能比较：`Jetty`和`Tomcat`性能方面差异不大，`Jetty`默认采用`NIO`结束在处理`I/O`请求上更占优势，`Tomcat`默认采用`BIO`处理`I/O`请求，`Tomcat`适合处理少数非常繁忙的链接，处理静态资源时性能较差；其他方面：`Jetty`的应用更加快速，修改简单，对新的`Servlet`规范的支持较好；`Tomcat` 对`JEE`和`Servlet` 支持更加全面。
+
 ### 网络
 有关网络协议、安全、服务的框架和工具
 #### 协议
@@ -808,33 +832,6 @@ The path to growth of architects
 + [`官网`](http://shardingjdbc.io/) - `Sharding Jdbc` 官网
 + [`源码解析`](http://www.iocoder.cn/categories/Sharding-JDBC/?vip&architect-awesome) - `Sharding Jdbc` 源码解析
 
-#### `WebServer`
-
----
-
-+ [`Ngnix的基本学习-多进程和Apache的比较`](https://blog.csdn.net/qq_25797077/article/details/52200722) - `Nginx` 通过异步非阻塞的事件处理机制实现高并发。`Apache` 每个请求独占一个线程，非常消耗系统资源。事件驱动适合于`IO`密集型服务(`Nginx`)，多进程或线程适合于`CPU`密集型服务(`Apache`)，所以`Nginx`适合做反向代理，而非`Web`服务器使用。
-+ [`Nginx与Apache的对比以及优缺点`](https://www.cnblogs.com/cunkouzh/p/5410154.html) - `nginx`只适合静态和反向代理，不适合处理动态请求
-+ [`OpenResty官方网站`](http://openresty.org/cn/) - `OpenResty`官方网站
-+ [`浅谈 OpenResty`](http://www.linkedkeeper.com/detail/blog.action?bid=1034) - 浅谈 `OpenResty`，通过 `Lua` 模块可以在`Nginx`上进行开发
-+ [`agentzh 的 Nginx 教程`](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) - `agentzh` 的 `Nginx` 教程
-+ [`Tengine官方网站`](http://tengine.taobao.org/) - `Tengine`官方网站
-+ [`Apache Httpd官方网站`](http://httpd.apache.org/) - `Apache Httpd`官方网站
-
-**`Tomcat`**
-
-+ [`Tomcat原理详解及请求过程`](https://www.cnblogs.com/hggen/p/6264475.html) - `TOMCAT`原理详解及请求过程
-+ [`Tomcat服务器原理详解`](https://www.cnblogs.com/crazylqy/p/4706223.html) - `Tomcat`服务器原理详解
-+ [`Tomcat 系统架构与设计模式工作原理`](https://www.ibm.com/developerworks/cn/java/j-lo-tomcat1/) - `Tomcat` 系统架构与设计模式工作原理
-+ [`四张图带你了解Tomcat系统架构`](https://blog.csdn.net/xlgen157387/article/details/79006434) - 四张图带你了解`Tomcat`系统架构
-+ [`JBoss vs. Tomcat: 选择Java服务器`](https://www.futurehosting.com/blog/jboss-vs-tomcat-choosing-a-java-application-server/) - `Tomcat` 是轻量级的 `Serverlet` 容器，没有实现全部 `JavaEE` 特性（比如持久化和事务处理），但可以通过其他组件代替，比如`Spring`。`Jboss` 实现全部了`JavaEE`特性，软件开源免费、文档收费。
-+ [`Tomcat 调优方案`](https://www.cnblogs.com/sunfenqing/p/7339058.html) - 启动`NIO`模式（或者`APR`），调整线程池；禁用`AJP`连接器（`Nginx+tomcat`的架构，不需要`AJP`）
-+ [`tomcat http协议与ajp协议`](http://blog.chinaunix.net/uid-20662363-id-3012760.html) - `tomcat http`协议与`ajp`协议
-+ [`AJP与HTTP比较和分析`](http://dmouse.iteye.com/blog/1354527) - `AJP` 协议（8009端口）用于降低和前端`Server`（如`Apache`，而且需要支持`AJP`协议）的连接数(前端)，通过长连接提高性能。并发高时，`AJP`协议优于`HTTP`协议
-
-**`Jetty`**
-
-+ [`Jetty 的工作原理以及与 Tomcat 的比较`](https://www.ibm.com/developerworks/cn/java/j-lo-jetty/) - `Jetty` 的工作原理以及与 `Tomcat` 的比较
-+ [`Jetty和tomcat优势比较`](https://blog.csdn.net/doutao6677/article/details/51957288) - 架构比较：`Jetty`的架构比`Tomcat`的更为简单；性能比较：`Jetty`和`Tomcat`性能方面差异不大，`Jetty`默认采用`NIO`结束在处理`I/O`请求上更占优势，`Tomcat`默认采用`BIO`处理`I/O`请求，`Tomcat`适合处理少数非常繁忙的链接，处理静态资源时性能较差；其他方面：`Jetty`的应用更加快速，修改简单，对新的`Servlet`规范的支持较好；`Tomcat` 对`JEE`和`Servlet` 支持更加全面。
 
 ### 通用服务
 
@@ -844,7 +841,7 @@ The path to growth of architects
 ### 原理
 ### 策略
 
-#### 一致性
+#### 一致性策略
 
 + [`从分布式一致性谈到CAP理论、BASE理论`](http://www.cnblogs.com/szlbm/p/5588543.html) - 一致性分类：强一致(立即一致)；弱一致(可在单位时间内实现一致，比如秒级)；最终一致(弱一致的一种，一定时间内最终一致)。`CAP`：一致性、可用性、分区容错性(网络故障引起)。`BASE`：`Basically Available`（基本可用）、`Soft state`（软状态）和`Eventually consistent`（最终一致性）。`BASE`理论的核心思想是：即使无法做到强一致性，但每个应用都可以根据自身业务特点，采用适当的方式来使系统达到最终一致性。
 
@@ -857,25 +854,44 @@ The path to growth of architects
 
 #### 一致性算法
 
-**PAXOS**
+**`PAXOS`**
 
 + [`分布式系列文章——Paxos算法原理与推导`](https://www.cnblogs.com/linbingdong/p/6253479.html) - 分布式系列文章——`Paxos`算法原理与推导
 + [`Paxos-->Fast Paxos-->Zookeeper分析`](https://blog.csdn.net/u010039929/article/details/70171672) - `Paxos-->Fast Paxos-->Zookeeper`分析
 + [`分布式Zookeeper与Paxos`](https://www.cnblogs.com/leesf456/p/6012777.html) - 分布式`Zookeeper`与`Paxos`
 
-**Zab**
+**`Zab`**
 
 + [`Zab：Zookeeper 中的分布式一致性协议介绍`](https://www.jianshu.com/p/fb527a64deee) - `Zookeeper` 中的分布式一致性协议介绍
 
-**Raft**
+**`Raft`**
 
 + [`Raft 为什么是更易理解的分布式一致性算法`](http://www.cnblogs.com/mindwind/p/5231986.html) - 三种角色：`Leader`（领袖）、`Follower`（群众）、`Candidate`（候选人）；通过随机等待的方式发出投票，得票多的获胜
 
-**Gossip**
+**`Gossip`**
 
 + [`Gossip算法`](http://blog.51cto.com/tianya23/530743) - `Gossip`算法
 
+#### 多阶段提交
 
++ [`关于分布式事务、两阶段提交协议、三阶提交协议`](http://blog.jobbole.com/95632/) - 关于分布式事务、两阶段提交协议、三阶提交协议
+
+#### 幂等
+
++ [`分布式系统：幂等性设计`](https://www.cnblogs.com/wxgblogs/p/6639272.html) - 幂等特性的作用：该资源具备幂等性，请求方无需担心重复调用会产生错误；常见保证幂等的手段：`MVCC`（类似于乐观锁）、去重表(唯一索引)、悲观锁、一次性`token`、序列号方式
+
+#### 一致方案
+
++ [`分布式系统事务一致性解决方案`](http://www.infoq.com/cn/articles/solution-of-distributed-system-transaction-consistency) - 分布式系统事务一致性解决方案
++ [`保证分布式系统数据一致性的6种方案`](https://weibo.com/ttarticle/p/show?id=2309403965965003062676) - 保证分布式系统数据一致性的`6`种方案
+
+#### 主节点选举
+
++ [`利用zookeeper实现分布式leader节点选举`](https://blog.csdn.net/johnson_moon/article/details/78809995) - 利用`zookeeper`实现分布式`leader`节点选举
+
+#### `TCC(Try/Confirm/Cancel)` 柔性事务
+
++ [`传统事务与柔性事务`](https://www.jianshu.com/p/ab1a1c6b08a1) - 基于`BASE`理论：基本可用、柔性状态、最终一致；解决方案：记录日志+补偿（正向补充或者回滚）、消息重试(要求程序要幂等)；“无锁设计”、采用乐观锁机制
 
 ### 设计
 
@@ -985,6 +1001,19 @@ The path to growth of architects
 - [`Elasticsearch与Solr比较`](https://blog.csdn.net/convict_eva/article/details/53537837) - `Elasticsearch`与`Solr`比较
 - [`Sphinx 的介绍和原理探索`](http://blog.jobbole.com/101672/) - `Sphinx` 的介绍和原理探索
 - [`Elasticsearch`](https://github.com/elastic/elasticsearch) - 开源，分布式，`RESTful`搜索引擎
+
+#### 文件系统
+
+---
+
++ [`分布式文件存储系统基本架构`](https://zhuanlan.zhihu.com/p/27666295) - 说说分布式文件存储系统基本架构
++ [`各种分布式文件系统的比较`](https://blog.csdn.net/gatieme/article/details/44982961) - `HDFS`：大批量数据读写，用于高吞吐量的场景，不适合小文件；`FastDFS`：轻量级、适合小文件
+
+#### 唯一ID
+
+---
+
++ [`高并发分布式系统中生成全局唯一Id汇总`](https://www.cnblogs.com/baiwa/p/5318432.html) - 
 
 
 ## 微服务
