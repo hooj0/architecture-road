@@ -893,6 +893,10 @@ The path to growth of architects
 
 + [`传统事务与柔性事务`](https://www.jianshu.com/p/ab1a1c6b08a1) - 基于`BASE`理论：基本可用、柔性状态、最终一致；解决方案：记录日志+补偿（正向补充或者回滚）、消息重试(要求程序要幂等)；“无锁设计”、采用乐观锁机制
 
+#### 一致性`Hash`算法
+
++ [`一致性哈希算法`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/631-yi-zhi-xing-ha-xi.html) - 一致性哈希算法
+
 ### 设计
 
 **扩展设计**
