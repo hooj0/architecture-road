@@ -1041,7 +1041,16 @@ The path to growth of architects
 #### 跨机房容灾
 
 + [`“异地多活”多机房部署经验谈`](http://dc.idcquan.com/ywgl/71559.shtml) - 通过自研中间件进行数据同步
-+ [`异地多活（异地双活）实践经验`](https://blog.csdn.net/jeffreynicole/article/details/48135093) - 注意延迟问题，多次跨机房调用会将延时放大数倍；
++ [`异地多活（异地双活）实践经验`](https://blog.csdn.net/jeffreynicole/article/details/48135093) - 注意延迟问题，多次跨机房调用会将延时放大数倍；建房间专线很大概率会出现问题，做好运维和程序层面的容错；不能依赖于程序端数据双写，要有自动同步方案；数据永不在高延迟和较差网络质量下，考虑同步质量问题；核心业务和次要业务分而治之，甚至只考虑核心业务；异地多活监控部署、测试也要跟上；业务允许的情况下考虑用户分区，尤其是游戏、邮箱业务；控制跨机房消息体大小，越小越好；考虑使用`docker`容器虚拟化技术，提高动态调度能力
++ [`容灾技术及建设经验介绍`](https://blog.csdn.net/yoara/article/details/38013751) - 容灾技术及建设经验介绍
++ [容灾演练流程](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650996320&idx=1&sn=0ed3be190bbee4a9277886ef88cbb2e5) - 依赖治理、灰度发布、故障演练，阿里电商故障演练系统的设计与实战经验：常见故障画像；案例：预案有效性、预案有效性、故障复现、架构容灾测试、参数调优、参数调优、故障突袭、联合演练
+
+#### 平滑启动
+
+平滑重启应用思路：1、端流量（如`vip`层）；2、`flush` 数据(如果有)、3、重启应用
+
++ [`JVM安全退出（如何优雅的关闭java服务）`](https://blog.csdn.net/u011001084/article/details/73480432) - 推荐推出方式：`System.exit`，`Kill SIGTERM`；不推荐 `kill-9`；用 `Runtime.addShutdownHook` 注册钩子
++ [`常见Java应用如何优雅关闭`](http://ju.outofmemory.cn/entry/337235) - `Java`、`Spring`、`Dubbo` 优雅关闭方式
 
 ### 诊断
 
