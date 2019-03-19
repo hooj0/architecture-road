@@ -661,6 +661,23 @@ The path to growth of architects
 - [`opentsdb`](https://github.com/OpenTSDB/opentsdb) - 可扩展的分布式时间序列数据库
 - [`influxdb`](https://github.com/influxdata/influxdb) - 可扩展的数据存储区，用于指标，事件和实时分析
 
+#### 扩展
+
+---
+
+**读写分离模式**
+
++ [`Mysql主从方案的实现`](https://www.cnblogs.com/houdj/p/6563771.html) - `Mysql`主从方案的实现
++ [`搭建MySQL主从复制经典架构`](https://www.cnblogs.com/edisonchou/p/4133148.html) - 搭建`MySQL`主从复制经典架构
++ [`Haproxy+多台MySQL从服务器(Slave) 实现负载均衡`](https://blog.csdn.net/nimasike/article/details/48048341) - `Haproxy`+多台`MySQL`从服务器(`Slave`) 实现负载均衡
++ [`DRBD+Heartbeat+Mysql高可用读写分离架构`](https://www.cnblogs.com/zhangsubai/p/6801764.html) - `DRBD`+`Heartbeat`+`Mysql`高可用读写分离架构
++ [`MySQL Cluster 方式`](https://coderxing.gitbooks.io/architecture-evolution/di-san-pian-ff1a-bu-luo/62-ke-kuo-zhan-de-shu-ju-ku-jia-gou/621-gao-ke-yong-mysql-de-ji-zhong-fang-an/6214-mysql-cluster-fang-an.html) - `MySQL Cluster` 方式
+
+**分片模式**
+
++ [`分库分表需要考虑的问题及方案`](https://www.jianshu.com/p/32b3e91aa22c) - 中间件： 轻量级：`sharding-jdbc`、`TSharding`；重量级：`Atlas`、`MyCAT`、`Vitess`等；问题：事务、`Join`、迁移、扩容、`ID`、分页等；事务补偿：对数据进行对帐检查;基于日志进行比对;定期同标准数据来源进行同步等；分库策略：数值范围；取模；日期等；分库数量：通常 `MySQL` 单库 5千万条、`Oracle` 单库一亿条需要分库
++ [`MySql分表和表分区详解`](https://www.2cto.com/database/201503/380348.html) - 分区：是`MySQL`内部机制，对客户端透明，数据存储在不同文件中，表面上看是同一个表；分表：物理上创建不同的表、客户端需要管理分表路由
+
 ### 缓存
 - [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
 - [`Redisson`](https://github.com/redisson/redisson) -   分布式`Java`对象和服务（`Set，Multimap，SortedSet，Map，List，Queue，Deque，Semaphore，Lock，AtomicLong，Map Reduce，Publish/Subscribe，Bloom filter，Spring Cache，Tomcat，Scheduler，JCache API，Hibernate`）在`Redis`服务器上。最先进的`Redis Java`客户端
@@ -945,6 +962,16 @@ The path to growth of architects
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
+
+### 注册与发现
+
++ [`永不失联！如何实现微服务架构中的服务发现？`](https://blog.csdn.net/jiaolongdy/article/details/51188798) - 客户端服务发现模式：客户端直接查询注册表，同时自己负责负载均衡。`Eureka` 采用这种方式；服务器端服务发现模式：客户端通过负载均衡查询服务实例
++ [`SpringCloud服务注册中心比较:Consul vs Zookeeper vs Etcd vs Eureka`](https://blog.csdn.net/u010963948/article/details/71730165) - `CAP`支持：`Consul（CA）`、`zookeeper（cp）`、`etcd（cp）` 、`euerka（ap）`；作者认为目前 `Consul` 对 `Spring cloud` 的支持比较好
++ [`基于Zookeeper的服务注册与发现`](http://mobile.51cto.com/news-502394.htm) - 优点：`API`简单、`Pinterest`，`Airbnb` 在用、多语言、通过`watcher`机制来实现配置`PUSH`，能快速响应配置变化
+
+### 路由控制
+
++ [`分布式服务框架学习笔记4 服务路由`](https://blog.csdn.net/xundh/article/details/59492750) - 原则：透明化路由；负载均衡策略：随机、轮询、服务调用延迟、一致性哈希、粘滞连接；本地路由有限策略：`injvm`(优先调用`jvm`内部的服务)，`innative`(优先使用相同物理机的服务)，原则上找距离最近的服务；配置方式：统一注册表；本地配置；动态下发
 
 
 ## 虚拟化
