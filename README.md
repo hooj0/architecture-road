@@ -855,6 +855,28 @@ The path to growth of architects
 + [`jedisLock—redis分布式锁实现`](https://www.cnblogs.com/0201zcr/p/5942748.html) - 基于 `setnx(set if ont exists)`，有则返回`false`，否则返回`true`。并支持过期时间。
 + [`Memcached 和 Redis 分布式锁方案`](https://blog.csdn.net/albertfly/article/details/77412333) - 利用 `memcached` 的 `add`（有别于`set`）操作，当`key`存在时，返回`false`
 
+#### 一致性算法
+
+**PAXOS**
+
++ [`分布式系列文章——Paxos算法原理与推导`](https://www.cnblogs.com/linbingdong/p/6253479.html) - 分布式系列文章——`Paxos`算法原理与推导
++ [`Paxos-->Fast Paxos-->Zookeeper分析`](https://blog.csdn.net/u010039929/article/details/70171672) - `Paxos-->Fast Paxos-->Zookeeper`分析
++ [`分布式Zookeeper与Paxos`](https://www.cnblogs.com/leesf456/p/6012777.html) - 分布式`Zookeeper`与`Paxos`
+
+**Zab**
+
++ [`Zab：Zookeeper 中的分布式一致性协议介绍`](https://www.jianshu.com/p/fb527a64deee) - `Zookeeper` 中的分布式一致性协议介绍
+
+**Raft**
+
++ [`Raft 为什么是更易理解的分布式一致性算法`](http://www.cnblogs.com/mindwind/p/5231986.html) - 三种角色：`Leader`（领袖）、`Follower`（群众）、`Candidate`（候选人）；通过随机等待的方式发出投票，得票多的获胜
+
+**Gossip**
+
++ [`Gossip算法`](http://blog.51cto.com/tianya23/530743) - `Gossip`算法
+
+
+
 ### 设计
 
 **扩展设计**
