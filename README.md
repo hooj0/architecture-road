@@ -476,6 +476,10 @@ The path to growth of architects
   + 肿胀模式：是一种极端情况，取消`Service`层、全部业务逻辑放在`DO`中；优点：符合`OO`思想、简化了分层；缺点：暴露信息过多、很多非`DO`逻辑也会强行并入`DO`。这种模式应该避免。
   + 作者主张使用贫血模式
 
+## 开发模式
+
+
+
 ## 概要设计
 
 + [`UML教程`](https://www.w3cschool.cn/uml_tutorial/) - 掌握`UML`，并在软件设计中合理使用
