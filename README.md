@@ -1426,9 +1426,76 @@ Sonar，
 # 面试
 - [`30-seconds-of-interviews`](https://github.com/30-seconds/30-seconds-of-interviews) - 精选的常见面试问题集，帮助您准备下一次面试
 
+# 软件管理
 
+## 评审
+
++ [`架构设计之如何评审架构设计说明书`](http://developer.51cto.com/art/201506/478486.htm) - 如何评审架构设计说明书
++ [`人人都是架构师：非功能性需求`](https://blog.csdn.net/wireless_com/article/details/45935591) - 非功能性需求
+
+## 重构
+
++ [`架构之重构的12条军规`](http://www.infoq.com/cn/articles/architect-12-rules-complete/) - 架构之重构的`12`条军规
+
+## 编码规范
+
++ [`阿里巴巴Java开发手册`](https://github.com/alibaba/p3c) - 阿里巴巴`Java`开发手册
+
+## 代码 `Review`
+
++ [`为什么你做不好 Code Review？`](http://www.sohu.com/a/229745352_181657) - 为什么你做不好 `Code Review`，代码 `review` 做的好，在于制度建设
++ [`从零开始Code Review`](https://blog.csdn.net/uxyheaven/article/details/49773619) - 从零开始`Code Review`
++ [`Code Review Checklist`](https://www.cnblogs.com/zuoping/p/5477047.html) - 代码审查清单
++ [`Java Code Review Checklist`](https://dzone.com/articles/java-code-review-checklist) - 代码审查清单
++ [`如何用 gitlab 做 code review`](https://blog.csdn.net/legend0011/article/details/45585575) - 如何用 `gitlab` 做 `code review`
+
+## `RUP`
+
++ [`运用RUP 4+1视图方法进行软件架构设计`](https://blog.csdn.net/apanious/article/details/51011946)
+
+## 看板管理
+
++ [`说说看板在项目中的应用`](https://blog.csdn.net/tkchen/article/details/51637643) - 说说看板在项目中的应用
+
+## `SCRUM`
+
+`3`个角色：`Product Owner(PO) `产品负责人；`Scrum Master（SM）`，推动`Scrum`执行；`Team` 开发团队
+
+`3`个工件：`Product Backlog` 产品`TODOLIST`，含优先级；`Sprint Backlog` 功能开发 `TODO LIST`；燃尽图；
+
+五个价值观：专注、勇气、公开、承诺、尊重；
+
++ [`敏捷项目管理流程-Scrum框架最全总结！`](https://blog.csdn.net/inny100_100/article/details/54633757) - 敏捷项目管理流程
++ [`敏捷其实很简单3---敏捷方法之scrum`](https://blog.csdn.net/superkunkun/article/details/52951142) - 敏捷其实很简单
++ [`主流敏捷开发方法：极限编程XP`](http://www.woshipm.com/pmd/406917.html) 
+  + 是一种指导开发人员的方法论
+  + 4大价值：
+    + 沟通：鼓励口头沟通，提高效率。
+    + 简单：够用就好。
+    + 反馈：及时反馈、通知相关人。
+    + 勇气：提倡拥抱变化，敢于重构。
+  + 5个原则：快速反馈、简单性假设、逐步修改、提倡更改（小步快跑）、优质工作（保证质量的前提下保证小步快跑）。
+  + 5个工作：阶段性冲刺；冲刺计划会议；每日站立会议；冲刺后`review`；回顾会议。
+
+## 结对编程
+
+[`结对编程`](http://www.baike.com/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B) - 边写码，边`review`。能够增强代码质量、减少`bug`
+
+# 架构师
+
++ [`架构师图谱`](http://hellojava.info/?p=430)
+  + 业务理解和抽象能力
+  + NB的代码能力
+  + 全面：1. 在面对业务问题上，架构师脑海里是否会浮现出多种技术方案；2. 在做系统设计时是否考虑到了足够多的方方面面；3. 在做系统设计时是否考虑到了足够多的方方面面；
+  + 全局：是否考虑到了对上下游的系统的影响。
+  + 权衡：权衡投入产出比；优先级和节奏控制；
++ [`关于架构优化和设计，架构师必须知道的事情`](http://www.infoq.com/cn/articles/architecture-optimization-and-design-the-architect-must-know) - 要去考虑的细节：模块化、轻耦合、无共享架构；减少各个组件之前的依赖、注意服务之间依赖所有造成的链式失败及影响等；基础设施、配置、测试、开发、运维综合考虑；考虑人、团队、和组织的影响
++ [`如何才能真正的提高自己，成为一名出色的架构师？`](https://www.zhihu.com/question/19841397) - 提高自己，成为一名出色的架构师
++ [`架构师的必备素质和成长途径`](https://blog.csdn.net/sanbingyutuoniao123/article/details/54144129) - 素质：业务理解、技术广度、技术深度、丰富经验、沟通能力、动手能力、美学素养；成长路径：2年积累知识、4年积累技能和组内影响力、7年积累部门内影响力、7年以上积累跨部门影响力
++ [`架构设计师—你在哪层楼？`](http://blog.51cto.com/frankfan/1248401) - 第一层的架构师看到的只是产品本身；第二层的架构师不仅看到自己的产品，还看到了整体的方案；第三层的架构师看到的是商业价值
 
 # 综合
+
 - [`awesome-cheatsheets`](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
 - [`HelloGitHub`](https://github.com/521xueweihan/HelloGitHub) - 分享 `GitHub` 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目
 - [`translations`](https://github.com/oldratlee/translations) - 经典IT资源的中文翻译
