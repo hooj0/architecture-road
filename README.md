@@ -1494,6 +1494,16 @@ Sonar，
 + [`架构师的必备素质和成长途径`](https://blog.csdn.net/sanbingyutuoniao123/article/details/54144129) - 素质：业务理解、技术广度、技术深度、丰富经验、沟通能力、动手能力、美学素养；成长路径：2年积累知识、4年积累技能和组内影响力、7年积累部门内影响力、7年以上积累跨部门影响力
 + [`架构设计师—你在哪层楼？`](http://blog.51cto.com/frankfan/1248401) - 第一层的架构师看到的只是产品本身；第二层的架构师不仅看到自己的产品，还看到了整体的方案；第三层的架构师看到的是商业价值
 
+## 常用站点
+
+- [阿里中间件博客](http://jm.taobao.org/)
+- [美团点评技术团队博客](https://tech.meituan.com/)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/)
+- [酷壳 - COOLSHELL-陈皓](https://coolshell.cn/)
+- [hellojava-阿里毕玄](http://hellojava.info/)
+- [Cm's Blog](http://cmsblogs.com/)
+- [程序猿DD-翟永超-《Spring Cloud微服务实战》作者](http://blog.didispace.com/)
+
 # 综合
 
 - [`awesome-cheatsheets`](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
