@@ -529,6 +529,7 @@ todo
 ### 多线程并发
 + [`Java-concurrency`](https://github.com/CL0610/Java-concurrency) - `Java` 并发知识合集
 + [`并发知识图谱`](https://github.com/CL0610/Java-concurrency/blob/master/Java%E5%B9%B6%E5%8F%91%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.png) - `JAVA`并发知识图谱
++ [`并发优化 - 降低锁颗粒`](https://github.com/flyleft/tip/blob/master/blog/%E5%B9%B6%E5%8F%91%E4%BC%98%E5%8C%96%20-%20%E9%99%8D%E4%BD%8E%E9%94%81%E9%A2%97%E7%B2%92.md) - 降低锁颗粒
 
 ### 一致性事务
 + [`事务 ACID 特性`](https://blog.csdn.net/u012440687/article/details/52116108) - 数据库事务`ACID`特性
