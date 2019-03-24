@@ -537,6 +537,7 @@ todo
 + [`数据库事务的四大特性及事务隔离级别`](https://www.cnblogs.com/z-sm/p/7245981.html) - 数据库事务的四大特性及事务隔离级别
 + [`MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题
 + [`一篇文章带你读懂MySQL和InnoDB`](https://draveness.me/mysql-innodb) - 图解脏读、不可重复读、幻读问题
++ [数据一致性：接口调用一致性](https://github.com/flyleft/tip/blob/master/blog/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7(%E4%B8%80)%20-%20%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8%E4%B8%80%E8%87%B4%E6%80%A7.md) - 接口调用一致性
 
 ## 线程模型
 + [`40个Java多线程问题总结`](http://www.importnew.com/18459.html) - 40个`Java`多线程问题总结
@@ -584,8 +585,11 @@ todo
 ## `JVM`调优
 + [`JVM性能调优监控工具`](https://my.oschina.net/feichexia/blog/196575) - `JVM`性能调优监控工具`jps`、`jstack`、`jmap`、`jhat`、`jstat`、`hprof`使用详解
 + [`九大Java性能调试工具，必备至少一款`](https://blog.csdn.net/yethyeth/article/details/73266455) - 九大`Java`性能调试工具，必备至少一款
++ [`janus 性能优化与 JVM 调优实践`](https://mp.weixin.qq.com/s/dbgLn55Ki9pfdEerbu7awg?utm_source=tuicool&utm_medium=referral) - `janus` 性能优化与 `JVM` 调优实践
 
 ## `Web`调优
+
++ [`HTTP缓存机制`](https://juejin.im/post/5a1d4e546fb9a0450f21af23) - `HTTP`缓存机制
 
 ## `DB`调优
 
@@ -595,6 +599,11 @@ todo
 
 + [`CDN加速原理`](https://www.cnblogs.com/wxiaona/p/5867685.html) - `CDN`加速原理
 + [`国内有哪些比较好的 CDN？`](https://www.zhihu.com/question/20536932) - 国内有哪些比较好的 `CDN`
+
+## 应用调优
+
++ [zuul性能调优-使用okhttp替代httpclient](https://github.com/flyleft/tip/blob/master/blog/zuul%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98-okhttp%E6%9B%BF%E4%BB%A3httpclient.md) - `zuul性能调优`
++ 
 
 # 架构
 
@@ -709,6 +718,7 @@ todo
 有关数据库的框架和数据库相关知识
 
 + [`数据库的三大范式以及五大约束`](https://www.cnblogs.com/waj6511988/p/7027127.html) - 第一范式：数据表中的每一列（每个字段）必须是不可拆分的最小单元，也就是确保每一列的原子性；第二范式（2NF）：满足1NF后，要求表中的所有列，都必须依赖于主键，而不能有任何一列与主键没有关系，也就是说一个表只描述一件事情；第三范式：必须先满足第二范式（2NF），要求：表中的每一列只与主键直接相关而不是间接相关，（表中的每一列只能依赖于主键）
++ [`数据库事务隔离级别`](https://juejin.im/post/5b90cbf4e51d450e84776d27?utm_source=tuicool&utm_medium=referral) - 数据库事务隔离级别
 
 #### 面对对象型
 ---
