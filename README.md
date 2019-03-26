@@ -1125,6 +1125,9 @@ todo
 + [`永不失联！如何实现微服务架构中的服务发现？`](https://blog.csdn.net/jiaolongdy/article/details/51188798) - 客户端服务发现模式：客户端直接查询注册表，同时自己负责负载均衡。`Eureka` 采用这种方式；服务器端服务发现模式：客户端通过负载均衡查询服务实例
 + [`SpringCloud服务注册中心比较:Consul vs Zookeeper vs Etcd vs Eureka`](https://blog.csdn.net/u010963948/article/details/71730165) - `CAP`支持：`Consul（CA）`、`zookeeper（cp）`、`etcd（cp）` 、`euerka（ap）`；作者认为目前 `Consul` 对 `Spring cloud` 的支持比较好
 + [`基于Zookeeper的服务注册与发现`](http://mobile.51cto.com/news-502394.htm) - 优点：`API`简单、`Pinterest`，`Airbnb` 在用、多语言、通过`watcher`机制来实现配置`PUSH`，能快速响应配置变化
++ [`使用javassist修改字节码实现eureka-client监听服务启动`](https://github.com/flyleft/tip/blob/master/blog/%E4%BD%BF%E7%94%A8javassist%E4%BF%AE%E6%94%B9%E5%AD%97%E8%8A%82%E7%A0%81%E5%AE%9E%E7%8E%B0eureka-client%E7%9B%91%E5%90%AC%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8.md) - 使用`javassist`修改字节码实现`eureka-client`监听服务启动
++ [`zuul性能调优-使用okhttp替代httpclient`](https://github.com/flyleft/tip/blob/master/blog/zuul%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98-okhttp%E6%9B%BF%E4%BB%A3httpclient.md) - `zuul`性能调优-使用`okhttp`替代`httpclient`
++ [`微服务注册中心 Eureka 架构深入解读`](https://www.infoq.cn/article/jlDJQ*3wtN2PcqTDyokh?utm_source=tuicool&utm_medium=referral) - 微服务注册中心 `Eureka` 架构深入解读
 
 ### 路由控制
 
