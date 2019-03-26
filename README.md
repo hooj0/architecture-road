@@ -720,6 +720,7 @@ todo
 + [`数据库的三大范式以及五大约束`](https://www.cnblogs.com/waj6511988/p/7027127.html) - 第一范式：数据表中的每一列（每个字段）必须是不可拆分的最小单元，也就是确保每一列的原子性；第二范式（2NF）：满足1NF后，要求表中的所有列，都必须依赖于主键，而不能有任何一列与主键没有关系，也就是说一个表只描述一件事情；第三范式：必须先满足第二范式（2NF），要求：表中的每一列只与主键直接相关而不是间接相关，（表中的每一列只能依赖于主键）
 + [`数据库事务隔离级别`](https://juejin.im/post/5b90cbf4e51d450e84776d27?utm_source=tuicool&utm_medium=referral) - 数据库事务隔离级别
 + [`数据库两大神器【索引和锁】`](https://juejin.im/post/5b55b842f265da0f9e589e79) - 索引和锁
++ 
 
 #### 面对对象型
 ---
@@ -734,6 +735,7 @@ todo
 **`InnoDB`**
 
 + [`一篇文章带你读懂Mysql和InnoDB`](https://my.oschina.net/kailuncen/blog/1504217) - 一篇文章带你读懂`Mysql`和`InnoDB`
++ [`InnoDB并发如此高，原因竟然在这？`](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961444&idx=1&sn=830a93eb74ca484cbcedb06e485f611e&chksm=bd2d0db88a5a84ae5865cd05f8c7899153d16ec7e7976f06033f4fbfbecc2fdee6e8b89bb17b&scene=21#wechat_redirect) - `InnoDB`并发如此高
 
 **`优化`**
 
@@ -808,6 +810,7 @@ todo
 - [`Guava Cache`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/421-ying-yong-ceng-ben-di-huan-cun/4213-guava-cache.html) - 简单轻量、无堆外、磁盘缓存
 - [`Nginx本地缓存`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/422-fu-wu-duan-ben-di-huan-cun/nginx-ben-di-huan-cun.html) - `Nginx`本地缓存
 - [`Pagespeed`](https://coderxing.gitbooks.io/architecture-evolution/di-er-pian-ff1a-feng-kuang-yuan-shi-ren/42-xing-neng-zhi-ben-di-huan-cun/422-fu-wu-duan-ben-di-huan-cun/4222-pagespeed.html) - `Pagespeed`—懒人工具，服务器端加速
+- [`分布式Bitmap实践：Naix`](https://juejin.im/post/5ba30de85188255c5442a34a) - 分布式`Bitmap`实践：`Naix`
 
 **客户端缓存**
 
