@@ -697,6 +697,8 @@ todo
 
 ---
 - [`Netflix/zuul`](https://github.com/Netflix/zuul) - `Zuul`是一种网关服务，可提供动态路由，监控，弹性，安全性等
+- [`zuul性能调优-使用okhttp替代httpclient`](https://github.com/flyleft/tip/blob/master/blog/zuul%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98-okhttp%E6%9B%BF%E4%BB%A3httpclient.md) - `zuul`性能调优-使用`okhttp`替代`httpclient`
+- [`完全吃透 TLS/SSL`](https://juejin.im/post/5b305758e51d4558ce5ea0d9?utm_source=tuicool&utm_medium=referral) - 完全吃透 `TLS/SS`
 #### 服务
 ---
 - [`retrofit`](https://github.com/square/retrofit) - `Square，Inc。`为`Android`和`Java`提供类型安全的`HTTP`客户端
@@ -834,6 +836,7 @@ todo
 + [`分布式缓存--序列3--原子操作与CAS乐观锁`](https://blog.csdn.net/chunlongyu/article/details/53346436) - 分布式缓存--序列3--原子操作与`CAS`乐观锁
 + [`Redis单线程架构`](https://blog.csdn.net/sunhuiliang85/article/details/73656830) - `Redis`单线程架构
 + [`Redis的回收策略`](https://blog.csdn.net/qq_29108585/article/details/63251491) - `Redis`的回收策略
++ [`Redis高可用技术解决方案总结`](http://dbaplus.cn/news-158-2182-1.html?utm_source=tuicool&utm_medium=referral) - `Redis`高可用技术解决方案总结
 + [`Tair官方网站`](https://github.com/alibaba/tair) - `Tair`官方网站
 + [`Tair和Redis的对比`](http://blog.csdn.net/farphone/article/details/53522383) - 特点：可以配置备份节点数目，通过异步同步到备份节点；一致性`Hash`算法；架构：和`Hadoop` 的设计思想类似，有`Configserver`，`DataServer`，`Configserver` 通过心跳来检测，`Configserver`也有主备关系。
 
@@ -932,6 +935,14 @@ todo
 
 ## 分布式
 ### 原理
+
+- [分布式理论(一) - CAP定理](https://juejin.im/post/5b26634b6fb9a00e765e75d1?utm_source=tuicool&utm_medium=referral)
+- [分布式理论(二) - BASE理论](https://juejin.im/post/5b2663fcf265da59a401e6f8)
+- [分布式理论(三) - 2PC协议](https://juejin.im/post/5b2664446fb9a00e4a53136e)
+- [分布式理论(四) - 3PC协议](https://juejin.im/post/5b26648e5188257494641b9f)
+- [分布式理论(五) - 一致性算法Paxos](https://juejin.im/post/5b2664bd51882574874d8a76)
+- [分布式理论(六) - 一致性协议Raft](https://juejin.im/post/5b2664e2f265da59584d8c90)
+
 ### 策略
 
 #### 一致性策略
@@ -1129,7 +1140,6 @@ todo
 + [`SpringCloud服务注册中心比较:Consul vs Zookeeper vs Etcd vs Eureka`](https://blog.csdn.net/u010963948/article/details/71730165) - `CAP`支持：`Consul（CA）`、`zookeeper（cp）`、`etcd（cp）` 、`euerka（ap）`；作者认为目前 `Consul` 对 `Spring cloud` 的支持比较好
 + [`基于Zookeeper的服务注册与发现`](http://mobile.51cto.com/news-502394.htm) - 优点：`API`简单、`Pinterest`，`Airbnb` 在用、多语言、通过`watcher`机制来实现配置`PUSH`，能快速响应配置变化
 + [`使用javassist修改字节码实现eureka-client监听服务启动`](https://github.com/flyleft/tip/blob/master/blog/%E4%BD%BF%E7%94%A8javassist%E4%BF%AE%E6%94%B9%E5%AD%97%E8%8A%82%E7%A0%81%E5%AE%9E%E7%8E%B0eureka-client%E7%9B%91%E5%90%AC%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8.md) - 使用`javassist`修改字节码实现`eureka-client`监听服务启动
-+ [`zuul性能调优-使用okhttp替代httpclient`](https://github.com/flyleft/tip/blob/master/blog/zuul%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98-okhttp%E6%9B%BF%E4%BB%A3httpclient.md) - `zuul`性能调优-使用`okhttp`替代`httpclient`
 + [`微服务注册中心 Eureka 架构深入解读`](https://www.infoq.cn/article/jlDJQ*3wtN2PcqTDyokh?utm_source=tuicool&utm_medium=referral) - 微服务注册中心 `Eureka` 架构深入解读
 
 ### 路由控制
