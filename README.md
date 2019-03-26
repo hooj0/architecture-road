@@ -1093,7 +1093,14 @@ todo
 #### 数据同步
 
 ---
+#### 数据存储
+
+---
+
++ [`聊聊分布式存储——图解Paxos`](https://www.jianshu.com/p/002a357d5993?utm_source=tuicool&utm_medium=referral) - 图解`Paxos`
+
 #### 时间同步
+
 ---
 #### 分布式事务
 ---
