@@ -1170,6 +1170,10 @@ todo
 + [`基于Zookeeper的服务注册与发现`](http://mobile.51cto.com/news-502394.htm) - 优点：`API`简单、`Pinterest`，`Airbnb` 在用、多语言、通过`watcher`机制来实现配置`PUSH`，能快速响应配置变化
 + [`使用javassist修改字节码实现eureka-client监听服务启动`](https://github.com/flyleft/tip/blob/master/blog/%E4%BD%BF%E7%94%A8javassist%E4%BF%AE%E6%94%B9%E5%AD%97%E8%8A%82%E7%A0%81%E5%AE%9E%E7%8E%B0eureka-client%E7%9B%91%E5%90%AC%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8.md) - 使用`javassist`修改字节码实现`eureka-client`监听服务启动
 + [`微服务注册中心 Eureka 架构深入解读`](https://www.infoq.cn/article/jlDJQ*3wtN2PcqTDyokh?utm_source=tuicool&utm_medium=referral) - 微服务注册中心 `Eureka` 架构深入解读
++ [`ZooKeeper`](http://zookeeper.apache.org/) - 一个分布式的，开放源码的分布式应用程序协调服务，使用`Paxos`算法
++ [`Etcd`](https://github.com/coreos/etcd) - 一个键值存储仓库，用于配置共享和服务发现， 使用`Raft`算法
++ [`Consul`](https://github.com/hashicorp/consul) - `HashiCorp`公司推出的开源工具，用于实现分布式系统的服务发现与配置，使用`Raft`算法
++ [`Eureka`](https://github.com/Netflix/eureka) - `Netflix`开源的，`java`开发，基于`restful`
 
 ### 路由控制
 
