@@ -1107,9 +1107,10 @@ todo
 #### 时间同步
 
 ---
-#### 分布式事务
+#### 事务管理
 ---
 - [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案
+- 
 
 #### 检索
 ---
@@ -1186,6 +1187,9 @@ todo
 - [`docker-swarm-visualizer`](https://github.com/dockersamples/docker-swarm-visualizer) - `Docker Swarm`模式的可视化工具，使用`Docker Remote API`、`Node.JS`和`D3`
 - [`dockerize`](https://github.com/jwilder/dockerize) - 简化在`docker`容器中运行应用程序
 - [`ansible-container`](https://github.com/ansible/ansible-container) - `Ansible Container`是一个使用`Ansible playbooks`构建`Docker`镜像和编排容器的工具
+- [`Knative`](https://github.com/knative) - `Knative`：用于构建、部署和管理`Serverless`工作负载的`Kubernetes`框架
+- [`TAC`](https://github.com/alibaba/tac) - `TAC`基于`java`的微服务容器，提供从业务代码编写、编译、发布、`jar`动态加载、运行等一系列常用开发流程的支持
+- [`gVisor`](https://github.com/google/gvisor) - `gVisor：Google`开源的轻量级的`Sandbox`，额外的内存消耗非常小，但同时提供了和`VM`方案相当隔离等级
 
 ### 镜像
 - [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
@@ -1270,6 +1274,7 @@ todo
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
 - [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么
 - [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库
+- [`Supervisor`](http://www.supervisord.org/) - `Supervisor`进程管理工具，是通过`fork/exec`的方式将这些被管理的进程当作`supervisor`的子进程来启动。
 
 ### 保护
 
