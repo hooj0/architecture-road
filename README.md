@@ -229,6 +229,7 @@ The path to growth of architects
 - [`Dragonboat`](https://github.com/lni/dragonboat) - 高性能`raft`库
 - [`revive`](https://github.com/mgechev/revive) - 代码质量检测工具
 - [`gotests`](https://github.com/cweill/gotests) - 快速生成单元测试的命令行工具
+- [`casbin`](https://github.com/casbin/casbin) - 开源访问控制框架，支持`ACL, RBAC, ABAC`等
 
 ## `JavaScript`
 - [`grpc-web`](https://github.com/improbable-eng/grpc-web) - `Golang`和`TypeScript`的`gRPC Web`实现
@@ -874,6 +875,8 @@ todo
 ---
 - [`apereo/cas`](https://github.com/apereo/cas) - `Apereo CAS`  - 企业单一登录适用于所有地球人及其他人
 - [`scribejava`](https://github.com/scribejava/scribejava) - 适用于`Java`的简单`OAuth`库
+- [`Apache Shiro`](http://shiro.apache.org/get-started.html) - 一个强大且易用的`Java`安全框架,执行身份验证、授权、密码学和会话管理
+- [`Spring Security`](http://projects.spring.io/spring-security/) - 一个能够为基于`Spring`的企业应用系统提供声明式的安全访问控制解决方案的安全框架
 
 ### 公共组件
 #### 消息队列
@@ -1049,6 +1052,8 @@ todo
 - [`incubator-dubbo`](https://github.com/apache/incubator-dubbo) - `Apache Dubbo`（孵化）是一个基于`Java`的高性能开源`RPC`框架
 - [`从零开始实现RPC框架`](https://blog.csdn.net/top_code/article/details/54615853) - 从零开始实现`RPC`框架 - `RPC`原理及实现：核心角色：`Server`：暴露服务的服务提供方、`Client`：调用远程服务的服务消费方、`Registry`：服务注册与发现的注册中心。
 - [`分布式RPC框架性能大比拼`](https://blog.csdn.net/testcs_dn/article/details/78050590) - 分布式RPC框架性能大比拼 `dubbo`、`motan`、`rpcx`、`gRPC`、`thrift`的性能比较
+- [`motan`](https://github.com/weibocom/motan) - 新浪轻量级`RPC`框架
+- [`SOFARPC`](https://github.com/alipay/sofa-rpc.git) - 蚂蚁金服一个高可扩展性、高性能、生产级的 Java RPC 框架, 提供了丰富的模型抽象和可扩展接口
 
 **`Dubbo`**
 
@@ -1165,6 +1170,11 @@ todo
 ### 微服务框架
 - [`istio`](https://github.com/istio/istio) - 一个连接、管理和保护微服务的开放平台
 - [`spring-cloud-alibaba`](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) - `Spring Cloud`阿里巴巴为阿里巴巴中间件的分布式解决方案提供应用程序开发的一站式解决方案
+- [`dubbo`](http://dubbo.io/) - 一个分布式服务框架，致力于提供高性能和透明化的`RPC`远程服务调用方案，是阿里巴巴`SOA`服务化治理方案的核心框架
+- [`dubbox`](https://github.com/dangdangdotcom/dubbox) - 当当根据自身的需求，为`Dubbo`实现了一些新的功能，并将其命名为`Dubbox`
+- [`finatra`](https://github.com/twitter/finatra) - `twitter`基于`scala`开发
+- 
+- 
 
 ### 注册与发现
 
