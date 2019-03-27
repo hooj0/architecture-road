@@ -45,6 +45,7 @@ The path to growth of architects
 - [`learn-go-with-tests`](https://github.com/quii/learn-go-with-tests) - 通过测试驱动开发学习`Go`
 - [`the-way-to-go_ZH_CN`](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《`The Way to Go`》中文译本，中文正式名《`Go` 入门指南》
 - [`go-fundamental-programming`](https://github.com/Unknwon/go-fundamental-programming) - 《`Go` 编程基础》是一套针对 `Google` 出品的 `Go` 语言的视频语音教程，主要面向新手级别的学习者
+- [`awesome-go`](https://github.com/avelino/awesome-go) - `go`的开源项目收集
 
 ## `JavaScript`
 - [`wtfjs`](https://github.com/denysdovhan/wtfjs) - `JavaScript` 小技巧、难点
@@ -218,6 +219,16 @@ The path to growth of architects
 - [`sarama`](https://github.com/Shopify/sarama) - `Sarama`是`Apache Kafka 0.8`的`Go`库
 - [`ansi`](https://github.com/mgutz/ansi) - 小而快的库，用于创建`ANSI`彩色字符串和代码
 - [`urfave/cli`](https://github.com/urfave/cli) - 一个简单，快速，有趣的包，用于在`Go`中构建命令行应用程序
+- [`machinery`](https://github.com/RichardKnop/machinery) - `go`的分布式任务队列
+- [`cobra`](https://github.com/spf13/cobra) - `CLI`命令行库，也可用于生成程序应用和命令行文件
+- [`iris`](https://github.com/kataras/iris) - 支持`http2,websocket,MVC`的高性能框架
+- [`go-kit`](https://github.com/go-kit/kit) - 微服务开发工具集
+- [`protoactor-go`](https://github.com/AsynkronIT/protoactor-go) - 的`Actor`模型并发库
+- [`uber-go/dig`](https://github.com/uber-go/dig.git) - 依赖注入
+- [`pkg/errors`](https://github.com/pkg/errors.git) - 异常处理库
+- [`Dragonboat`](https://github.com/lni/dragonboat) - 高性能`raft`库
+- [`revive`](https://github.com/mgechev/revive) - 代码质量检测工具
+- [`gotests`](https://github.com/cweill/gotests) - 快速生成单元测试的命令行工具
 
 ## `JavaScript`
 - [`grpc-web`](https://github.com/improbable-eng/grpc-web) - `Golang`和`TypeScript`的`gRPC Web`实现
@@ -258,6 +269,10 @@ The path to growth of architects
 - [`quicklink`](https://github.com/GoogleChromeLabs/quicklink) - 在谷歌浏览器预加载文件，提高访问速度
 - [`carlo`](https://github.com/GoogleChromeLabs/carlo) - `Node`和浏览器之间进行通信
 - [`squoosh`](https://github.com/GoogleChromeLabs/squoosh) - 在浏览器中使用同类最佳的编解码器缩小图像
+
+## `Go`
+
++ [`pprof`](https://github.com/google/pprof) - 一个开源`goLang`的性能分析工具
 
 
 # 平台
@@ -1190,6 +1205,9 @@ todo
 - [`Knative`](https://github.com/knative) - `Knative`：用于构建、部署和管理`Serverless`工作负载的`Kubernetes`框架
 - [`TAC`](https://github.com/alibaba/tac) - `TAC`基于`java`的微服务容器，提供从业务代码编写、编译、发布、`jar`动态加载、运行等一系列常用开发流程的支持
 - [`gVisor`](https://github.com/google/gvisor) - `gVisor：Google`开源的轻量级的`Sandbox`，额外的内存消耗非常小，但同时提供了和`VM`方案相当隔离等级
+- [`Pouch`](https://github.com/alibaba/pouchs) - `Pouch`：阿里巴巴开源的自研容器技术
+- [`container-diff`](https://github.com/GoogleCloudPlatform/container-diff) - `container-diff`： `Google` 开源 `Docker` 镜像差异分析工具
+- [`Kubernetes`](https://kubernetes.io/) - 谷歌开源用于自动化部署，扩展和管理集装箱化应用程序的系统
 
 ### 镜像
 - [`kafka-docker`](https://github.com/wurstmeister/kafka-docker) - `Apache Kafka`的`Dockerfile`
@@ -1275,6 +1293,7 @@ todo
 - [`metrics`](https://github.com/dropwizard/metrics) - 捕获`JVM`和应用程序级指标。所以你知道发生了什么
 - [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库
 - [`Supervisor`](http://www.supervisord.org/) - `Supervisor`进程管理工具，是通过`fork/exec`的方式将这些被管理的进程当作`supervisor`的子进程来启动。
+- [`TProfiler`](https://github.com/alibaba/TProfiler) - 一个阿里开源可以在生产环境长期使用的JVM性能分析工具
 
 ### 保护
 
