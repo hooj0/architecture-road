@@ -490,7 +490,9 @@ todo
 
 #### `RxJava`
 
-todo
+- [`一篇的比较全面的 RxJava2 方法总结`](https://juejin.im/post/5b72f76551882561354462dd) - 一篇的比较全面的 `RxJava2` 方法总结
+- [`RxJava2：背压和Flowable`](https://juejin.im/post/5b759b9cf265da283719d187) - `RxJava2`：背压和`Flowable`
+- [`RxJava2：使用 Subject`](https://juejin.im/post/5b801dfa51882542cb409905) - `RxJava2`：使用 `Subject`
 
 #### `Vert.x`
 
@@ -571,7 +573,9 @@ todo
 + [`Java如何查看死锁？`](https://blog.csdn.net/u014039577/article/details/52351626) - `JConsole` 可以识别死锁
 + [`Java多线程系列：死锁及检测`](https://blog.csdn.net/bohu83/article/details/51135061) - `jstack` 可以显示死锁
 
+## 分布式事务
 
++ [`GTS:微服务架构下分布式事务解决方案`](https://zhuanlan.zhihu.com/p/37492435?utm_source=tuicool&utm_medium=referral) - `GTS`微服务架构下分布式事务解决方案
 
 # 性能
 任何脱离细节的`ppt`架构师都是耍流氓，向上能运筹帷幄，向下能解决一线性能问题
@@ -837,6 +841,7 @@ todo
 + [`Redis单线程架构`](https://blog.csdn.net/sunhuiliang85/article/details/73656830) - `Redis`单线程架构
 + [`Redis的回收策略`](https://blog.csdn.net/qq_29108585/article/details/63251491) - `Redis`的回收策略
 + [`Redis高可用技术解决方案总结`](http://dbaplus.cn/news-158-2182-1.html?utm_source=tuicool&utm_medium=referral) - `Redis`高可用技术解决方案总结
++ [`Redlock算法: 使用Redis实现分布式锁的算法`](https://github.com/redisson/redisson/wiki/8.-Distributed-locks-and-synchronizers) - `Redlock算法: 使用Redis实现分布式锁的算法`
 + [`Tair官方网站`](https://github.com/alibaba/tair) - `Tair`官方网站
 + [`Tair和Redis的对比`](http://blog.csdn.net/farphone/article/details/53522383) - 特点：可以配置备份节点数目，通过异步同步到备份节点；一致性`Hash`算法；架构：和`Hadoop` 的设计思想类似，有`Configserver`，`DataServer`，`Configserver` 通过心跳来检测，`Configserver`也有主备关系。
 
@@ -1130,6 +1135,7 @@ todo
 
 + [`高并发分布式系统中生成全局唯一Id汇总`](https://www.cnblogs.com/baiwa/p/5318432.html) - `Twitter` 方案（`Snowflake` 算法）：41位时间戳+10位机器标识（比如IP，服务器名称等）+12位序列号(本地计数器)；`Flicker` 方案：`MySQL`自增ID + `"REPLACE INTO XXX:SELECT LAST_INSERT_ID();"`；`UUID`：缺点，无序，字符串过长，占用空间，影响检索性能；`MongoDB` 方案：利用 `ObjectId`。缺点：不能自增；
 + [`TDDL 在分布式下的SEQUENCE原理`](https://blog.csdn.net/hdu09075340/article/details/79103851) - 在数据库中创建 `sequence` 表，用于记录，当前已被占用的id最大值；每台客户端主机取一个id区间（比如 `1000~2000`）缓存在本地，并更新 `sequence` 表中的`id`最大值记录；客户端主机之间取不同的id区间，用完再取，使用乐观锁机制控制并发
++ [`Snowflake: Twitter的分布式自增ID算法`](https://github.com/twitter-archive/snowflake/releases/tag/snowflake-2010) - `Snowflake: Twitter`的分布式自增`ID`算法
 
 
 ## 微服务
