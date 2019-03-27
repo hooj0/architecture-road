@@ -529,6 +529,9 @@ todo
 
 + [`什么是Service Mesh？`](https://time.geekbang.org/article/2355) - 什么是`Service Mesh`
 + [`初识 Service Mesh`](https://www.jianshu.com/p/e23e3e74538e) - 初识 `Service Mes`
++ [`Istio`](https://istio.io/) - `Google/IBM/Lyft`共同开发的新一代`Service Mesh`开源项目, 运行在`k8s`上
++ [`sofa-mesh`](https://github.com/alipay/sofa-mesh) - 蚂蚁金服基于 `Istio` 改进和扩展而来的 `Service Mesh` 大规模落地实践方案
++ [`sofa-mosn`](https://github.com/alipay/sofa-mosn) - 蚂蚁金服基于 `Golang` 开发的`Service Mesh`数据平面代理, `MOSN`支持`Envoy`和`Istio`的`API`，可以和`Istio`集成
 
 ## 概要设计
 
