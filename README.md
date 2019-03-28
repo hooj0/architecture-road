@@ -140,6 +140,9 @@ The path to growth of architects
 - [`mybatis-3`](https://github.com/mybatis/mybatis-3) - 用于`Java`的`MyBatis SQL`映射器框架
 - [`mybatis缓存机制详解`](https://www.cnblogs.com/winclpt/articles/7511672.html) - 一级缓存是`SqlSession`级别的缓存，缓存的数据只在`SqlSession`内有效；二级缓存是`mapper`级别的缓存，同一个`namespace`公用这一个缓存，所以对`SqlSession`是共享的；使用 `LRU` 机制清理缓存，通过 `cacheEnabled` 参数开启
 - [`MyBatis学习之代码生成器Generator`](https://blog.csdn.net/baidu_32877851/article/details/53959268) - `MyBatis`学习之代码生成器`Generator`
+- [`Spring data JPA`](http://projects.spring.io/spring-data-jpa/) - `Hibernate二次封装，开发效率高，自动帮你完成很多东西`
+- [`JOOQ` ](http://www.jooq.org/) - `DSL`写法，有点类似动态语言了，感觉中小项目用起来会很爽
+- [`spring data mongo`](http://projects.spring.io/spring-data-mongodb/) - 类似`spring data jpa`，开发效率高，复杂操作使用`MongoTemplate`
 
 ### `Parser`
 - [`jsoup`](https://github.com/jhy/jsoup) - `Java HTML Parser`，具有最好的`DOM、CSS`和`jquery`
@@ -152,6 +155,9 @@ The path to growth of architects
 
 ### `Template Engine`
 - [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
+- [`freemarker`](http://freemarker.org/docs/) - 老牌模板引擎
+- [`velocity`](http://velocity.apache.org/) - 模板引擎
+- [`thymeleaf`](http://www.thymeleaf.org/documentation.html) - 性能稍微差点，不过越来越快了，不跑服务器可以直接在浏览器显示，开发起来比较爽
 
 ### `Connect Pool`
 - [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
@@ -194,6 +200,7 @@ The path to growth of architects
 + [`log4j2 实际使用详解`](https://blog.csdn.net/vbirdbest/article/details/71751835) - `log4j2` 实际使用详解
 + [`Log4j1,Logback以及Log4j2性能测试对比`](https://my.oschina.net/OutOfMemory/blog/789267) - `Log4J` 异步日志性能优异
 + [`最全LogBack 详解、含java案例和配置说明`](https://blog.csdn.net/rulon147/article/details/52620541) - 最全`LogBack` 详解、含`java`案例和配置说明
++ [`commons-logging`](http://commons.apache.org/proper/commons-logging/) - 日志接口，会自动装载具体的日志系统，采用`ClassLoader`寻找和载入底层的日志库，没有第三方会使用`JDK`自带
 
 ### `RPC`
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
