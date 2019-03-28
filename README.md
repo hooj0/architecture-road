@@ -166,6 +166,7 @@ The path to growth of architects
 
 ### `Connect Pool`
 - [`druid`](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
+- [`HikariCP`](http://brettwooldridge.github.io/HikariCP/) - 性能最高的数据库连接池
 
 ### `Cache`
 - [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
@@ -199,7 +200,9 @@ The path to growth of architects
 
 
 ### `Tests`
-- [`mockito`](https://github.com/mockito/mockito) - 用Java编写的单元测试最流行的`Mocking`框架
+- [`mockito`](https://github.com/mockito/mockito) - 用`Java`编写的单元测试最流行的`Mocking`框架，允许使用自动化的单元测试创建和测试双对象，以达到测试驱动开发和行为驱动开发的目的
+- [`JUnit`](http://junit.org/junit4/) - 最常使用的单元测试工具
+- [`TestNG`](http://testng.org/doc/index.html) - 主要功能是覆盖范围更广的测试分类，如单元、功能性、端到端，一体化等
 
 ### `Utils`
 - [`guava`](https://github.com/google/guava) - 适用于`Java`的`Google`核心库
@@ -228,6 +231,15 @@ The path to growth of architects
 + [`spring mvc`](https://spring.io/guides/gs/rest-service/) - 类加个`@RestController`或者方法加个`@ResponseBody`
 + [`jersey`](https://jersey.java.net/) - 实现了`JAX-RS`规范
 + [`resteasy`](http://resteasy.jboss.org/) - `JBoss`项目，实现了`JAX-RS`规范，性能高
+
+### `Message Queue`
+
++ [`ActiveMQ`](http://activemq.apache.org/) - 完全支持`JMS1.1`和`J2EE 1.4`规范的消息队列
++ [`RabbitMq`](http://www.rabbitmq.com/) - `Erlang`编写，在`AMQP`基础上完整的，可复用的企业消息系统
++ [`kafka`](http://kafka.apache.org/) - `scala`编写的高吞吐量的分布式发布订阅消息系统，常用于日志
++ [`RocketMQ`](https://github.com/apache/incubator-rocketmq) - 阿里巴巴的`MQ`中间件,在其多个产品下使用，并能够撑住双十一的大流量
++ [`Apache Pulsar`](http://pulsar.incubator.apache.org/) - 雅虎开发的企业级的发布订阅消息系统
++ [`Apache DistributedLog`](https://bookkeeper.apache.org/distributedlog/) - `Twitter`开发的一个低延时（毫秒级）、高吞吐的分布式复制日志流系统
 
 ## `Python`
 
@@ -292,6 +304,13 @@ The path to growth of architects
 - [`auto`](https://github.com/google/auto) - `Java`的源代码生成器的集合
 - [`hsweb-framework`](https://github.com/hs-web/hsweb-framework/) - `hsweb`是一个用于快速搭建企业后台管理系统的基础项目，集成一揽子便捷功能
 - [`arthas`](https://github.com/alibaba/arthas) - `Java`诊断利器`Arthas`
+
+### 热加载
+
++ [`JRebel`](https://zeroturnaround.com/software/jrebel/) - 收费，`idea，eclipse，netbeans`都有它的插件
++ [`spring-loaded`](https://github.com/spring-projects/spring-loaded) - `spring`开源热更新工具
++ [`spring-boot-devtools`](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-devtools) - `spring boot`子模块，热更新工具
++ [`HotswapAgent`](https://github.com/HotswapProjects/HotswapAgent) - 免费开源热更新
 
 ## `Node`
 - [`React Starter Kit`](https://github.com/kriasoft/react-starter-kit) -   同构Web应用程序样板（`Node.js`，`Express`，`GraphQL`，`React.js`，`Babel`，`PostCSS`，`Webpack`，`Browsersync`）
@@ -533,9 +552,11 @@ TODO
 
 #### `Reactor`
 
-todo
++ [`reactor`](http://projectreactor.io/) - `spring`社区开源，在`spring 5.0`直接引入
 
 #### `RxJava`
+
++ [`RxJava`](https://github.com/ReactiveX/RxJava) - 安卓上用的特别多，特别与`RxAndroid,Retrofit`等结合使用
 
 - [`一篇的比较全面的 RxJava2 方法总结`](https://juejin.im/post/5b72f76551882561354462dd) - 一篇的比较全面的 `RxJava2` 方法总结
 - [`RxJava2：背压和Flowable`](https://juejin.im/post/5b759b9cf265da283719d187) - `RxJava2`：背压和`Flowable`
@@ -543,7 +564,7 @@ todo
 
 #### `Vert.x`
 
-todo
++ [`vert.x` ](http://vertx.io/) - 基于`netty`，可以通过它使用`JavaScript、Ruby、Groovy、Java`，甚至是混合语言来编写应用
 
 ### `DODAF2.0`
 
@@ -640,6 +661,7 @@ todo
 + [`JVM性能调优监控工具`](https://my.oschina.net/feichexia/blog/196575) - `JVM`性能调优监控工具`jps`、`jstack`、`jmap`、`jhat`、`jstat`、`hprof`使用详解
 + [`九大Java性能调试工具，必备至少一款`](https://blog.csdn.net/yethyeth/article/details/73266455) - 九大`Java`性能调试工具，必备至少一款
 + [`janus 性能优化与 JVM 调优实践`](https://mp.weixin.qq.com/s/dbgLn55Ki9pfdEerbu7awg?utm_source=tuicool&utm_medium=referral) - `janus` 性能优化与 `JVM` 调优实践
++ [`jmh`](http://openjdk.java.net/projects/code-tools/jmh/) - 性能微基准测试工具
 
 ## `Web`调优
 
@@ -657,7 +679,6 @@ todo
 ## 应用调优
 
 + [zuul性能调优-使用okhttp替代httpclient](https://github.com/flyleft/tip/blob/master/blog/zuul%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98-okhttp%E6%9B%BF%E4%BB%A3httpclient.md) - `zuul性能调优`
-+ 
 
 # 架构
 
@@ -1342,6 +1363,7 @@ todo
 - [`RxJava`](https://github.com/ReactiveX/RxJava) -  `JVM`的`Reactive Extensions`  - 一个使用`Java VM`的可观察序列组成异步和基于事件的程序的库
 - [`Supervisor`](http://www.supervisord.org/) - `Supervisor`进程管理工具，是通过`fork/exec`的方式将这些被管理的进程当作`supervisor`的子进程来启动。
 - [`TProfiler`](https://github.com/alibaba/TProfiler) - 一个阿里开源可以在生产环境长期使用的JVM性能分析工具
+- [`greys-anatomy`](https://github.com/oldmanpushcart/greys-anatomy) - `Java`问题在线诊断工具
 
 ### 保护
 
