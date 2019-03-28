@@ -152,6 +152,13 @@ The path to growth of architects
 ### `Serialization`
 - [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器
 - [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
+- [FlatBuffers: 相较于Protocol Buffers，其更适用于移动设备](https://github.com/google/flatbuffers)
+- [protobuf: 高性能，跨语言，也是google出品](https://github.com/google/protobuf)
+- [jprotobuf: 针对Java程序开发一套简易类库，目的是简化java语言对protobuf类库的使用](https://github.com/jhunters/jprotobuf)
+- [FST: 重新实现的Java快速对象序列化的开发包,序列化速度更快、体积更小，而且兼容JDK原生的序列化](https://github.com/RuedigerMoeller/fast-serialization)
+- [Kryo: 快速高效的Java序列化框架,支持论文件、数据库或网络数据，自动深拷贝、浅拷贝](https://github.com/EsotericSoftware/kryo)
+- [MessagePack: 基于二进制高效的对象序列化类库,跨语言,比JSON更快速也更轻巧](https://github.com/msgpack/msgpack)
+- [thrift: 跨语言，不仅仅包括序列化，是一个远程服务调用框架，facebook开源](http://thrift.apache.org/)
 
 ### `Validator`
 
