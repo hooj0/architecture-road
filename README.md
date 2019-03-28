@@ -152,13 +152,13 @@ The path to growth of architects
 ### `Serialization`
 - [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器
 - [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
-- [FlatBuffers: 相较于Protocol Buffers，其更适用于移动设备](https://github.com/google/flatbuffers)
-- [protobuf: 高性能，跨语言，也是google出品](https://github.com/google/protobuf)
-- [jprotobuf: 针对Java程序开发一套简易类库，目的是简化java语言对protobuf类库的使用](https://github.com/jhunters/jprotobuf)
-- [FST: 重新实现的Java快速对象序列化的开发包,序列化速度更快、体积更小，而且兼容JDK原生的序列化](https://github.com/RuedigerMoeller/fast-serialization)
-- [Kryo: 快速高效的Java序列化框架,支持论文件、数据库或网络数据，自动深拷贝、浅拷贝](https://github.com/EsotericSoftware/kryo)
-- [MessagePack: 基于二进制高效的对象序列化类库,跨语言,比JSON更快速也更轻巧](https://github.com/msgpack/msgpack)
-- [thrift: 跨语言，不仅仅包括序列化，是一个远程服务调用框架，facebook开源](http://thrift.apache.org/)
+- [`FlatBuffers`](https://github.com/google/flatbuffers) - 相较于`Protocol Buffers`，其更适用于移动设备
+- [`protobuf`](https://github.com/google/protobuf) - 高性能，跨语言，也是`google`出品
+- [`jprotobuf`](https://github.com/jhunters/jprotobuf) - 针对`Java`程序开发一套简易类库，目的是简化`java`语言对`protobuf`类库的使用
+- [`FST`](https://github.com/RuedigerMoeller/fast-serialization) - 重新实现的`Java`快速对象序列化的开发包,序列化速度更快、体积更小，而且兼容`JDK`原生的序列化
+- [`Kryo`](https://github.com/EsotericSoftware/kryo) - 快速高效的`Java`序列化框架,支持论文件、数据库或网络数据，自动深拷贝、浅拷贝
+- [`MessagePack`](https://github.com/msgpack/msgpack) - 基于二进制高效的对象序列化类库，跨语言，比`JSON`更快速也更轻巧
+- [`thrift`](http://thrift.apache.org/) - 跨语言，不仅仅包括序列化，是一个远程服务调用框架，`facebook`开源
 
 ### `Validator`
 
@@ -247,6 +247,13 @@ The path to growth of architects
 + [`RocketMQ`](https://github.com/apache/incubator-rocketmq) - 阿里巴巴的`MQ`中间件,在其多个产品下使用，并能够撑住双十一的大流量
 + [`Apache Pulsar`](http://pulsar.incubator.apache.org/) - 雅虎开发的企业级的发布订阅消息系统
 + [`Apache DistributedLog`](https://bookkeeper.apache.org/distributedlog/) - `Twitter`开发的一个低延时（毫秒级）、高吞吐的分布式复制日志流系统
+
+### `Bytecode`
+
++ [`ASM`](http://asm.ow2.org/) - 是一个 `Java` 字节码操控框架。它能够以二进制形式修改已有类或者动态生成类、性能高，但不如`javassist`简单
++ [`Javassist`](http://jboss-javassist.github.io/javassist/) - 是一个开源的分析、编辑和创建`Java`字节码的类库，无须了解JVM指令，`java`编码即可
++ [`jd-gui`](http://jd.benow.ca/) - `java`反编译
++ [`jbe`](http://www.cs.ioc.ee/~ando/jbe/) -  `java`字节码修改工具
 
 ## `Python`
 
@@ -877,6 +884,16 @@ TODO
 
 + [`分库分表需要考虑的问题及方案`](https://www.jianshu.com/p/32b3e91aa22c) - 中间件： 轻量级：`sharding-jdbc`、`TSharding`；重量级：`Atlas`、`MyCAT`、`Vitess`等；问题：事务、`Join`、迁移、扩容、`ID`、分页等；事务补偿：对数据进行对帐检查;基于日志进行比对;定期同标准数据来源进行同步等；分库策略：数值范围；取模；日期等；分库数量：通常 `MySQL` 单库 5千万条、`Oracle` 单库一亿条需要分库
 + [`MySql分表和表分区详解`](https://www.2cto.com/database/201503/380348.html) - 分区：是`MySQL`内部机制，对客户端透明，数据存储在不同文件中，表面上看是同一个表；分表：物理上创建不同的表、客户端需要管理分表路由
+
+#### 工具
+
+---
+
++ [`Flyway`](https://flywaydb.org/) - 是一个敏捷工具，用于数据库的移植
++ [`liquibase`](http://www.liquibase.org/) - 一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具。支持`xml，groovy`编写
++ [`Apache Impala`](http://impala.apache.org/community.html) - 是一个高性能分析数据库，可针对存储在 `Apache Hadoop` 集群中的 `PB` 级数据进行闪电般快速的分布式 `SQL` 查询
++ [`MyFlash`](https://github.com/Meituan-Dianping/MyFlash) - 美团点评的开源MySQL闪回工具
++ [`Ctrip DAL`](https://github.com/ctripcorp/dal) - 是携程框架部开发的数据库访问框架，支持代码生成和水平扩展
 
 ### 缓存
 - [`caffeine`](https://github.com/ben-manes/caffeine) - 适用于`Java 8`的高性能缓存库
