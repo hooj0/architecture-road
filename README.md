@@ -223,6 +223,12 @@ The path to growth of architects
 ### `RPC`
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
 
+### `RESTful`
+
++ [`spring mvc`](https://spring.io/guides/gs/rest-service/) - 类加个`@RestController`或者方法加个`@ResponseBody`
++ [`jersey`](https://jersey.java.net/) - 实现了`JAX-RS`规范
++ [`resteasy`](http://resteasy.jboss.org/) - `JBoss`项目，实现了`JAX-RS`规范，性能高
+
 ## `Python`
 
 ### `Log`
