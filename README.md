@@ -201,6 +201,7 @@ The path to growth of architects
 + [`Log4j1,Logback以及Log4j2性能测试对比`](https://my.oschina.net/OutOfMemory/blog/789267) - `Log4J` 异步日志性能优异
 + [`最全LogBack 详解、含java案例和配置说明`](https://blog.csdn.net/rulon147/article/details/52620541) - 最全`LogBack` 详解、含`java`案例和配置说明
 + [`commons-logging`](http://commons.apache.org/proper/commons-logging/) - 日志接口，会自动装载具体的日志系统，采用`ClassLoader`寻找和载入底层的日志库，没有第三方会使用`JDK`自带
++ [`slf4j`](http://www.slf4j.org/) - 日志接口，通过各种桥接包判断实现，在编译时静态绑定真正的日志库
 
 ### `RPC`
 - [`grpc-java`](https://github.com/grpc/grpc-java) - `Java gRPC`实现，基于`HTTP/2`的`RPC`
@@ -216,6 +217,13 @@ The path to growth of architects
 
 ### `Crawler`
 - [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架
+
+### `Search`
+
++ [`ElasticSearch`](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html) - 基于`Lucene RESTful web`接口的搜索服务器
++ [`Solr`](http://lucene.apache.org/solr/) - 高性能，基于`Lucene`的全文搜索服务器
++ [`Lucene`](https://lucene.apache.org/) - 一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎
++ [`Nutch`](http://nutch.apache.org/) - 提供了我们运行自己的搜索引擎所需的全部工具，包括全文搜索和`Web`爬虫
 
 ### `Web Framework`
 - [`flask`](https://github.com/pallets/flask) - 用于构建`Web`应用程序的`Python`微框架
