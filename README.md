@@ -153,6 +153,11 @@ The path to growth of architects
 - [`fastjson`](https://github.com/alibaba/fastjson) - 用于`Java`的快速`JSON`解析器/生成器
 - [`protostuff`](https://github.com/protostuff/protostuff) - `Java`序列化库，`proto`编译器，代码生成器
 
+### `Validator`
+
++ [`Hibernate Validator`](http://hibernate.org/validator/)
++ [`Bean Validation`](http://beanvalidation.org/) - 基于`Hibernate Validator`
+
 ### `Template Engine`
 - [`jetbrick-template-2x`](https://github.com/subchen/jetbrick-template-2x) - `Java`模板引擎
 - [`freemarker`](http://freemarker.org/docs/) - 老牌模板引擎
@@ -165,9 +170,21 @@ The path to growth of architects
 ### `Cache`
 - [`AutoLoadCache`](https://github.com/qiujiayu/AutoLoadCache) - `AutoLoadCache` 是基于`AOP+Annotation`等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用
 
+### `Search`
+
+- [`ElasticSearch`](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html) - 基于`Lucene RESTful web`接口的搜索服务器
+- [`Solr`](http://lucene.apache.org/solr/) - 高性能，基于`Lucene`的全文搜索服务器
+- [`Lucene`](https://lucene.apache.org/) - 一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎
+- [`Nutch`](http://nutch.apache.org/) - 提供了我们运行自己的搜索引擎所需的全部工具，包括全文搜索和`Web`爬虫
+
 ### `Crawler`
 - [`gecco`](https://github.com/xtuhcy/gecco) - 易用的轻量化网络爬虫
 - [`webmagic`](https://github.com/code4craft/webmagic) - 适用于`Java`的可扩展`Web`爬网程序框架
+- [`WebMagic`](https://git.oschina.net/flashsword20/webmagic) - 国产，完全模块化的设计,支持多线程抓取，分布式抓取，并支持自动重试、自定义`UA/cookie`等功能
+- [`Heritrix`](https://webarchive.jira.com/wiki/display/Heritrix) - 最出色之处在于它良好的可扩展性，方便用户实现自己的抓取逻辑
+- [`jsoup`](https://jsoup.org/) -  一款`Java` 的`HTML`解析器，可直接解析`URL`地址、`HTML`文本内容
+- [`crawler4j`](https://github.com/yasserg/crawler4j) - 提供了简单易用的接口，可以在几分钟内创建一个多线程网络爬虫
+- [`WebCollector`](http://crawlscript.github.io/WebCollector/) - 一个无须配置、便于二次开发爬虫内核，它提供精简的的`API`，只需少量代码即可实现一个功能强大的爬虫
 
 ### `Barcode`
 - [`zxing`](https://github.com/zxing/zxing) - `ZXing（Zebra Crossing）`用于`Java/Android`的条形码扫描库
@@ -217,13 +234,6 @@ The path to growth of architects
 
 ### `Crawler`
 - [`scrapy`](https://github.com/scrapy/scrapy) - `Scrapy`一个用于`Python`的快速高级`Web`爬行和抓取框架
-
-### `Search`
-
-+ [`ElasticSearch`](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html) - 基于`Lucene RESTful web`接口的搜索服务器
-+ [`Solr`](http://lucene.apache.org/solr/) - 高性能，基于`Lucene`的全文搜索服务器
-+ [`Lucene`](https://lucene.apache.org/) - 一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎
-+ [`Nutch`](http://nutch.apache.org/) - 提供了我们运行自己的搜索引擎所需的全部工具，包括全文搜索和`Web`爬虫
 
 ### `Web Framework`
 - [`flask`](https://github.com/pallets/flask) - 用于构建`Web`应用程序的`Python`微框架
