@@ -1209,7 +1209,6 @@ TODO
 #### 事务管理
 ---
 - [`fescar`](https://github.com/alibaba/fescar) - `Fescar`是一种易于使用，高性能，基于`Java`的开源分布式事务解决方案
-- 
 
 #### 检索
 ---
@@ -1249,8 +1248,6 @@ TODO
 - [`dubbo`](http://dubbo.io/) - 一个分布式服务框架，致力于提供高性能和透明化的`RPC`远程服务调用方案，是阿里巴巴`SOA`服务化治理方案的核心框架
 - [`dubbox`](https://github.com/dangdangdotcom/dubbox) - 当当根据自身的需求，为`Dubbo`实现了一些新的功能，并将其命名为`Dubbox`
 - [`finatra`](https://github.com/twitter/finatra) - `twitter`基于`scala`开发
-- 
-- 
 
 ### 注册与发现
 
