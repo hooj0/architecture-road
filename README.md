@@ -1682,3 +1682,4 @@ Sonar，
 
 ### 参考资料
 + https://github.com/xingshaocheng/architect-awesome
++ https://github.com/flyleft/tip
