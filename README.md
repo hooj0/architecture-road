@@ -624,7 +624,7 @@ TODO
 + [`数据库事务的四大特性及事务隔离级别`](https://www.cnblogs.com/z-sm/p/7245981.html) - 数据库事务的四大特性及事务隔离级别
 + [`MySQL的InnoDB的幻读问题`](http://blog.sina.com.cn/s/blog_499740cb0100ugs7.html) - `MySQL`的`InnoDB`的幻读问题
 + [`一篇文章带你读懂MySQL和InnoDB`](https://draveness.me/mysql-innodb) - 图解脏读、不可重复读、幻读问题
-+ [数据一致性：接口调用一致性](https://github.com/flyleft/tip/blob/master/blog/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7(%E4%B8%80)%20-%20%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8%E4%B8%80%E8%87%B4%E6%80%A7.md) - 接口调用一致性
++ [`数据一致性：接口调用一致性`](https://github.com/flyleft/tip/blob/master/blog/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7(%E4%B8%80)%20-%20%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8%E4%B8%80%E8%87%B4%E6%80%A7.md) - 接口调用一致性
 
 ## 线程模型
 + [`40个Java多线程问题总结`](http://www.importnew.com/18459.html) - 40个`Java`多线程问题总结
@@ -1458,6 +1458,7 @@ TODO
 ### `Vim`
 - [`vim-galore-zh_cn`](https://github.com/wsdjeg/vim-galore-zh_cn) - `Vim` 从入门到精通
 - [`SpaceVim`](https://github.com/SpaceVim/SpaceVim) - 社区驱动的模块化`vim`发行版 - 最终的`vim`配置
+- [`Vim快捷键`](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt) - 快捷键
 
 ## 浏览器
 - [`proxyee-down`](https://github.com/proxyee-down-org/proxyee-down) - `http`下载工具，基于`http`代理，支持多连接分块下载。支持百度云文件分块下载
