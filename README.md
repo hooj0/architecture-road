@@ -75,6 +75,7 @@ The path to growth of architects
 - [`fengyuhetao/shell`](https://github.com/fengyuhetao/shell) - `Linux`命令行与`shell`脚本编程大全案例
 - [`awesome-shell`](https://github.com/alebcay/awesome-shell) - 精选的命令行框架，工具包，指南和小玩意的精选列表
 - [`the-art-of-command-line`](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行
+- [`Bash 命令教程`](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh) - `Bash` 命令教程
 
 ## `Android`
 - [`android_guides`](https://github.com/codepath/android_guides) - 面向`Android`开发人员的广泛开源指南
